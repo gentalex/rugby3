@@ -1,0 +1,114 @@
+[
+    {
+        "Equipes":"Union Bordeaux-Bègles",
+        "Pts":"51",
+        "Matchs joués":"15",
+        "Gagnés":"11",
+        "Nuls":"0",
+        "Perdus":"4"
+    },
+    {
+        "Equipes":"Stade Toulousain",
+        "Pts":"51",
+        "Matchs joués":"15",
+        "Gagnés":"10",
+        "Nuls":"1",
+        "Perdus":"4"
+    },
+    {
+        "Equipes":"RC Toulon",
+        "Pts":"48",
+        "Matchs joués":"15",
+        "Gagnés":"10",
+        "Nuls":"0",
+        "Perdus":"5"
+    },
+    {
+        "Equipes":"Aviron Bayonnais",
+        "Pts":"39",
+        "Matchs joués":"15",
+        "Gagnés":"9",
+        "Nuls":"0",
+        "Perdus":"6"
+    },
+    {
+        "Equipes":"ASM Clermont",
+        "Pts":"38",
+        "Matchs joués":"15",
+        "Gagnés":"8",
+        "Nuls":"0",
+        "Perdus":"7"
+    },
+    {
+        "Equipes":"Stade Rochelais",
+        "Pts":"36",
+        "Matchs joués":"15",
+        "Gagnés":"8",
+        "Nuls":"0",
+        "Perdus":"7"
+    },
+    {
+        "Equipes":"Castres Olympique",
+        "Pts":"35",
+        "Matchs joués":"15",
+        "Gagnés":"8",
+        "Nuls":"0",
+        "Perdus":"7"
+    },
+    {
+        "Equipes":"Montpellier Hérault Rugby",
+        "Pts":"34",
+        "Matchs joués":"15",
+        "Gagnés":"7",
+        "Nuls":"0",
+        "Perdus":"8"
+    },
+    {
+        "Equipes":"LOU Rugby",
+        "Pts":"30",
+        "Matchs joués":"15",
+        "Gagnés":"6",
+        "Nuls":"2",
+        "Perdus":"7"
+    },
+    {
+        "Equipes":"Section Paloise",
+        "Pts":"29",
+        "Matchs joués":"15",
+        "Gagnés":"6",
+        "Nuls":"0",
+        "Perdus":"9"
+    },
+    {
+        "Equipes":"USA Perpignan",
+        "Pts":"28",
+        "Matchs joués":"15",
+        "Gagnés":"6",
+        "Nuls":"0",
+        "Perdus":"9"
+    },
+    {
+        "Equipes":"Racing 92",
+        "Pts":"26",
+        "Matchs joués":"15",
+        "Gagnés":"5",
+        "Nuls":"1",
+        "Perdus":"9"
+    },
+    {
+        "Equipes":"Stade Français Paris",
+        "Pts":"24",
+        "Matchs joués":"15",
+        "Gagnés":"5",
+        "Nuls":"0",
+        "Perdus":"10"
+    },
+    {
+        "Equipes":"RC Vannes",
+        "Pts":"20",
+        "Matchs joués":"15",
+        "Gagnés":"4",
+        "Nuls":"0",
+        "Perdus":"11"
+    }
+]

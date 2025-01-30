@@ -1,0 +1,114 @@
+[
+    {
+        "Equipes":"Stade Toulousain",
+        "Pts":"22",
+        "Matchs joués":"8",
+        "Gagnés":"4",
+        "Nuls":"1",
+        "Perdus":"3"
+    },
+    {
+        "Equipes":"Union Bordeaux-Bègles",
+        "Pts":"19",
+        "Matchs joués":"7",
+        "Gagnés":"4",
+        "Nuls":"0",
+        "Perdus":"3"
+    },
+    {
+        "Equipes":"Montpellier Hérault Rugby",
+        "Pts":"11",
+        "Matchs joués":"8",
+        "Gagnés":"2",
+        "Nuls":"0",
+        "Perdus":"6"
+    },
+    {
+        "Equipes":"LOU Rugby",
+        "Pts":"11",
+        "Matchs joués":"8",
+        "Gagnés":"2",
+        "Nuls":"1",
+        "Perdus":"5"
+    },
+    {
+        "Equipes":"RC Toulon",
+        "Pts":"11",
+        "Matchs joués":"7",
+        "Gagnés":"2",
+        "Nuls":"0",
+        "Perdus":"5"
+    },
+    {
+        "Equipes":"Racing 92",
+        "Pts":"10",
+        "Matchs joués":"8",
+        "Gagnés":"2",
+        "Nuls":"0",
+        "Perdus":"6"
+    },
+    {
+        "Equipes":"Aviron Bayonnais",
+        "Pts":"10",
+        "Matchs joués":"8",
+        "Gagnés":"2",
+        "Nuls":"0",
+        "Perdus":"6"
+    },
+    {
+        "Equipes":"ASM Clermont",
+        "Pts":"9",
+        "Matchs joués":"8",
+        "Gagnés":"2",
+        "Nuls":"0",
+        "Perdus":"6"
+    },
+    {
+        "Equipes":"Castres Olympique",
+        "Pts":"6",
+        "Matchs joués":"7",
+        "Gagnés":"1",
+        "Nuls":"0",
+        "Perdus":"6"
+    },
+    {
+        "Equipes":"RC Vannes",
+        "Pts":"6",
+        "Matchs joués":"7",
+        "Gagnés":"1",
+        "Nuls":"0",
+        "Perdus":"6"
+    },
+    {
+        "Equipes":"Stade Rochelais",
+        "Pts":"5",
+        "Matchs joués":"7",
+        "Gagnés":"1",
+        "Nuls":"0",
+        "Perdus":"6"
+    },
+    {
+        "Equipes":"USA Perpignan",
+        "Pts":"2",
+        "Matchs joués":"7",
+        "Gagnés":"0",
+        "Nuls":"0",
+        "Perdus":"7"
+    },
+    {
+        "Equipes":"Section Paloise",
+        "Pts":"2",
+        "Matchs joués":"7",
+        "Gagnés":"0",
+        "Nuls":"0",
+        "Perdus":"7"
+    },
+    {
+        "Equipes":"Stade Français Paris",
+        "Pts":"1",
+        "Matchs joués":"8",
+        "Gagnés":"0",
+        "Nuls":"0",
+        "Perdus":"8"
+    }
+]
