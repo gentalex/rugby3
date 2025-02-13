@@ -1,0 +1,92 @@
+date,heure,domicile,extérieur
+07/09/2024,14:30,Bayonne,Perpignan
+07/09/2024,16:30,Clermont,Pau
+07/09/2024,16:30,Castres,Racing 92
+07/09/2024,16:30,Montpellier,Lyon
+07/09/2024,21:05,Bordeaux-Bègles,Stade Français
+08/09/2024,17:00,La Rochelle,Toulon
+08/09/2024,21:05,Vannes,Stade Toulousain
+14/09/2024,14:30,Toulon,Castres
+14/09/2024,14:30,Stade Français,Vannes
+14/09/2024,16:30,Racing 92,Clermont
+14/09/2024,16:30,Pau,Bayonne
+14/09/2024,16:30,Perpignan,Montpellier
+14/09/2024,21:05,Lyon,Bordeaux-Bègles
+15/09/2024,21:05,Stade Toulousain,La Rochelle
+21/09/2024,14:30,Montpellier,Stade Toulousain
+21/09/2024,16:30,Clermont,Bayonne
+21/09/2024,16:30,Castres,Perpignan
+21/09/2024,16:30,Vannes,Lyon
+21/09/2024,16:30,La Rochelle,Pau
+21/09/2024,21:05,Bordeaux-Bègles,Racing 92
+22/09/2024,21:05,Stade Français,Toulon
+28/09/2024,14:30,Perpignan,Clermont
+28/09/2024,16:30,Bayonne,Montpellier
+28/09/2024,16:30,Lyon,Castres
+28/09/2024,16:30,Racing 92,La Rochelle
+28/09/2024,16:30,Toulon,Vannes
+28/09/2024,21:05,Pau,Stade Français
+29/09/2024,21:05,Stade Toulousain,Bordeaux-Bègles
+05/10/2024,14:30,Vannes,Racing 92
+05/10/2024,16:30,Stade Français,Montpellier
+05/10/2024,16:30,La Rochelle,Lyon
+05/10/2024,16:30,Bordeaux-Bègles,Bayonne
+05/10/2024,16:30,Perpignan,Pau
+05/10/2024,21:05,Castres,Stade Toulousain
+06/10/2024,21:05,Clermont,Toulon
+12/10/2024,14:30,Racing 92,Toulon
+12/10/2024,16:30,Bayonne,La Rochelle
+12/10/2024,16:30,Montpellier,Vannes
+12/10/2024,16:30,Pau,Castres
+12/10/2024,16:30,Bordeaux-Bègles,Perpignan
+12/10/2024,21:05,Stade Toulousain,Clermont
+13/10/2024,21:05,Lyon,Stade Français
+19/10/2024,14:30,Bayonne,Racing 92
+19/10/2024,16:30,Clermont,Vannes
+19/10/2024,16:30,Castres,Stade Français
+19/10/2024,16:30,Toulon,Montpellier
+19/10/2024,16:30,Perpignan,Lyon
+19/10/2024,21:05,Pau,Stade Toulousain
+20/10/2024,21:05,La Rochelle,Bordeaux-Bègles
+26/10/2024,14:30,Bordeaux-Bègles,Pau
+26/10/2024,16:30,Lyon,Bayonne
+26/10/2024,16:30,Montpellier,La Rochelle
+26/10/2024,16:30,Racing 92,Perpignan
+26/10/2024,16:30,Vannes,Castres
+26/10/2024,21:05,Stade Français,Clermont
+27/10/2024,21:05,Stade Toulousain,Toulon
+02/11/2024,14:30,Clermont,Bordeaux-Bègles
+02/11/2024,16:30,Castres,Montpellier
+02/11/2024,16:30,Toulon,Lyon
+02/11/2024,16:30,Pau,Racing 92
+02/11/2024,16:30,Perpignan,Vannes
+02/11/2024,21:05,La Rochelle,Stade Français
+03/11/2024,21:05,Bayonne,Stade Toulousain
+23/11/2024,14:30,Toulon,Bayonne
+23/11/2024,16:30,Castres,La Rochelle
+23/11/2024,16:30,Lyon,Clermont
+23/11/2024,16:30,Montpellier,Pau
+23/11/2024,16:30,Stade Toulousain,Perpignan
+23/11/2024,21:05,Vannes,Bordeaux-Bègles
+24/11/2024,21:05,Stade Français,Racing 92
+30/11/2024,14:30,Racing 92,Stade Toulousain
+30/11/2024,16:30,Clermont,Castres
+30/11/2024,16:30,Pau,Lyon
+30/11/2024,16:30,La Rochelle,Vannes
+30/11/2024,16:30,Bordeaux-Bègles,Montpellier
+30/11/2024,21:05,Perpignan,Toulon
+01/12/2024,21:05,Bayonne,Stade Français
+21/12/2024,14:30,La Rochelle,Clermont
+21/12/2024,16:30,Montpellier,Racing 92
+21/12/2024,16:30,Toulon,Pau
+21/12/2024,16:30,Vannes,Bayonne
+21/12/2024,16:30,Stade Français,Perpignan
+21/12/2024,21:05,Castres,Bordeaux-Bègles
+22/12/2024,21:05,Lyon,Stade Toulousain
+28/12/2024,14:00,Pau,Vannes
+28/12/2024,16:00,Bayonne,Castres
+28/12/2024,18:00,Clermont,Montpellier
+28/12/2024,21:05,Bordeaux-Bègles,Toulon
+29/12/2024,16:00,Racing 92,Lyon
+29/12/2024,18:00,Perpignan,La Rochelle
+29/12/2024,21:05,Stade Toulousain,Stade Français
