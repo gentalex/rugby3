@@ -1,4 +1,4 @@
-,latitude,longitude
+Nom_stades,latitude,longitude,Equipes
 Stade Ernest-Wallon,43.6198,1.4093,Toulouse
 Stade Chaban-Delmas,44.8297,-0.595,Union Bordeaux-Bègles
 Paris La Défense Arena,48.8924,2.2255,Racing 92
@@ -8,7 +8,7 @@ Stade Marcel-Michelin,45.786,3.109,ASM Clermont
 Stade Mayol,43.1167,5.931,RC Toulon
 Stade Marcel-Deflandre,46.1667,-1.1517,Stade Rochelais
 GGL Stadium,43.5833,3.848,Montpellier Hérault Rugby
-Stade Aimé-Giral,42.7108,2.8956,CA Brive
+Stade Amédée-Domenech,45.1616,1.5486,CA Brive
 Stade du Hameau,43.2917,-0.37,Section Paloise
 Stade Jean-Dauger,43.4847,-1.4672,Aviron Bayonnais
 Stade Pierre-Fabre,43.6031,2.2436,Castres Olympique
