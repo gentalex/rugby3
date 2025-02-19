@@ -1,0 +1,2185 @@
+,Equipes,Pts,Matchs joués,Gagnés,Nuls,Perdus,Journée,Season,ID_equipes
+0,LOU Rugby,5,1,1,0,0,J1,2019-2020,1
+1,RC Toulon,5,1,1,0,0,J1,2019-2020,2
+2,Section Paloise,4,1,1,0,0,J1,2019-2020,3
+3,ASM Clermont,4,1,1,0,0,J1,2019-2020,4
+4,Aviron Bayonnais,4,1,1,0,0,J1,2019-2020,5
+5,Union Bordeaux-Bègles,4,1,1,0,0,J1,2019-2020,6
+6,Castres Olympique,4,1,1,0,0,J1,2019-2020,7
+7,Montpellier Hérault Rugby,1,1,0,0,1,J1,2019-2020,8
+8,Stade Toulousain,1,1,0,0,1,J1,2019-2020,9
+9,Racing 92,0,1,0,0,1,J1,2019-2020,10
+10,Stade Rochelais,0,1,0,0,1,J1,2019-2020,11
+11,CA Brive,0,1,0,0,1,J1,2019-2020,12
+12,SU Agen,0,1,0,0,1,J1,2019-2020,13
+13,Stade Français Paris,0,1,0,0,1,J1,2019-2020,14
+0,LOU Rugby,9,2,2,0,0,J2,2019-2020,1
+1,Union Bordeaux-Bègles,9,2,2,0,0,J2,2019-2020,6
+2,ASM Clermont,8,2,2,0,0,J2,2019-2020,4
+3,Montpellier Hérault Rugby,6,2,1,0,1,J2,2019-2020,8
+4,Aviron Bayonnais,5,2,1,0,1,J2,2019-2020,5
+5,RC Toulon,5,2,1,0,1,J2,2019-2020,2
+6,Racing 92,4,2,1,0,1,J2,2019-2020,10
+7,Castres Olympique,4,2,1,0,1,J2,2019-2020,7
+8,Section Paloise,4,2,1,0,1,J2,2019-2020,3
+9,SU Agen,4,2,1,0,1,J2,2019-2020,13
+10,Stade Rochelais,4,2,1,0,1,J2,2019-2020,11
+11,Stade Toulousain,1,2,0,0,2,J2,2019-2020,9
+12,Stade Français Paris,1,2,0,0,2,J2,2019-2020,14
+13,CA Brive,0,2,0,0,2,J2,2019-2020,12
+0,LOU Rugby,13,3,3,0,0,J3,2019-2020,1
+1,Union Bordeaux-Bègles,13,3,3,0,0,J3,2019-2020,6
+2,Montpellier Hérault Rugby,10,3,2,0,1,J3,2019-2020,8
+3,ASM Clermont,8,3,2,0,1,J3,2019-2020,4
+4,Section Paloise,8,3,2,0,1,J3,2019-2020,3
+5,Racing 92,5,3,1,0,2,J3,2019-2020,10
+6,Aviron Bayonnais,5,3,1,0,2,J3,2019-2020,5
+7,Stade Toulousain,5,3,1,0,2,J3,2019-2020,9
+8,Stade Français Paris,5,3,1,0,2,J3,2019-2020,14
+9,Castres Olympique,5,3,1,0,2,J3,2019-2020,7
+10,RC Toulon,5,3,1,0,2,J3,2019-2020,2
+11,SU Agen,4,3,1,0,2,J3,2019-2020,13
+12,CA Brive,4,3,1,0,2,J3,2019-2020,12
+13,Stade Rochelais,4,3,1,0,2,J3,2019-2020,11
+0,LOU Rugby,18,4,4,0,0,J4,2019-2020,1
+1,Union Bordeaux-Bègles,18,4,4,0,0,J4,2019-2020,6
+2,Section Paloise,12,4,3,0,1,J4,2019-2020,3
+3,Montpellier Hérault Rugby,10,4,2,0,2,J4,2019-2020,8
+4,Aviron Bayonnais,9,4,2,0,2,J4,2019-2020,5
+5,RC Toulon,9,4,2,0,2,J4,2019-2020,2
+6,ASM Clermont,8,4,2,0,2,J4,2019-2020,4
+7,Stade Rochelais,8,4,2,0,2,J4,2019-2020,11
+8,SU Agen,8,4,2,0,2,J4,2019-2020,13
+9,Racing 92,6,4,1,0,3,J4,2019-2020,10
+10,Castres Olympique,5,4,1,0,3,J4,2019-2020,7
+11,Stade Toulousain,5,4,1,0,3,J4,2019-2020,9
+12,Stade Français Paris,5,4,1,0,3,J4,2019-2020,14
+13,CA Brive,4,4,1,0,3,J4,2019-2020,12
+0,LOU Rugby,22,5,5,0,0,J5,2019-2020,1
+1,Union Bordeaux-Bègles,20,5,4,1,0,J5,2019-2020,6
+2,Section Paloise,13,5,3,0,2,J5,2019-2020,3
+3,Aviron Bayonnais,13,5,3,0,2,J5,2019-2020,5
+4,ASM Clermont,12,5,3,0,2,J5,2019-2020,4
+5,Montpellier Hérault Rugby,12,5,2,1,2,J5,2019-2020,8
+6,RC Toulon,9,5,2,0,3,J5,2019-2020,2
+7,Stade Rochelais,9,5,2,0,3,J5,2019-2020,11
+8,Castres Olympique,9,5,2,0,3,J5,2019-2020,7
+9,SU Agen,9,5,2,0,3,J5,2019-2020,13
+10,Stade Toulousain,9,5,2,0,3,J5,2019-2020,9
+11,CA Brive,8,5,2,0,3,J5,2019-2020,12
+12,Racing 92,6,5,1,0,4,J5,2019-2020,10
+13,Stade Français Paris,5,5,1,0,4,J5,2019-2020,14
+0,LOU Rugby,26,6,6,0,0,J6,2019-2020,1
+1,Union Bordeaux-Bègles,21,6,4,1,1,J6,2019-2020,6
+2,Aviron Bayonnais,17,6,4,0,2,J6,2019-2020,5
+3,ASM Clermont,16,6,4,0,2,J6,2019-2020,4
+4,Castres Olympique,14,6,3,0,3,J6,2019-2020,7
+5,Section Paloise,13,6,3,0,3,J6,2019-2020,3
+6,RC Toulon,13,6,3,0,3,J6,2019-2020,2
+7,Montpellier Hérault Rugby,12,6,2,1,3,J6,2019-2020,8
+8,CA Brive,12,6,3,0,3,J6,2019-2020,12
+9,Racing 92,11,6,2,0,4,J6,2019-2020,10
+10,SU Agen,10,6,2,0,4,J6,2019-2020,13
+11,Stade Rochelais,9,6,2,0,4,J6,2019-2020,11
+12,Stade Toulousain,9,6,2,0,4,J6,2019-2020,9
+13,Stade Français Paris,5,6,1,0,5,J6,2019-2020,14
+0,LOU Rugby,30,7,7,0,0,J7,2019-2020,1
+1,Union Bordeaux-Bègles,26,7,5,1,1,J7,2019-2020,6
+2,Aviron Bayonnais,21,7,5,0,2,J7,2019-2020,5
+3,ASM Clermont,16,7,4,0,3,J7,2019-2020,4
+4,Stade Toulousain,14,7,3,0,4,J7,2019-2020,9
+5,Stade Rochelais,14,7,3,0,4,J7,2019-2020,11
+6,RC Toulon,14,7,3,0,4,J7,2019-2020,2
+7,Castres Olympique,14,7,3,0,4,J7,2019-2020,7
+8,Racing 92,13,7,2,1,4,J7,2019-2020,10
+9,Montpellier Hérault Rugby,13,7,2,1,4,J7,2019-2020,8
+10,Section Paloise,13,7,3,0,4,J7,2019-2020,3
+11,SU Agen,12,7,2,1,4,J7,2019-2020,13
+12,CA Brive,12,7,3,0,4,J7,2019-2020,12
+13,Stade Français Paris,9,7,2,0,5,J7,2019-2020,14
+0,LOU Rugby,30,8,7,0,1,J8,2019-2020,1
+1,Union Bordeaux-Bègles,26,8,5,1,2,J8,2019-2020,6
+2,Aviron Bayonnais,21,8,5,0,3,J8,2019-2020,5
+3,ASM Clermont,20,8,5,0,3,J8,2019-2020,4
+4,RC Toulon,18,8,4,0,4,J8,2019-2020,2
+5,Stade Rochelais,18,8,4,0,4,J8,2019-2020,11
+6,Montpellier Hérault Rugby,17,8,3,1,4,J8,2019-2020,8
+7,Section Paloise,17,8,4,0,4,J8,2019-2020,3
+8,CA Brive,17,8,4,0,4,J8,2019-2020,12
+9,SU Agen,16,8,3,1,4,J8,2019-2020,13
+10,Stade Toulousain,14,8,3,0,5,J8,2019-2020,9
+11,Castres Olympique,14,8,3,0,5,J8,2019-2020,7
+12,Racing 92,13,8,2,1,5,J8,2019-2020,10
+13,Stade Français Paris,9,8,2,0,6,J8,2019-2020,14
+0,LOU Rugby,35,9,8,0,1,J9,2019-2020,1
+1,Union Bordeaux-Bègles,30,9,6,1,2,J9,2019-2020,6
+2,Section Paloise,21,9,5,0,4,J9,2019-2020,3
+3,Aviron Bayonnais,21,9,5,0,4,J9,2019-2020,5
+4,RC Toulon,20,9,4,1,4,J9,2019-2020,2
+5,ASM Clermont,20,9,5,0,4,J9,2019-2020,4
+6,Montpellier Hérault Rugby,19,9,3,2,4,J9,2019-2020,8
+7,Stade Toulousain,19,9,4,0,5,J9,2019-2020,9
+8,Stade Rochelais,18,9,4,0,5,J9,2019-2020,11
+9,Racing 92,18,9,3,1,5,J9,2019-2020,10
+10,Castres Olympique,18,9,4,0,5,J9,2019-2020,7
+11,CA Brive,18,9,4,0,5,J9,2019-2020,12
+12,SU Agen,16,9,3,1,5,J9,2019-2020,13
+13,Stade Français Paris,9,9,2,0,7,J9,2019-2020,14
+0,LOU Rugby,35,10,8,0,2,J10,2019-2020,1
+1,Union Bordeaux-Bègles,34,10,7,1,2,J10,2019-2020,6
+2,Montpellier Hérault Rugby,24,10,4,2,4,J10,2019-2020,8
+3,Stade Toulousain,24,10,5,0,5,J10,2019-2020,9
+4,ASM Clermont,24,10,6,0,4,J10,2019-2020,4
+5,RC Toulon,24,10,5,1,4,J10,2019-2020,2
+6,Stade Rochelais,22,10,5,0,5,J10,2019-2020,11
+7,CA Brive,22,10,5,0,5,J10,2019-2020,12
+8,Section Paloise,21,10,5,0,5,J10,2019-2020,3
+9,Aviron Bayonnais,21,10,5,0,5,J10,2019-2020,5
+10,Racing 92,19,10,3,1,6,J10,2019-2020,10
+11,Castres Olympique,18,10,4,0,6,J10,2019-2020,7
+12,SU Agen,16,10,3,1,6,J10,2019-2020,13
+13,Stade Français Paris,10,10,2,0,8,J10,2019-2020,14
+0,Union Bordeaux-Bègles,38,11,8,1,2,J11,2019-2020,6
+1,LOU Rugby,35,11,8,0,3,J11,2019-2020,1
+2,RC Toulon,29,11,6,1,4,J11,2019-2020,2
+3,Stade Toulousain,28,11,6,0,5,J11,2019-2020,9
+4,Montpellier Hérault Rugby,25,11,4,2,5,J11,2019-2020,8
+5,CA Brive,24,11,5,1,5,J11,2019-2020,12
+6,ASM Clermont,24,11,6,0,5,J11,2019-2020,4
+7,Aviron Bayonnais,23,11,5,1,5,J11,2019-2020,5
+8,Stade Rochelais,23,11,5,0,6,J11,2019-2020,11
+9,Racing 92,23,11,4,1,6,J11,2019-2020,10
+10,Castres Olympique,23,11,5,0,6,J11,2019-2020,7
+11,Section Paloise,22,11,5,0,6,J11,2019-2020,3
+12,SU Agen,17,11,3,1,7,J11,2019-2020,13
+13,Stade Français Paris,14,11,3,0,8,J11,2019-2020,14
+0,Union Bordeaux-Bègles,42,12,9,1,2,J12,2019-2020,6
+1,LOU Rugby,40,12,9,0,3,J12,2019-2020,1
+2,RC Toulon,31,12,6,2,4,J12,2019-2020,2
+3,Stade Toulousain,30,12,6,1,5,J12,2019-2020,9
+4,Stade Rochelais,28,12,6,0,6,J12,2019-2020,11
+5,ASM Clermont,28,12,7,0,5,J12,2019-2020,4
+6,Racing 92,28,12,5,1,6,J12,2019-2020,10
+7,Montpellier Hérault Rugby,27,12,4,3,5,J12,2019-2020,8
+8,CA Brive,24,12,5,1,6,J12,2019-2020,12
+9,Section Paloise,23,12,5,0,7,J12,2019-2020,3
+10,Aviron Bayonnais,23,12,5,1,6,J12,2019-2020,5
+11,Castres Olympique,23,12,5,0,7,J12,2019-2020,7
+12,SU Agen,17,12,3,1,8,J12,2019-2020,13
+13,Stade Français Paris,16,12,3,1,8,J12,2019-2020,14
+0,Union Bordeaux-Bègles,47,13,10,1,2,J13,2019-2020,6
+1,LOU Rugby,44,13,10,0,3,J13,2019-2020,1
+2,RC Toulon,36,13,7,2,4,J13,2019-2020,2
+3,Stade Rochelais,33,13,7,0,6,J13,2019-2020,11
+4,Racing 92,32,13,6,1,6,J13,2019-2020,10
+5,Montpellier Hérault Rugby,31,13,5,3,5,J13,2019-2020,8
+6,Stade Toulousain,30,13,6,1,6,J13,2019-2020,9
+7,ASM Clermont,28,13,7,0,6,J13,2019-2020,4
+8,CA Brive,25,13,5,1,7,J13,2019-2020,12
+9,Section Paloise,23,13,5,0,8,J13,2019-2020,3
+10,Aviron Bayonnais,23,13,5,1,7,J13,2019-2020,5
+11,Castres Olympique,23,13,5,0,8,J13,2019-2020,7
+12,Stade Français Paris,20,13,4,1,8,J13,2019-2020,14
+13,SU Agen,18,13,3,1,9,J13,2019-2020,13
+0,LOU Rugby,49,14,11,0,3,J14,2019-2020,1
+1,Union Bordeaux-Bègles,47,14,10,1,3,J14,2019-2020,6
+2,Stade Rochelais,37,14,8,0,6,J14,2019-2020,11
+3,Racing 92,37,14,7,1,6,J14,2019-2020,10
+4,RC Toulon,36,14,7,2,5,J14,2019-2020,2
+5,Stade Toulousain,34,14,7,1,6,J14,2019-2020,9
+6,ASM Clermont,32,14,8,0,6,J14,2019-2020,4
+7,Montpellier Hérault Rugby,32,14,5,3,6,J14,2019-2020,8
+8,CA Brive,29,14,6,1,7,J14,2019-2020,12
+9,Aviron Bayonnais,24,14,5,1,8,J14,2019-2020,5
+10,Section Paloise,23,14,5,0,9,J14,2019-2020,3
+11,Castres Olympique,23,14,5,0,9,J14,2019-2020,7
+12,SU Agen,22,14,4,1,9,J14,2019-2020,13
+13,Stade Français Paris,20,14,4,1,9,J14,2019-2020,14
+0,Union Bordeaux-Bègles,52,15,11,1,3,J15,2019-2020,6
+1,LOU Rugby,49,15,11,0,4,J15,2019-2020,1
+2,Racing 92,41,15,8,1,6,J15,2019-2020,10
+3,RC Toulon,40,15,8,2,5,J15,2019-2020,2
+4,Stade Rochelais,38,15,8,0,7,J15,2019-2020,11
+5,ASM Clermont,36,15,9,0,6,J15,2019-2020,4
+6,Montpellier Hérault Rugby,36,15,6,3,6,J15,2019-2020,8
+7,Stade Toulousain,35,15,7,1,7,J15,2019-2020,9
+8,CA Brive,29,15,6,1,8,J15,2019-2020,12
+9,Castres Olympique,28,15,6,0,9,J15,2019-2020,7
+10,Aviron Bayonnais,25,15,5,1,9,J15,2019-2020,5
+11,Stade Français Paris,24,15,5,1,9,J15,2019-2020,14
+12,Section Paloise,24,15,5,0,10,J15,2019-2020,3
+13,SU Agen,22,15,4,1,10,J15,2019-2020,13
+0,Union Bordeaux-Bègles,57,16,12,1,3,J16,2019-2020,6
+1,LOU Rugby,53,16,12,0,4,J16,2019-2020,1
+2,Stade Rochelais,42,16,9,0,7,J16,2019-2020,11
+3,RC Toulon,41,16,8,2,6,J16,2019-2020,2
+4,Racing 92,41,16,8,1,7,J16,2019-2020,10
+5,Stade Toulousain,40,16,8,1,7,J16,2019-2020,9
+6,ASM Clermont,36,16,9,0,7,J16,2019-2020,4
+7,Montpellier Hérault Rugby,36,16,6,3,7,J16,2019-2020,8
+8,Castres Olympique,32,16,7,0,9,J16,2019-2020,7
+9,CA Brive,29,16,6,1,9,J16,2019-2020,12
+10,Aviron Bayonnais,29,16,6,1,9,J16,2019-2020,5
+11,SU Agen,26,16,5,1,10,J16,2019-2020,13
+12,Stade Français Paris,24,16,5,1,10,J16,2019-2020,14
+13,Section Paloise,24,16,5,0,11,J16,2019-2020,3
+0,Union Bordeaux-Bègles,61,17,13,1,3,J17,2019-2020,6
+1,LOU Rugby,53,17,12,0,5,J17,2019-2020,1
+2,Racing 92,46,17,9,1,7,J17,2019-2020,10
+3,RC Toulon,45,17,9,2,6,J17,2019-2020,2
+4,Stade Rochelais,42,17,9,0,8,J17,2019-2020,11
+5,ASM Clermont,41,17,10,0,7,J17,2019-2020,4
+6,Stade Toulousain,40,17,8,1,8,J17,2019-2020,9
+7,Montpellier Hérault Rugby,37,17,6,3,8,J17,2019-2020,8
+8,Aviron Bayonnais,33,17,7,1,9,J17,2019-2020,5
+9,Castres Olympique,33,17,7,0,10,J17,2019-2020,7
+10,CA Brive,33,17,7,1,9,J17,2019-2020,12
+11,Section Paloise,28,17,6,0,11,J17,2019-2020,3
+12,SU Agen,26,17,5,1,11,J17,2019-2020,13
+13,Stade Français Paris,25,17,5,1,11,J17,2019-2020,14
+0,Union Bordeaux-Bègles,61,17,13,1,3,J18,2019-2020,6
+1,LOU Rugby,53,17,12,0,5,J18,2019-2020,1
+2,Racing 92,46,17,9,1,7,J18,2019-2020,10
+3,RC Toulon,45,17,9,2,6,J18,2019-2020,2
+4,Stade Rochelais,42,17,9,0,8,J18,2019-2020,11
+5,ASM Clermont,41,17,10,0,7,J18,2019-2020,4
+6,Stade Toulousain,40,17,8,1,8,J18,2019-2020,9
+7,Montpellier Hérault Rugby,37,17,6,3,8,J18,2019-2020,8
+8,Aviron Bayonnais,33,17,7,1,9,J18,2019-2020,5
+9,Castres Olympique,33,17,7,0,10,J18,2019-2020,7
+10,CA Brive,33,17,7,1,9,J18,2019-2020,12
+11,Section Paloise,28,17,6,0,11,J18,2019-2020,3
+12,SU Agen,26,17,5,1,11,J18,2019-2020,13
+13,Stade Français Paris,25,17,5,1,11,J18,2019-2020,14
+0,Union Bordeaux-Bègles,61,17,13,1,3,J19,2019-2020,6
+1,LOU Rugby,53,17,12,0,5,J19,2019-2020,1
+2,Racing 92,46,17,9,1,7,J19,2019-2020,10
+3,RC Toulon,45,17,9,2,6,J19,2019-2020,2
+4,Stade Rochelais,42,17,9,0,8,J19,2019-2020,11
+5,ASM Clermont,41,17,10,0,7,J19,2019-2020,4
+6,Stade Toulousain,40,17,8,1,8,J19,2019-2020,9
+7,Montpellier Hérault Rugby,37,17,6,3,8,J19,2019-2020,8
+8,Aviron Bayonnais,33,17,7,1,9,J19,2019-2020,5
+9,Castres Olympique,33,17,7,0,10,J19,2019-2020,7
+10,CA Brive,33,17,7,1,9,J19,2019-2020,12
+11,Section Paloise,28,17,6,0,11,J19,2019-2020,3
+12,SU Agen,26,17,5,1,11,J19,2019-2020,13
+13,Stade Français Paris,25,17,5,1,11,J19,2019-2020,14
+0,Union Bordeaux-Bègles,61,17,13,1,3,J20,2019-2020,6
+1,LOU Rugby,53,17,12,0,5,J20,2019-2020,1
+2,Racing 92,46,17,9,1,7,J20,2019-2020,10
+3,RC Toulon,45,17,9,2,6,J20,2019-2020,2
+4,Stade Rochelais,42,17,9,0,8,J20,2019-2020,11
+5,ASM Clermont,41,17,10,0,7,J20,2019-2020,4
+6,Stade Toulousain,40,17,8,1,8,J20,2019-2020,9
+7,Montpellier Hérault Rugby,37,17,6,3,8,J20,2019-2020,8
+8,Aviron Bayonnais,33,17,7,1,9,J20,2019-2020,5
+9,Castres Olympique,33,17,7,0,10,J20,2019-2020,7
+10,CA Brive,33,17,7,1,9,J20,2019-2020,12
+11,Section Paloise,28,17,6,0,11,J20,2019-2020,3
+12,SU Agen,26,17,5,1,11,J20,2019-2020,13
+13,Stade Français Paris,25,17,5,1,11,J20,2019-2020,14
+0,Union Bordeaux-Bègles,61,17,13,1,3,J21,2019-2020,6
+1,LOU Rugby,53,17,12,0,5,J21,2019-2020,1
+2,Racing 92,46,17,9,1,7,J21,2019-2020,10
+3,RC Toulon,45,17,9,2,6,J21,2019-2020,2
+4,Stade Rochelais,42,17,9,0,8,J21,2019-2020,11
+5,ASM Clermont,41,17,10,0,7,J21,2019-2020,4
+6,Stade Toulousain,40,17,8,1,8,J21,2019-2020,9
+7,Montpellier Hérault Rugby,37,17,6,3,8,J21,2019-2020,8
+8,Aviron Bayonnais,33,17,7,1,9,J21,2019-2020,5
+9,Castres Olympique,33,17,7,0,10,J21,2019-2020,7
+10,CA Brive,33,17,7,1,9,J21,2019-2020,12
+11,Section Paloise,28,17,6,0,11,J21,2019-2020,3
+12,SU Agen,26,17,5,1,11,J21,2019-2020,13
+13,Stade Français Paris,25,17,5,1,11,J21,2019-2020,14
+0,Union Bordeaux-Bègles,61,17,13,1,3,J22,2019-2020,6
+1,LOU Rugby,53,17,12,0,5,J22,2019-2020,1
+2,Racing 92,46,17,9,1,7,J22,2019-2020,10
+3,RC Toulon,45,17,9,2,6,J22,2019-2020,2
+4,Stade Rochelais,42,17,9,0,8,J22,2019-2020,11
+5,ASM Clermont,41,17,10,0,7,J22,2019-2020,4
+6,Stade Toulousain,40,17,8,1,8,J22,2019-2020,9
+7,Montpellier Hérault Rugby,37,17,6,3,8,J22,2019-2020,8
+8,Aviron Bayonnais,33,17,7,1,9,J22,2019-2020,5
+9,Castres Olympique,33,17,7,0,10,J22,2019-2020,7
+10,CA Brive,33,17,7,1,9,J22,2019-2020,12
+11,Section Paloise,28,17,6,0,11,J22,2019-2020,3
+12,SU Agen,26,17,5,1,11,J22,2019-2020,13
+13,Stade Français Paris,25,17,5,1,11,J22,2019-2020,14
+0,Union Bordeaux-Bègles,61,17,13,1,3,J23,2019-2020,6
+1,LOU Rugby,53,17,12,0,5,J23,2019-2020,1
+2,Racing 92,46,17,9,1,7,J23,2019-2020,10
+3,RC Toulon,45,17,9,2,6,J23,2019-2020,2
+4,Stade Rochelais,42,17,9,0,8,J23,2019-2020,11
+5,ASM Clermont,41,17,10,0,7,J23,2019-2020,4
+6,Stade Toulousain,40,17,8,1,8,J23,2019-2020,9
+7,Montpellier Hérault Rugby,37,17,6,3,8,J23,2019-2020,8
+8,Aviron Bayonnais,33,17,7,1,9,J23,2019-2020,5
+9,Castres Olympique,33,17,7,0,10,J23,2019-2020,7
+10,CA Brive,33,17,7,1,9,J23,2019-2020,12
+11,Section Paloise,28,17,6,0,11,J23,2019-2020,3
+12,SU Agen,26,17,5,1,11,J23,2019-2020,13
+13,Stade Français Paris,25,17,5,1,11,J23,2019-2020,14
+0,Union Bordeaux-Bègles,61,17,13,1,3,J24,2019-2020,6
+1,LOU Rugby,53,17,12,0,5,J24,2019-2020,1
+2,Racing 92,46,17,9,1,7,J24,2019-2020,10
+3,RC Toulon,45,17,9,2,6,J24,2019-2020,2
+4,Stade Rochelais,42,17,9,0,8,J24,2019-2020,11
+5,ASM Clermont,41,17,10,0,7,J24,2019-2020,4
+6,Stade Toulousain,40,17,8,1,8,J24,2019-2020,9
+7,Montpellier Hérault Rugby,37,17,6,3,8,J24,2019-2020,8
+8,Aviron Bayonnais,33,17,7,1,9,J24,2019-2020,5
+9,Castres Olympique,33,17,7,0,10,J24,2019-2020,7
+10,CA Brive,33,17,7,1,9,J24,2019-2020,12
+11,Section Paloise,28,17,6,0,11,J24,2019-2020,3
+12,SU Agen,26,17,5,1,11,J24,2019-2020,13
+13,Stade Français Paris,25,17,5,1,11,J24,2019-2020,14
+0,Union Bordeaux-Bègles,61,17,13,1,3,J25,2019-2020,6
+1,LOU Rugby,53,17,12,0,5,J25,2019-2020,1
+2,Racing 92,46,17,9,1,7,J25,2019-2020,10
+3,RC Toulon,45,17,9,2,6,J25,2019-2020,2
+4,Stade Rochelais,42,17,9,0,8,J25,2019-2020,11
+5,ASM Clermont,41,17,10,0,7,J25,2019-2020,4
+6,Stade Toulousain,40,17,8,1,8,J25,2019-2020,9
+7,Montpellier Hérault Rugby,37,17,6,3,8,J25,2019-2020,8
+8,Aviron Bayonnais,33,17,7,1,9,J25,2019-2020,5
+9,Castres Olympique,33,17,7,0,10,J25,2019-2020,7
+10,CA Brive,33,17,7,1,9,J25,2019-2020,12
+11,Section Paloise,28,17,6,0,11,J25,2019-2020,3
+12,SU Agen,26,17,5,1,11,J25,2019-2020,13
+13,Stade Français Paris,25,17,5,1,11,J25,2019-2020,14
+0,Union Bordeaux-Bègles,61,17,13,1,3,J26,2019-2020,6
+1,LOU Rugby,53,17,12,0,5,J26,2019-2020,1
+2,Racing 92,46,17,9,1,7,J26,2019-2020,10
+3,RC Toulon,45,17,9,2,6,J26,2019-2020,2
+4,Stade Rochelais,42,17,9,0,8,J26,2019-2020,11
+5,ASM Clermont,41,17,10,0,7,J26,2019-2020,4
+6,Stade Toulousain,40,17,8,1,8,J26,2019-2020,9
+7,Montpellier Hérault Rugby,37,17,6,3,8,J26,2019-2020,8
+8,Aviron Bayonnais,33,17,7,1,9,J26,2019-2020,5
+9,Castres Olympique,33,17,7,0,10,J26,2019-2020,7
+10,CA Brive,33,17,7,1,9,J26,2019-2020,12
+11,Section Paloise,28,17,6,0,11,J26,2019-2020,3
+12,SU Agen,26,17,5,1,11,J26,2019-2020,13
+13,Stade Français Paris,25,17,5,1,11,J26,2019-2020,14
+0,CA Brive,4,1,1,0,0,J1,2020-2021,12
+1,Stade Rochelais,4,1,1,0,0,J1,2020-2021,11
+2,Racing 92,4,1,1,0,0,J1,2020-2021,10
+3,Castres Olympique,4,1,1,0,0,J1,2020-2021,7
+4,Section Paloise,4,1,1,0,0,J1,2020-2021,3
+5,ASM Clermont,4,1,1,0,0,J1,2020-2021,4
+6,Stade Toulousain,1,1,0,0,1,J1,2020-2021,9
+7,Montpellier Hérault Rugby,1,1,0,0,1,J1,2020-2021,8
+8,SU Agen,1,1,0,0,1,J1,2020-2021,13
+9,LOU Rugby,1,1,0,0,1,J1,2020-2021,1
+10,Union Bordeaux-Bègles,0,0,0,0,0,J1,2020-2021,6
+11,Stade Français Paris,0,0,0,0,0,J1,2020-2021,14
+12,RC Toulon,0,1,0,0,1,J1,2020-2021,2
+13,Aviron Bayonnais,0,1,0,0,1,J1,2020-2021,5
+0,Racing 92,9,2,2,0,0,J2,2020-2021,10
+1,Section Paloise,8,2,2,0,0,J2,2020-2021,3
+2,ASM Clermont,5,2,1,0,1,J2,2020-2021,4
+3,Stade Toulousain,5,2,1,0,1,J2,2020-2021,9
+4,CA Brive,5,2,1,0,1,J2,2020-2021,12
+5,RC Toulon,5,2,1,0,1,J2,2020-2021,2
+6,Stade Français Paris,4,1,1,0,0,J2,2020-2021,14
+7,Union Bordeaux-Bègles,4,1,1,0,0,J2,2020-2021,6
+8,Stade Rochelais,4,2,1,0,1,J2,2020-2021,11
+9,Castres Olympique,4,2,1,0,1,J2,2020-2021,7
+10,Aviron Bayonnais,4,2,1,0,1,J2,2020-2021,5
+11,SU Agen,1,2,0,0,2,J2,2020-2021,13
+12,LOU Rugby,1,2,0,0,2,J2,2020-2021,1
+13,Montpellier Hérault Rugby,1,2,0,0,2,J2,2020-2021,8
+0,ASM Clermont,9,3,2,0,1,J3,2020-2021,4
+1,Stade Toulousain,9,3,2,0,1,J3,2020-2021,9
+2,Racing 92,9,2,2,0,0,J3,2020-2021,10
+3,CA Brive,9,3,2,0,1,J3,2020-2021,12
+4,Section Paloise,8,3,2,0,1,J3,2020-2021,3
+5,Aviron Bayonnais,8,3,2,0,1,J3,2020-2021,5
+6,RC Toulon,5,3,1,0,2,J3,2020-2021,2
+7,LOU Rugby,5,3,1,0,2,J3,2020-2021,1
+8,Stade Français Paris,4,2,1,0,1,J3,2020-2021,14
+9,Castres Olympique,4,2,1,0,1,J3,2020-2021,7
+10,Stade Rochelais,4,2,1,0,1,J3,2020-2021,11
+11,Union Bordeaux-Bègles,4,2,1,0,1,J3,2020-2021,6
+12,Montpellier Hérault Rugby,1,2,0,0,2,J3,2020-2021,8
+13,SU Agen,1,3,0,0,3,J3,2020-2021,13
+0,Stade Toulousain,13,4,3,0,1,J4,2020-2021,9
+1,Section Paloise,10,4,2,1,1,J4,2020-2021,3
+2,Stade Rochelais,9,3,2,0,1,J4,2020-2021,11
+3,Racing 92,9,3,2,0,1,J4,2020-2021,10
+4,ASM Clermont,9,3,2,0,1,J4,2020-2021,4
+5,CA Brive,9,3,2,0,1,J4,2020-2021,12
+6,RC Toulon,9,4,2,0,2,J4,2020-2021,2
+7,Aviron Bayonnais,8,4,2,0,2,J4,2020-2021,5
+8,Stade Français Paris,8,3,2,0,1,J4,2020-2021,14
+9,LOU Rugby,7,4,1,1,2,J4,2020-2021,1
+10,Castres Olympique,4,2,1,0,1,J4,2020-2021,7
+11,Union Bordeaux-Bègles,4,2,1,0,1,J4,2020-2021,6
+12,Montpellier Hérault Rugby,2,3,0,0,3,J4,2020-2021,8
+13,SU Agen,1,4,0,0,4,J4,2020-2021,13
+0,Stade Toulousain,18,5,4,0,1,J5,2020-2021,9
+1,Stade Rochelais,14,4,3,0,1,J5,2020-2021,11
+2,Section Paloise,14,5,3,1,1,J5,2020-2021,3
+3,ASM Clermont,13,4,3,0,1,J5,2020-2021,4
+4,LOU Rugby,12,5,2,1,2,J5,2020-2021,1
+5,Racing 92,9,3,2,0,1,J5,2020-2021,10
+6,CA Brive,9,4,2,0,2,J5,2020-2021,12
+7,RC Toulon,9,4,2,0,2,J5,2020-2021,2
+8,Aviron Bayonnais,8,5,2,0,3,J5,2020-2021,5
+9,Stade Français Paris,8,4,2,0,2,J5,2020-2021,14
+10,Montpellier Hérault Rugby,7,4,1,0,3,J5,2020-2021,8
+11,Union Bordeaux-Bègles,5,3,1,0,2,J5,2020-2021,6
+12,Castres Olympique,4,3,1,0,2,J5,2020-2021,7
+13,SU Agen,1,5,0,0,5,J5,2020-2021,13
+0,Stade Toulousain,18,6,4,0,2,J6,2020-2021,9
+1,ASM Clermont,18,5,4,0,1,J6,2020-2021,4
+2,Stade Rochelais,18,5,4,0,1,J6,2020-2021,11
+3,LOU Rugby,16,6,3,1,2,J6,2020-2021,1
+4,Section Paloise,14,6,3,1,2,J6,2020-2021,3
+5,Racing 92,13,4,3,0,1,J6,2020-2021,10
+6,RC Toulon,13,5,3,0,2,J6,2020-2021,2
+7,Montpellier Hérault Rugby,12,5,2,0,3,J6,2020-2021,8
+8,Aviron Bayonnais,12,6,3,0,3,J6,2020-2021,5
+9,Stade Français Paris,9,5,2,0,3,J6,2020-2021,14
+10,CA Brive,9,5,2,0,3,J6,2020-2021,12
+11,Union Bordeaux-Bègles,5,4,1,0,3,J6,2020-2021,6
+12,Castres Olympique,4,4,1,0,3,J6,2020-2021,7
+13,SU Agen,1,6,0,0,6,J6,2020-2021,13
+0,ASM Clermont,23,6,5,0,1,J7,2020-2021,4
+1,Stade Rochelais,22,6,5,0,1,J7,2020-2021,11
+2,Stade Toulousain,18,7,4,0,3,J7,2020-2021,9
+3,LOU Rugby,16,6,3,1,2,J7,2020-2021,1
+4,Racing 92,14,5,3,0,2,J7,2020-2021,10
+5,Stade Français Paris,14,6,3,0,3,J7,2020-2021,14
+6,Section Paloise,14,7,3,1,3,J7,2020-2021,3
+7,RC Toulon,13,5,3,0,2,J7,2020-2021,2
+8,Montpellier Hérault Rugby,12,5,2,0,3,J7,2020-2021,8
+9,Aviron Bayonnais,12,6,3,0,3,J7,2020-2021,5
+10,Union Bordeaux-Bègles,10,5,2,0,3,J7,2020-2021,6
+11,CA Brive,9,6,2,0,4,J7,2020-2021,12
+12,Castres Olympique,8,5,2,0,3,J7,2020-2021,7
+13,SU Agen,1,7,0,0,7,J7,2020-2021,13
+0,Stade Rochelais,26,7,6,0,1,J8,2020-2021,11
+1,ASM Clermont,23,7,5,0,2,J8,2020-2021,4
+2,LOU Rugby,20,7,4,1,2,J8,2020-2021,1
+3,Stade Toulousain,20,8,4,1,3,J8,2020-2021,9
+4,Racing 92,18,6,4,0,2,J8,2020-2021,10
+5,RC Toulon,18,6,4,0,2,J8,2020-2021,2
+6,Section Paloise,15,8,3,1,4,J8,2020-2021,3
+7,Union Bordeaux-Bègles,15,6,3,0,3,J8,2020-2021,6
+8,Stade Français Paris,14,6,3,0,3,J8,2020-2021,14
+9,Montpellier Hérault Rugby,12,5,2,0,3,J8,2020-2021,8
+10,Aviron Bayonnais,12,7,3,0,4,J8,2020-2021,5
+11,Castres Olympique,10,6,2,1,3,J8,2020-2021,7
+12,CA Brive,9,7,2,0,5,J8,2020-2021,12
+13,SU Agen,2,8,0,0,8,J8,2020-2021,13
+0,Stade Rochelais,30,9,7,0,2,J9,2020-2021,11
+1,Stade Toulousain,24,9,5,1,3,J9,2020-2021,9
+2,ASM Clermont,23,7,5,0,2,J9,2020-2021,4
+3,Racing 92,23,8,5,0,3,J9,2020-2021,10
+4,Stade Français Paris,23,8,5,0,3,J9,2020-2021,14
+5,RC Toulon,23,8,5,0,3,J9,2020-2021,2
+6,LOU Rugby,20,7,4,1,2,J9,2020-2021,1
+7,Aviron Bayonnais,20,9,5,0,4,J9,2020-2021,5
+8,Union Bordeaux-Bègles,19,8,4,0,4,J9,2020-2021,6
+9,Section Paloise,15,9,3,1,5,J9,2020-2021,3
+10,Montpellier Hérault Rugby,12,6,2,0,4,J9,2020-2021,8
+11,Castres Olympique,11,7,2,1,4,J9,2020-2021,7
+12,CA Brive,10,8,2,0,6,J9,2020-2021,12
+13,SU Agen,2,9,0,0,9,J9,2020-2021,13
+0,Stade Rochelais,34,10,8,0,2,J10,2020-2021,11
+1,Stade Toulousain,29,10,6,1,3,J10,2020-2021,9
+2,ASM Clermont,28,8,6,0,2,J10,2020-2021,4
+3,Racing 92,28,9,6,0,3,J10,2020-2021,10
+4,RC Toulon,27,9,6,0,3,J10,2020-2021,2
+5,LOU Rugby,24,8,5,1,2,J10,2020-2021,1
+6,Stade Français Paris,24,9,5,0,4,J10,2020-2021,14
+7,Union Bordeaux-Bègles,23,9,5,0,4,J10,2020-2021,6
+8,Aviron Bayonnais,20,10,5,0,5,J10,2020-2021,5
+9,Section Paloise,16,10,3,1,6,J10,2020-2021,3
+10,Montpellier Hérault Rugby,13,7,2,0,5,J10,2020-2021,8
+11,Castres Olympique,11,8,2,1,5,J10,2020-2021,7
+12,CA Brive,10,9,2,0,7,J10,2020-2021,12
+13,SU Agen,2,10,0,0,10,J10,2020-2021,13
+0,Stade Rochelais,35,11,8,0,3,J11,2020-2021,11
+1,Stade Toulousain,33,11,7,1,3,J11,2020-2021,9
+2,Racing 92,32,10,7,0,3,J11,2020-2021,10
+3,RC Toulon,28,10,6,0,4,J11,2020-2021,2
+4,Stade Français Paris,28,10,6,0,4,J11,2020-2021,14
+5,ASM Clermont,28,9,6,0,3,J11,2020-2021,4
+6,LOU Rugby,28,9,6,1,2,J11,2020-2021,1
+7,Union Bordeaux-Bègles,24,10,5,0,5,J11,2020-2021,6
+8,Aviron Bayonnais,21,11,5,0,6,J11,2020-2021,5
+9,CA Brive,18,11,4,0,7,J11,2020-2021,12
+10,Section Paloise,17,11,3,1,7,J11,2020-2021,3
+11,Montpellier Hérault Rugby,17,8,3,0,5,J11,2020-2021,8
+12,Castres Olympique,16,10,3,1,6,J11,2020-2021,7
+13,SU Agen,2,11,0,0,11,J11,2020-2021,13
+0,Stade Rochelais,39,12,9,0,3,J12,2020-2021,11
+1,Stade Toulousain,38,12,8,1,3,J12,2020-2021,9
+2,Racing 92,37,11,8,0,3,J12,2020-2021,10
+3,RC Toulon,33,11,7,0,4,J12,2020-2021,2
+4,LOU Rugby,29,10,6,1,3,J12,2020-2021,1
+5,Stade Français Paris,29,11,6,0,5,J12,2020-2021,14
+6,ASM Clermont,28,10,6,0,4,J12,2020-2021,4
+7,Union Bordeaux-Bègles,24,11,5,0,6,J12,2020-2021,6
+8,CA Brive,22,12,5,0,7,J12,2020-2021,12
+9,Section Paloise,21,12,4,1,7,J12,2020-2021,3
+10,Aviron Bayonnais,21,11,5,0,6,J12,2020-2021,5
+11,Montpellier Hérault Rugby,17,9,3,0,6,J12,2020-2021,8
+12,Castres Olympique,16,10,3,1,6,J12,2020-2021,7
+13,SU Agen,2,12,0,0,12,J12,2020-2021,13
+0,Stade Rochelais,44,13,10,0,3,J13,2020-2021,11
+1,Stade Toulousain,42,13,9,1,3,J13,2020-2021,9
+2,Racing 92,41,13,9,0,4,J13,2020-2021,10
+3,RC Toulon,37,13,8,0,5,J13,2020-2021,2
+4,LOU Rugby,34,12,7,1,4,J13,2020-2021,1
+5,Stade Français Paris,34,12,7,0,5,J13,2020-2021,14
+6,ASM Clermont,31,12,6,1,5,J13,2020-2021,4
+7,Union Bordeaux-Bègles,30,13,6,1,6,J13,2020-2021,6
+8,Section Paloise,25,13,5,1,7,J13,2020-2021,3
+9,Castres Olympique,24,12,5,1,6,J13,2020-2021,7
+10,CA Brive,22,13,5,0,8,J13,2020-2021,12
+11,Aviron Bayonnais,22,12,5,0,7,J13,2020-2021,5
+12,Montpellier Hérault Rugby,19,12,3,0,9,J13,2020-2021,8
+13,SU Agen,2,13,0,0,13,J13,2020-2021,13
+0,Stade Toulousain,47,14,10,1,3,J14,2020-2021,9
+1,Stade Rochelais,44,13,10,0,3,J14,2020-2021,11
+2,Racing 92,41,12,9,0,3,J14,2020-2021,10
+3,LOU Rugby,34,13,7,1,5,J14,2020-2021,1
+4,Stade Français Paris,34,13,7,0,6,J14,2020-2021,14
+5,RC Toulon,33,12,7,0,5,J14,2020-2021,2
+6,Union Bordeaux-Bègles,33,13,7,0,6,J14,2020-2021,6
+7,ASM Clermont,33,12,7,0,5,J14,2020-2021,4
+8,CA Brive,26,14,6,0,8,J14,2020-2021,12
+9,Castres Olympique,25,12,5,1,6,J14,2020-2021,7
+10,Section Paloise,21,13,4,1,8,J14,2020-2021,3
+11,Aviron Bayonnais,21,11,5,0,6,J14,2020-2021,5
+12,Montpellier Hérault Rugby,19,12,3,0,9,J14,2020-2021,8
+13,SU Agen,2,14,0,0,14,J14,2020-2021,13
+0,Stade Toulousain,52,15,11,1,3,J15,2020-2021,9
+1,Stade Rochelais,49,14,11,0,3,J15,2020-2021,11
+2,Racing 92,46,15,10,0,5,J15,2020-2021,10
+3,Union Bordeaux-Bègles,43,16,9,1,6,J15,2020-2021,6
+4,RC Toulon,43,15,9,0,6,J15,2020-2021,2
+5,ASM Clermont,41,15,8,1,6,J15,2020-2021,4
+6,LOU Rugby,39,15,8,1,6,J15,2020-2021,1
+7,Stade Français Paris,39,15,8,0,7,J15,2020-2021,14
+8,CA Brive,34,16,8,0,8,J15,2020-2021,12
+9,Section Paloise,30,16,6,1,9,J15,2020-2021,3
+10,Castres Olympique,29,15,6,1,8,J15,2020-2021,7
+11,Aviron Bayonnais,22,13,5,0,8,J15,2020-2021,5
+12,Montpellier Hérault Rugby,22,15,3,0,12,J15,2020-2021,8
+13,SU Agen,2,15,0,0,15,J15,2020-2021,13
+0,Stade Toulousain,57,16,12,1,3,J16,2020-2021,9
+1,Stade Rochelais,54,16,12,0,4,J16,2020-2021,11
+2,Racing 92,54,17,12,0,5,J16,2020-2021,10
+3,Union Bordeaux-Bègles,48,17,10,1,6,J16,2020-2021,6
+4,ASM Clermont,45,16,9,1,6,J16,2020-2021,4
+5,RC Toulon,43,16,9,0,7,J16,2020-2021,2
+6,LOU Rugby,39,17,8,1,8,J16,2020-2021,1
+7,Stade Français Paris,39,17,8,0,9,J16,2020-2021,14
+8,Castres Olympique,38,17,8,1,8,J16,2020-2021,7
+9,CA Brive,35,17,8,0,9,J16,2020-2021,12
+10,Section Paloise,30,17,6,1,10,J16,2020-2021,3
+11,Montpellier Hérault Rugby,27,17,4,0,13,J16,2020-2021,8
+12,Aviron Bayonnais,26,15,6,0,9,J16,2020-2021,5
+13,SU Agen,2,15,0,0,15,J16,2020-2021,13
+0,Stade Rochelais,58,17,13,0,4,J17,2020-2021,11
+1,Racing 92,58,18,13,0,5,J17,2020-2021,10
+2,Stade Toulousain,57,17,12,1,4,J17,2020-2021,9
+3,ASM Clermont,50,17,10,1,6,J17,2020-2021,4
+4,Union Bordeaux-Bègles,49,18,10,1,7,J17,2020-2021,6
+5,RC Toulon,47,17,10,0,7,J17,2020-2021,2
+6,LOU Rugby,43,18,9,1,8,J17,2020-2021,1
+7,Stade Français Paris,40,18,8,0,10,J17,2020-2021,14
+8,CA Brive,39,18,9,0,9,J17,2020-2021,12
+9,Castres Olympique,39,18,8,1,9,J17,2020-2021,7
+10,Montpellier Hérault Rugby,32,18,5,0,13,J17,2020-2021,8
+11,Section Paloise,31,18,6,1,11,J17,2020-2021,3
+12,Aviron Bayonnais,26,16,6,0,10,J17,2020-2021,5
+13,SU Agen,2,16,0,0,16,J17,2020-2021,13
+0,Stade Toulousain,66,19,14,1,4,J18,2020-2021,9
+1,Stade Rochelais,59,19,13,0,6,J18,2020-2021,11
+2,Racing 92,59,19,13,0,6,J18,2020-2021,10
+3,ASM Clermont,55,19,11,1,7,J18,2020-2021,4
+4,Union Bordeaux-Bègles,53,19,11,1,7,J18,2020-2021,6
+5,RC Toulon,52,19,11,0,8,J18,2020-2021,2
+6,LOU Rugby,47,19,10,1,8,J18,2020-2021,1
+7,Stade Français Paris,45,19,9,0,10,J18,2020-2021,14
+8,Castres Olympique,43,19,9,1,9,J18,2020-2021,7
+9,CA Brive,39,19,9,0,10,J18,2020-2021,12
+10,Montpellier Hérault Rugby,36,19,6,0,13,J18,2020-2021,8
+11,Aviron Bayonnais,35,19,8,0,11,J18,2020-2021,5
+12,Section Paloise,31,19,6,1,12,J18,2020-2021,3
+13,SU Agen,2,19,0,0,19,J18,2020-2021,13
+0,Stade Toulousain,66,19,14,1,4,J19,2020-2021,9
+1,Stade Rochelais,59,19,13,0,6,J19,2020-2021,11
+2,Racing 92,59,19,13,0,6,J19,2020-2021,10
+3,ASM Clermont,55,19,11,1,7,J19,2020-2021,4
+4,Union Bordeaux-Bègles,53,19,11,1,7,J19,2020-2021,6
+5,RC Toulon,52,19,11,0,8,J19,2020-2021,2
+6,LOU Rugby,47,19,10,1,8,J19,2020-2021,1
+7,Stade Français Paris,45,19,9,0,10,J19,2020-2021,14
+8,Castres Olympique,43,19,9,1,9,J19,2020-2021,7
+9,CA Brive,39,19,9,0,10,J19,2020-2021,12
+10,Montpellier Hérault Rugby,36,19,6,0,13,J19,2020-2021,8
+11,Aviron Bayonnais,35,19,8,0,11,J19,2020-2021,5
+12,Section Paloise,31,19,6,1,12,J19,2020-2021,3
+13,SU Agen,2,19,0,0,19,J19,2020-2021,13
+0,Stade Toulousain,66,20,14,1,5,J20,2020-2021,9
+1,Stade Rochelais,63,20,14,0,6,J20,2020-2021,11
+2,Racing 92,59,20,13,0,7,J20,2020-2021,10
+3,ASM Clermont,59,20,12,1,7,J20,2020-2021,4
+4,Union Bordeaux-Bègles,53,20,11,1,8,J20,2020-2021,6
+5,LOU Rugby,52,20,11,1,8,J20,2020-2021,1
+6,RC Toulon,52,20,11,0,9,J20,2020-2021,2
+7,Castres Olympique,47,20,10,1,9,J20,2020-2021,7
+8,Stade Français Paris,45,20,9,0,11,J20,2020-2021,14
+9,CA Brive,44,20,10,0,10,J20,2020-2021,12
+10,Montpellier Hérault Rugby,40,20,7,0,13,J20,2020-2021,8
+11,Aviron Bayonnais,39,20,9,0,11,J20,2020-2021,5
+12,Section Paloise,32,20,6,1,13,J20,2020-2021,3
+13,SU Agen,2,20,0,0,20,J20,2020-2021,13
+0,Stade Toulousain,67,21,14,1,6,J21,2020-2021,9
+1,Stade Rochelais,67,21,15,0,6,J21,2020-2021,11
+2,Racing 92,59,20,13,0,7,J21,2020-2021,10
+3,ASM Clermont,59,20,12,1,7,J21,2020-2021,4
+4,Union Bordeaux-Bègles,53,20,11,1,8,J21,2020-2021,6
+5,LOU Rugby,52,21,11,1,9,J21,2020-2021,1
+6,RC Toulon,52,20,11,0,9,J21,2020-2021,2
+7,Castres Olympique,51,21,11,1,9,J21,2020-2021,7
+8,Stade Français Paris,45,20,9,0,11,J21,2020-2021,14
+9,CA Brive,44,20,10,0,10,J21,2020-2021,12
+10,Montpellier Hérault Rugby,40,20,7,0,13,J21,2020-2021,8
+11,Aviron Bayonnais,39,21,9,0,12,J21,2020-2021,5
+12,Section Paloise,36,21,7,1,13,J21,2020-2021,3
+13,SU Agen,2,20,0,0,20,J21,2020-2021,13
+0,Stade Toulousain,72,22,15,1,6,J22,2020-2021,9
+1,Stade Rochelais,67,21,15,0,6,J22,2020-2021,11
+2,Racing 92,59,21,13,0,8,J22,2020-2021,10
+3,ASM Clermont,59,21,12,1,8,J22,2020-2021,4
+4,LOU Rugby,56,22,12,1,9,J22,2020-2021,1
+5,Union Bordeaux-Bègles,53,20,11,1,8,J22,2020-2021,6
+6,RC Toulon,52,20,11,0,9,J22,2020-2021,2
+7,Castres Olympique,51,21,11,1,9,J22,2020-2021,7
+8,Stade Français Paris,49,21,10,0,11,J22,2020-2021,14
+9,CA Brive,44,20,10,0,10,J22,2020-2021,12
+10,Montpellier Hérault Rugby,40,20,7,0,13,J22,2020-2021,8
+11,Aviron Bayonnais,39,21,9,0,12,J22,2020-2021,5
+12,Section Paloise,36,22,7,1,14,J22,2020-2021,3
+13,SU Agen,2,20,0,0,20,J22,2020-2021,13
+0,Stade Toulousain,72,23,15,1,7,J23,2020-2021,9
+1,Stade Rochelais,67,22,15,0,7,J23,2020-2021,11
+2,Racing 92,64,23,14,0,9,J23,2020-2021,10
+3,ASM Clermont,63,23,13,1,9,J23,2020-2021,4
+4,RC Toulon,62,22,13,0,9,J23,2020-2021,2
+5,Castres Olympique,59,23,13,1,9,J23,2020-2021,7
+6,Union Bordeaux-Bègles,58,21,12,1,8,J23,2020-2021,6
+7,Stade Français Paris,57,23,12,0,11,J23,2020-2021,14
+8,LOU Rugby,56,23,12,1,10,J23,2020-2021,1
+9,Montpellier Hérault Rugby,45,21,8,0,13,J23,2020-2021,8
+10,CA Brive,45,22,10,0,12,J23,2020-2021,12
+11,Section Paloise,41,23,8,1,14,J23,2020-2021,3
+12,Aviron Bayonnais,40,23,9,0,14,J23,2020-2021,5
+13,SU Agen,2,22,0,0,22,J23,2020-2021,13
+0,Stade Toulousain,73,24,15,1,8,J24,2020-2021,9
+1,Stade Rochelais,72,24,16,0,8,J24,2020-2021,11
+2,Racing 92,68,24,15,0,9,J24,2020-2021,10
+3,ASM Clermont,67,24,14,1,9,J24,2020-2021,4
+4,Union Bordeaux-Bègles,62,22,13,1,8,J24,2020-2021,6
+5,Stade Français Paris,62,24,13,0,11,J24,2020-2021,14
+6,RC Toulon,62,24,13,0,11,J24,2020-2021,2
+7,Castres Olympique,60,24,13,1,10,J24,2020-2021,7
+8,LOU Rugby,60,24,13,1,10,J24,2020-2021,1
+9,Montpellier Hérault Rugby,50,23,9,0,14,J24,2020-2021,8
+10,CA Brive,50,24,11,0,13,J24,2020-2021,12
+11,Aviron Bayonnais,44,24,10,0,14,J24,2020-2021,5
+12,Section Paloise,41,24,8,1,15,J24,2020-2021,3
+13,SU Agen,2,23,0,0,23,J24,2020-2021,13
+0,Stade Toulousain,77,25,16,1,8,J25,2020-2021,9
+1,Stade Rochelais,77,25,17,0,8,J25,2020-2021,11
+2,Racing 92,73,25,16,0,9,J25,2020-2021,10
+3,Union Bordeaux-Bègles,72,25,15,1,9,J25,2020-2021,6
+4,ASM Clermont,67,25,14,1,10,J25,2020-2021,4
+5,RC Toulon,66,25,14,0,11,J25,2020-2021,2
+6,Stade Français Paris,66,25,14,0,11,J25,2020-2021,14
+7,Castres Olympique,64,25,14,1,10,J25,2020-2021,7
+8,LOU Rugby,60,25,13,1,11,J25,2020-2021,1
+9,Montpellier Hérault Rugby,54,25,10,0,15,J25,2020-2021,8
+10,CA Brive,51,25,11,0,14,J25,2020-2021,12
+11,Aviron Bayonnais,45,25,10,0,15,J25,2020-2021,5
+12,Section Paloise,41,25,8,1,16,J25,2020-2021,3
+13,SU Agen,2,25,0,0,25,J25,2020-2021,13
+0,Stade Toulousain,81,26,17,1,8,J26,2020-2021,9
+1,Stade Rochelais,78,26,17,0,9,J26,2020-2021,11
+2,Racing 92,78,26,17,0,9,J26,2020-2021,10
+3,Union Bordeaux-Bègles,72,26,15,1,10,J26,2020-2021,6
+4,ASM Clermont,71,26,15,1,10,J26,2020-2021,4
+5,Stade Français Paris,70,26,15,0,11,J26,2020-2021,14
+6,Castres Olympique,69,26,15,1,10,J26,2020-2021,7
+7,RC Toulon,66,26,14,0,12,J26,2020-2021,2
+8,LOU Rugby,65,26,14,1,11,J26,2020-2021,1
+9,Montpellier Hérault Rugby,54,26,10,0,16,J26,2020-2021,8
+10,CA Brive,51,26,11,0,15,J26,2020-2021,12
+11,Section Paloise,46,26,9,1,16,J26,2020-2021,3
+12,Aviron Bayonnais,46,26,10,0,16,J26,2020-2021,5
+13,SU Agen,2,26,0,0,26,J26,2020-2021,13
+0,CA Brive,5,1,1,0,0,J1,2021-2022,12
+1,Racing 92,4,1,1,0,0,J1,2021-2022,10
+2,Biarritz Olympique PB,4,1,1,0,0,J1,2021-2022,15
+3,LOU Rugby,4,1,1,0,0,J1,2021-2022,1
+4,Castres Olympique,4,1,1,0,0,J1,2021-2022,7
+5,Stade Toulousain,4,1,1,0,0,J1,2021-2022,9
+6,Montpellier Hérault Rugby,2,1,0,1,0,J1,2021-2022,8
+7,RC Toulon,2,1,0,1,0,J1,2021-2022,2
+8,Stade Rochelais,1,1,0,0,1,J1,2021-2022,11
+9,Section Paloise,1,1,0,0,1,J1,2021-2022,3
+10,ASM Clermont,0,1,0,0,1,J1,2021-2022,4
+11,Union Bordeaux-Bègles,0,1,0,0,1,J1,2021-2022,6
+12,Stade Français Paris,0,1,0,0,1,J1,2021-2022,14
+13,USA Perpignan,0,1,0,0,1,J1,2021-2022,16
+0,Stade Toulousain,9,2,2,0,0,J2,2021-2022,9
+1,Racing 92,8,2,2,0,0,J2,2021-2022,10
+2,Castres Olympique,8,2,2,0,0,J2,2021-2022,7
+3,Montpellier Hérault Rugby,6,2,1,1,0,J2,2021-2022,8
+4,Section Paloise,5,2,1,0,1,J2,2021-2022,3
+5,LOU Rugby,5,2,1,0,1,J2,2021-2022,1
+6,Union Bordeaux-Bègles,5,2,1,0,1,J2,2021-2022,6
+7,CA Brive,5,2,1,0,1,J2,2021-2022,12
+8,USA Perpignan,4,2,1,0,1,J2,2021-2022,16
+9,Biarritz Olympique PB,4,2,1,0,1,J2,2021-2022,15
+10,RC Toulon,2,2,0,1,1,J2,2021-2022,2
+11,ASM Clermont,1,2,0,0,2,J2,2021-2022,4
+12,Stade Rochelais,1,2,0,0,2,J2,2021-2022,11
+13,Stade Français Paris,0,2,0,0,2,J2,2021-2022,14
+0,Stade Toulousain,13,3,3,0,0,J3,2021-2022,9
+1,LOU Rugby,10,3,2,0,1,J3,2021-2022,1
+2,CA Brive,10,3,2,0,1,J3,2021-2022,12
+3,Castres Olympique,10,3,2,1,0,J3,2021-2022,7
+4,Biarritz Olympique PB,8,3,2,0,1,J3,2021-2022,15
+5,Racing 92,8,3,2,0,1,J3,2021-2022,10
+6,Montpellier Hérault Rugby,7,3,1,1,1,J3,2021-2022,8
+7,RC Toulon,7,3,1,1,1,J3,2021-2022,2
+8,Union Bordeaux-Bègles,7,3,1,1,1,J3,2021-2022,6
+9,ASM Clermont,5,3,1,0,2,J3,2021-2022,4
+10,Section Paloise,5,3,1,0,2,J3,2021-2022,3
+11,USA Perpignan,4,3,1,0,2,J3,2021-2022,16
+12,Stade Rochelais,2,3,0,0,3,J3,2021-2022,11
+13,Stade Français Paris,0,3,0,0,3,J3,2021-2022,14
+0,Stade Toulousain,17,4,4,0,0,J4,2021-2022,9
+1,Racing 92,12,4,3,0,1,J4,2021-2022,10
+2,LOU Rugby,11,4,2,0,2,J4,2021-2022,1
+3,Union Bordeaux-Bègles,11,4,2,1,1,J4,2021-2022,6
+4,CA Brive,10,4,2,0,2,J4,2021-2022,12
+5,Castres Olympique,10,4,2,1,1,J4,2021-2022,7
+6,Section Paloise,9,4,2,0,2,J4,2021-2022,3
+7,USA Perpignan,8,4,2,0,2,J4,2021-2022,16
+8,RC Toulon,8,4,1,1,2,J4,2021-2022,2
+9,Montpellier Hérault Rugby,8,4,1,1,2,J4,2021-2022,8
+10,Biarritz Olympique PB,8,4,2,0,2,J4,2021-2022,15
+11,Stade Rochelais,7,4,1,0,3,J4,2021-2022,11
+12,ASM Clermont,5,4,1,0,3,J4,2021-2022,4
+13,Stade Français Paris,4,4,1,0,3,J4,2021-2022,14
+0,Stade Toulousain,21,5,5,0,0,J5,2021-2022,9
+1,Union Bordeaux-Bègles,15,5,3,1,1,J5,2021-2022,6
+2,CA Brive,14,5,3,0,2,J5,2021-2022,12
+3,Castres Olympique,14,5,3,1,1,J5,2021-2022,7
+4,Section Paloise,13,5,3,0,2,J5,2021-2022,3
+5,Racing 92,12,5,3,0,2,J5,2021-2022,10
+6,LOU Rugby,12,5,2,0,3,J5,2021-2022,1
+7,Montpellier Hérault Rugby,12,5,2,1,2,J5,2021-2022,8
+8,ASM Clermont,9,5,2,0,3,J5,2021-2022,4
+9,USA Perpignan,8,5,2,0,3,J5,2021-2022,16
+10,RC Toulon,8,5,1,1,3,J5,2021-2022,2
+11,Biarritz Olympique PB,8,5,2,0,3,J5,2021-2022,15
+12,Stade Rochelais,7,5,1,0,4,J5,2021-2022,11
+13,Stade Français Paris,4,5,1,0,4,J5,2021-2022,14
+0,Stade Toulousain,26,6,6,0,0,J6,2021-2022,9
+1,Union Bordeaux-Bègles,19,6,4,1,1,J6,2021-2022,6
+2,LOU Rugby,17,6,3,0,3,J6,2021-2022,1
+3,Racing 92,16,6,4,0,2,J6,2021-2022,10
+4,CA Brive,15,6,3,0,3,J6,2021-2022,12
+5,Castres Olympique,14,6,3,1,2,J6,2021-2022,7
+6,Section Paloise,13,6,3,0,3,J6,2021-2022,3
+7,Montpellier Hérault Rugby,13,6,2,1,3,J6,2021-2022,8
+8,RC Toulon,12,6,2,1,3,J6,2021-2022,2
+9,Stade Rochelais,11,6,2,0,4,J6,2021-2022,11
+10,ASM Clermont,9,6,2,0,4,J6,2021-2022,4
+11,USA Perpignan,9,6,2,0,4,J6,2021-2022,16
+12,Stade Français Paris,8,6,2,0,4,J6,2021-2022,14
+13,Biarritz Olympique PB,8,6,2,0,4,J6,2021-2022,15
+0,Stade Toulousain,26,7,6,0,1,J7,2021-2022,9
+1,Union Bordeaux-Bègles,23,7,5,1,1,J7,2021-2022,6
+2,LOU Rugby,21,7,4,0,3,J7,2021-2022,1
+3,Racing 92,20,7,5,0,2,J7,2021-2022,10
+4,Castres Olympique,19,7,4,1,2,J7,2021-2022,7
+5,CA Brive,16,7,3,0,4,J7,2021-2022,12
+6,Stade Rochelais,15,7,3,0,4,J7,2021-2022,11
+7,Section Paloise,14,7,3,0,4,J7,2021-2022,3
+8,Montpellier Hérault Rugby,14,7,2,1,4,J7,2021-2022,8
+9,ASM Clermont,13,7,3,0,4,J7,2021-2022,4
+10,RC Toulon,12,7,2,1,4,J7,2021-2022,2
+11,Stade Français Paris,12,7,3,0,4,J7,2021-2022,14
+12,USA Perpignan,10,7,2,0,5,J7,2021-2022,16
+13,Biarritz Olympique PB,8,7,2,0,5,J7,2021-2022,15
+0,Stade Toulousain,31,8,7,0,1,J8,2021-2022,9
+1,Union Bordeaux-Bègles,28,8,6,1,1,J8,2021-2022,6
+2,LOU Rugby,22,8,4,0,4,J8,2021-2022,1
+3,Racing 92,20,8,5,0,3,J8,2021-2022,10
+4,Stade Rochelais,20,8,4,0,4,J8,2021-2022,11
+5,Castres Olympique,19,8,4,1,3,J8,2021-2022,7
+6,ASM Clermont,18,8,4,0,4,J8,2021-2022,4
+7,Montpellier Hérault Rugby,18,8,3,1,4,J8,2021-2022,8
+8,CA Brive,16,8,3,0,5,J8,2021-2022,12
+9,Stade Français Paris,16,8,4,0,4,J8,2021-2022,14
+10,Section Paloise,14,8,3,0,5,J8,2021-2022,3
+11,Biarritz Olympique PB,13,8,3,0,5,J8,2021-2022,15
+12,RC Toulon,12,8,2,1,5,J8,2021-2022,2
+13,USA Perpignan,10,8,2,0,6,J8,2021-2022,16
+0,Union Bordeaux-Bègles,33,9,7,1,1,J9,2021-2022,6
+1,Stade Toulousain,31,9,7,0,2,J9,2021-2022,9
+2,Racing 92,24,9,6,0,3,J9,2021-2022,10
+3,Castres Olympique,23,9,5,1,3,J9,2021-2022,7
+4,Montpellier Hérault Rugby,22,9,4,1,4,J9,2021-2022,8
+5,LOU Rugby,22,9,4,0,5,J9,2021-2022,1
+6,Stade Rochelais,20,9,4,0,5,J9,2021-2022,11
+7,ASM Clermont,18,9,4,0,5,J9,2021-2022,4
+8,Section Paloise,18,9,4,0,5,J9,2021-2022,3
+9,CA Brive,17,9,3,0,6,J9,2021-2022,12
+10,RC Toulon,16,9,3,1,5,J9,2021-2022,2
+11,Stade Français Paris,16,9,4,0,5,J9,2021-2022,14
+12,USA Perpignan,14,9,3,0,6,J9,2021-2022,16
+13,Biarritz Olympique PB,14,9,3,0,6,J9,2021-2022,15
+0,Stade Toulousain,36,10,8,0,2,J10,2021-2022,9
+1,Union Bordeaux-Bègles,33,10,7,1,2,J10,2021-2022,6
+2,Montpellier Hérault Rugby,26,10,5,1,4,J10,2021-2022,8
+3,LOU Rugby,26,10,5,0,5,J10,2021-2022,1
+4,Racing 92,25,10,6,0,4,J10,2021-2022,10
+5,Stade Rochelais,24,10,5,0,5,J10,2021-2022,11
+6,Castres Olympique,23,10,5,1,4,J10,2021-2022,7
+7,ASM Clermont,23,10,5,0,5,J10,2021-2022,4
+8,Section Paloise,22,10,5,0,5,J10,2021-2022,3
+9,CA Brive,21,10,4,0,6,J10,2021-2022,12
+10,Stade Français Paris,18,10,4,0,6,J10,2021-2022,14
+11,RC Toulon,16,10,3,1,6,J10,2021-2022,2
+12,USA Perpignan,14,10,3,0,7,J10,2021-2022,16
+13,Biarritz Olympique PB,14,10,3,0,7,J10,2021-2022,15
+0,Stade Toulousain,40,11,9,0,2,J11,2021-2022,9
+1,Union Bordeaux-Bègles,38,11,8,1,2,J11,2021-2022,6
+2,Montpellier Hérault Rugby,30,11,6,1,4,J11,2021-2022,8
+3,Stade Rochelais,29,11,6,0,5,J11,2021-2022,11
+4,LOU Rugby,26,11,5,0,6,J11,2021-2022,1
+5,Racing 92,25,11,6,0,5,J11,2021-2022,10
+6,Castres Olympique,24,11,5,1,5,J11,2021-2022,7
+7,ASM Clermont,24,11,5,0,6,J11,2021-2022,4
+8,Section Paloise,22,11,5,0,6,J11,2021-2022,3
+9,CA Brive,21,11,4,0,7,J11,2021-2022,12
+10,RC Toulon,20,11,4,1,6,J11,2021-2022,2
+11,Stade Français Paris,19,11,4,0,7,J11,2021-2022,14
+12,USA Perpignan,18,11,4,0,7,J11,2021-2022,16
+13,Biarritz Olympique PB,18,11,4,0,7,J11,2021-2022,15
+0,Union Bordeaux-Bègles,42,12,9,1,2,J12,2021-2022,6
+1,Stade Toulousain,40,12,9,0,3,J12,2021-2022,9
+2,Montpellier Hérault Rugby,35,12,7,1,4,J12,2021-2022,8
+3,LOU Rugby,31,12,6,0,6,J12,2021-2022,1
+4,Stade Rochelais,30,12,6,0,6,J12,2021-2022,11
+5,Castres Olympique,29,12,6,1,5,J12,2021-2022,7
+6,ASM Clermont,29,12,6,0,6,J12,2021-2022,4
+7,Racing 92,25,12,6,0,6,J12,2021-2022,10
+8,Section Paloise,24,12,5,1,6,J12,2021-2022,3
+9,Stade Français Paris,23,12,5,0,7,J12,2021-2022,14
+10,RC Toulon,22,12,4,2,6,J12,2021-2022,2
+11,CA Brive,21,12,4,0,8,J12,2021-2022,12
+12,USA Perpignan,18,12,4,0,8,J12,2021-2022,16
+13,Biarritz Olympique PB,18,12,4,0,8,J12,2021-2022,15
+0,Union Bordeaux-Bègles,42,12,9,1,2,J13,2021-2022,6
+1,Stade Toulousain,40,12,9,0,3,J13,2021-2022,9
+2,Montpellier Hérault Rugby,40,13,8,1,4,J13,2021-2022,8
+3,Stade Rochelais,35,13,7,0,6,J13,2021-2022,11
+4,Castres Olympique,33,13,7,1,5,J13,2021-2022,7
+5,LOU Rugby,31,13,6,0,7,J13,2021-2022,1
+6,ASM Clermont,29,12,6,0,6,J13,2021-2022,4
+7,Racing 92,25,12,6,0,6,J13,2021-2022,10
+8,Section Paloise,24,12,5,1,6,J13,2021-2022,3
+9,Stade Français Paris,23,12,5,0,7,J13,2021-2022,14
+10,RC Toulon,22,12,4,2,6,J13,2021-2022,2
+11,CA Brive,21,12,4,0,8,J13,2021-2022,12
+12,USA Perpignan,19,13,4,0,9,J13,2021-2022,16
+13,Biarritz Olympique PB,18,13,4,0,9,J13,2021-2022,15
+0,Union Bordeaux-Bègles,46,13,10,1,2,J14,2021-2022,6
+1,Stade Toulousain,41,13,9,0,4,J14,2021-2022,9
+2,Montpellier Hérault Rugby,40,13,8,1,4,J14,2021-2022,8
+3,Castres Olympique,37,14,8,1,5,J14,2021-2022,7
+4,Stade Rochelais,36,14,7,0,7,J14,2021-2022,11
+5,LOU Rugby,35,14,7,0,7,J14,2021-2022,1
+6,ASM Clermont,33,13,7,0,6,J14,2021-2022,4
+7,Section Paloise,28,13,6,1,6,J14,2021-2022,3
+8,Stade Français Paris,27,13,6,0,7,J14,2021-2022,14
+9,Racing 92,26,13,6,0,7,J14,2021-2022,10
+10,RC Toulon,22,12,4,2,6,J14,2021-2022,2
+11,CA Brive,21,13,4,0,9,J14,2021-2022,12
+12,USA Perpignan,19,14,4,0,10,J14,2021-2022,16
+13,Biarritz Olympique PB,19,14,4,0,10,J14,2021-2022,15
+0,Union Bordeaux-Bègles,50,14,11,1,2,J15,2021-2022,6
+1,Stade Toulousain,41,13,9,0,4,J15,2021-2022,9
+2,Castres Olympique,41,15,9,1,5,J15,2021-2022,7
+3,Montpellier Hérault Rugby,40,13,8,1,4,J15,2021-2022,8
+4,LOU Rugby,40,15,8,0,7,J15,2021-2022,1
+5,Stade Rochelais,36,14,7,0,7,J15,2021-2022,11
+6,ASM Clermont,34,14,7,0,7,J15,2021-2022,4
+7,Racing 92,30,14,7,0,7,J15,2021-2022,10
+8,Section Paloise,28,14,6,1,7,J15,2021-2022,3
+9,Stade Français Paris,27,14,6,0,8,J15,2021-2022,14
+10,USA Perpignan,23,15,5,0,10,J15,2021-2022,16
+11,RC Toulon,22,12,4,2,6,J15,2021-2022,2
+12,CA Brive,22,14,4,0,10,J15,2021-2022,12
+13,Biarritz Olympique PB,20,15,4,0,11,J15,2021-2022,15
+0,Union Bordeaux-Bègles,54,15,12,1,2,J16,2021-2022,6
+1,Montpellier Hérault Rugby,44,14,9,1,4,J16,2021-2022,8
+2,LOU Rugby,44,16,9,0,7,J16,2021-2022,1
+3,Stade Toulousain,42,14,9,0,5,J16,2021-2022,9
+4,Castres Olympique,41,16,9,1,6,J16,2021-2022,7
+5,Stade Rochelais,36,15,7,0,8,J16,2021-2022,11
+6,ASM Clermont,34,15,7,0,8,J16,2021-2022,4
+7,Racing 92,34,15,8,0,7,J16,2021-2022,10
+8,Section Paloise,32,15,7,1,7,J16,2021-2022,3
+9,Stade Français Paris,31,15,7,0,8,J16,2021-2022,14
+10,CA Brive,27,15,5,0,10,J16,2021-2022,12
+11,USA Perpignan,24,16,5,0,11,J16,2021-2022,16
+12,RC Toulon,23,13,4,2,7,J16,2021-2022,2
+13,Biarritz Olympique PB,20,16,4,0,12,J16,2021-2022,15
+0,Union Bordeaux-Bègles,54,15,12,1,2,J17,2021-2022,6
+1,Montpellier Hérault Rugby,49,15,10,1,4,J17,2021-2022,8
+2,LOU Rugby,48,17,10,0,7,J17,2021-2022,1
+3,Castres Olympique,45,17,10,1,6,J17,2021-2022,7
+4,Stade Toulousain,42,15,9,0,6,J17,2021-2022,9
+5,Racing 92,39,16,9,0,7,J17,2021-2022,10
+6,Stade Rochelais,37,16,7,0,9,J17,2021-2022,11
+7,ASM Clermont,34,15,7,0,8,J17,2021-2022,4
+8,Section Paloise,32,16,7,1,8,J17,2021-2022,3
+9,Stade Français Paris,32,16,7,0,9,J17,2021-2022,14
+10,USA Perpignan,29,17,6,0,11,J17,2021-2022,16
+11,CA Brive,27,16,5,0,11,J17,2021-2022,12
+12,Biarritz Olympique PB,24,17,5,0,12,J17,2021-2022,15
+13,RC Toulon,23,14,4,2,8,J17,2021-2022,2
+0,Union Bordeaux-Bègles,56,17,12,1,4,J18,2021-2022,6
+1,Montpellier Hérault Rugby,51,16,10,2,4,J18,2021-2022,8
+2,LOU Rugby,49,18,10,0,8,J18,2021-2022,1
+3,Castres Olympique,49,18,11,1,6,J18,2021-2022,7
+4,Racing 92,47,18,11,0,7,J18,2021-2022,10
+5,Stade Toulousain,44,17,9,0,8,J18,2021-2022,9
+6,Stade Français Paris,41,18,9,0,9,J18,2021-2022,14
+7,Stade Rochelais,41,17,8,0,9,J18,2021-2022,11
+8,Section Paloise,37,18,8,1,9,J18,2021-2022,3
+9,ASM Clermont,35,17,7,0,10,J18,2021-2022,4
+10,CA Brive,33,18,6,1,11,J18,2021-2022,12
+11,RC Toulon,31,16,6,2,8,J18,2021-2022,2
+12,USA Perpignan,29,18,6,0,12,J18,2021-2022,16
+13,Biarritz Olympique PB,24,18,5,0,13,J18,2021-2022,15
+0,Union Bordeaux-Bègles,57,18,12,1,5,J19,2021-2022,6
+1,Montpellier Hérault Rugby,56,17,11,2,4,J19,2021-2022,8
+2,LOU Rugby,54,19,11,0,8,J19,2021-2022,1
+3,Racing 92,51,19,12,0,7,J19,2021-2022,10
+4,Castres Olympique,49,19,11,1,7,J19,2021-2022,7
+5,Stade Toulousain,48,18,10,0,8,J19,2021-2022,9
+6,Stade Rochelais,45,18,9,0,9,J19,2021-2022,11
+7,Stade Français Paris,41,19,9,0,10,J19,2021-2022,14
+8,ASM Clermont,40,18,8,0,10,J19,2021-2022,4
+9,CA Brive,37,19,7,1,11,J19,2021-2022,12
+10,Section Paloise,37,19,8,1,10,J19,2021-2022,3
+11,RC Toulon,31,17,6,2,9,J19,2021-2022,2
+12,USA Perpignan,29,19,6,0,13,J19,2021-2022,16
+13,Biarritz Olympique PB,24,19,5,0,14,J19,2021-2022,15
+0,Union Bordeaux-Bègles,57,19,12,1,6,J20,2021-2022,6
+1,Montpellier Hérault Rugby,56,18,11,2,5,J20,2021-2022,8
+2,LOU Rugby,54,20,11,0,9,J20,2021-2022,1
+3,Castres Olympique,54,20,12,1,7,J20,2021-2022,7
+4,Racing 92,51,20,12,0,8,J20,2021-2022,10
+5,Stade Rochelais,50,19,10,0,9,J20,2021-2022,11
+6,Stade Toulousain,48,19,10,0,9,J20,2021-2022,9
+7,Stade Français Paris,45,20,10,0,10,J20,2021-2022,14
+8,ASM Clermont,44,19,9,0,10,J20,2021-2022,4
+9,Section Paloise,41,20,9,1,10,J20,2021-2022,3
+10,CA Brive,37,20,7,1,12,J20,2021-2022,12
+11,RC Toulon,36,18,7,2,9,J20,2021-2022,2
+12,USA Perpignan,34,20,7,0,13,J20,2021-2022,16
+13,Biarritz Olympique PB,24,20,5,0,15,J20,2021-2022,15
+0,Montpellier Hérault Rugby,64,21,13,2,6,J21,2021-2022,8
+1,Union Bordeaux-Bègles,62,21,13,1,7,J21,2021-2022,6
+2,Stade Toulousain,57,21,12,0,9,J21,2021-2022,9
+3,Stade Rochelais,54,21,11,0,10,J21,2021-2022,11
+4,Castres Olympique,54,21,12,1,8,J21,2021-2022,7
+5,LOU Rugby,54,21,11,0,10,J21,2021-2022,1
+6,Racing 92,51,21,12,0,9,J21,2021-2022,10
+7,ASM Clermont,48,21,10,0,11,J21,2021-2022,4
+8,RC Toulon,46,21,9,2,10,J21,2021-2022,2
+9,Section Paloise,45,21,10,1,10,J21,2021-2022,3
+10,Stade Français Paris,45,21,10,0,11,J21,2021-2022,14
+11,CA Brive,42,21,8,1,12,J21,2021-2022,12
+12,USA Perpignan,35,21,7,0,14,J21,2021-2022,16
+13,Biarritz Olympique PB,24,21,5,0,16,J21,2021-2022,15
+0,Montpellier Hérault Rugby,68,22,14,2,6,J22,2021-2022,8
+1,Union Bordeaux-Bègles,63,22,13,1,8,J22,2021-2022,6
+2,Stade Rochelais,58,22,12,0,10,J22,2021-2022,11
+3,Castres Olympique,58,22,13,1,8,J22,2021-2022,7
+4,Stade Toulousain,57,22,12,0,10,J22,2021-2022,9
+5,Racing 92,56,22,13,0,9,J22,2021-2022,10
+6,LOU Rugby,54,22,11,0,11,J22,2021-2022,1
+7,ASM Clermont,53,22,11,0,11,J22,2021-2022,4
+8,RC Toulon,51,22,10,2,10,J22,2021-2022,2
+9,Section Paloise,49,22,11,1,10,J22,2021-2022,3
+10,Stade Français Paris,45,22,10,0,12,J22,2021-2022,14
+11,CA Brive,42,22,8,1,13,J22,2021-2022,12
+12,USA Perpignan,35,22,7,0,15,J22,2021-2022,16
+13,Biarritz Olympique PB,24,22,5,0,17,J22,2021-2022,15
+0,Montpellier Hérault Rugby,69,23,14,2,7,J23,2021-2022,8
+1,Union Bordeaux-Bègles,67,23,14,1,8,J23,2021-2022,6
+2,Stade Rochelais,62,23,13,0,10,J23,2021-2022,11
+3,Castres Olympique,62,23,14,1,8,J23,2021-2022,7
+4,Racing 92,61,23,14,0,9,J23,2021-2022,10
+5,Stade Toulousain,58,23,12,0,11,J23,2021-2022,9
+6,LOU Rugby,58,23,12,0,11,J23,2021-2022,1
+7,RC Toulon,55,23,11,2,10,J23,2021-2022,2
+8,ASM Clermont,53,23,11,0,12,J23,2021-2022,4
+9,Section Paloise,50,23,11,1,11,J23,2021-2022,3
+10,Stade Français Paris,49,23,11,0,12,J23,2021-2022,14
+11,CA Brive,42,23,8,1,14,J23,2021-2022,12
+12,USA Perpignan,35,23,7,0,16,J23,2021-2022,16
+13,Biarritz Olympique PB,24,23,5,0,18,J23,2021-2022,15
+0,Montpellier Hérault Rugby,69,24,14,2,8,J24,2021-2022,8
+1,Union Bordeaux-Bègles,67,24,14,1,9,J24,2021-2022,6
+2,Castres Olympique,67,24,15,1,8,J24,2021-2022,7
+3,Racing 92,66,24,15,0,9,J24,2021-2022,10
+4,LOU Rugby,63,24,13,0,11,J24,2021-2022,1
+5,Stade Toulousain,62,24,13,0,11,J24,2021-2022,9
+6,Stade Rochelais,62,24,13,0,11,J24,2021-2022,11
+7,RC Toulon,59,24,12,2,10,J24,2021-2022,2
+8,ASM Clermont,57,24,12,0,12,J24,2021-2022,4
+9,Section Paloise,50,24,11,1,12,J24,2021-2022,3
+10,Stade Français Paris,50,24,11,0,13,J24,2021-2022,14
+11,CA Brive,42,24,8,1,15,J24,2021-2022,12
+12,USA Perpignan,39,24,8,0,16,J24,2021-2022,16
+13,Biarritz Olympique PB,24,24,5,0,19,J24,2021-2022,15
+0,Montpellier Hérault Rugby,73,25,15,2,8,J25,2021-2022,8
+1,Union Bordeaux-Bègles,72,25,15,1,9,J25,2021-2022,6
+2,Castres Olympique,72,25,16,1,8,J25,2021-2022,7
+3,Stade Rochelais,67,25,14,0,11,J25,2021-2022,11
+4,Racing 92,66,25,15,0,10,J25,2021-2022,10
+5,Stade Toulousain,66,25,14,0,11,J25,2021-2022,9
+6,RC Toulon,64,25,13,2,10,J25,2021-2022,2
+7,LOU Rugby,63,25,13,0,12,J25,2021-2022,1
+8,ASM Clermont,62,25,13,0,12,J25,2021-2022,4
+9,Section Paloise,50,25,11,1,13,J25,2021-2022,3
+10,Stade Français Paris,50,25,11,0,14,J25,2021-2022,14
+11,CA Brive,42,25,8,1,16,J25,2021-2022,12
+12,USA Perpignan,39,25,8,0,17,J25,2021-2022,16
+13,Biarritz Olympique PB,24,25,5,0,20,J25,2021-2022,15
+0,Castres Olympique,76,26,17,1,8,J26,2021-2022,7
+1,Montpellier Hérault Rugby,74,26,15,2,9,J26,2021-2022,8
+2,Union Bordeaux-Bègles,72,26,15,1,10,J26,2021-2022,6
+3,Stade Toulousain,71,26,15,0,11,J26,2021-2022,9
+4,Stade Rochelais,71,26,15,0,11,J26,2021-2022,11
+5,Racing 92,70,26,16,0,10,J26,2021-2022,10
+6,ASM Clermont,66,26,14,0,12,J26,2021-2022,4
+7,RC Toulon,65,26,13,2,11,J26,2021-2022,2
+8,LOU Rugby,64,26,13,0,13,J26,2021-2022,1
+9,Section Paloise,50,26,11,1,14,J26,2021-2022,3
+10,Stade Français Paris,50,26,11,0,15,J26,2021-2022,14
+11,CA Brive,46,26,9,1,16,J26,2021-2022,12
+12,USA Perpignan,43,26,9,0,17,J26,2021-2022,16
+13,Biarritz Olympique PB,24,26,5,0,21,J26,2021-2022,15
+0,RC Toulon,4,1,1,0,0,J1,2022-2023,2
+1,Racing 92,4,1,1,0,0,J1,2022-2023,10
+2,Stade Français Paris,4,1,1,0,0,J1,2022-2023,14
+3,LOU Rugby,4,1,1,0,0,J1,2022-2023,1
+4,Stade Rochelais,4,1,1,0,0,J1,2022-2023,11
+5,Section Paloise,4,1,1,0,0,J1,2022-2023,3
+6,Stade Toulousain,4,1,1,0,0,J1,2022-2023,9
+7,Union Bordeaux-Bègles,1,1,0,0,1,J1,2022-2023,6
+8,USA Perpignan,1,1,0,0,1,J1,2022-2023,16
+9,CA Brive,1,1,0,0,1,J1,2022-2023,12
+10,Montpellier Hérault Rugby,1,1,0,0,1,J1,2022-2023,8
+11,ASM Clermont,0,1,0,0,1,J1,2022-2023,4
+12,Castres Olympique,0,1,0,0,1,J1,2022-2023,7
+13,Aviron Bayonnais,0,1,0,0,1,J1,2022-2023,5
+0,Stade Toulousain,9,2,2,0,0,J2,2022-2023,9
+1,Stade Rochelais,8,2,2,0,0,J2,2022-2023,11
+2,CA Brive,6,2,1,0,1,J2,2022-2023,12
+3,Montpellier Hérault Rugby,5,2,1,0,1,J2,2022-2023,8
+4,LOU Rugby,5,2,1,0,1,J2,2022-2023,1
+5,Castres Olympique,4,2,1,0,1,J2,2022-2023,7
+6,ASM Clermont,4,2,1,0,1,J2,2022-2023,4
+7,Racing 92,4,2,1,0,1,J2,2022-2023,10
+8,Stade Français Paris,4,2,1,0,1,J2,2022-2023,14
+9,RC Toulon,4,2,1,0,1,J2,2022-2023,2
+10,Aviron Bayonnais,4,2,1,0,1,J2,2022-2023,5
+11,Section Paloise,4,2,1,0,1,J2,2022-2023,3
+12,Union Bordeaux-Bègles,1,2,0,0,2,J2,2022-2023,6
+13,USA Perpignan,1,2,0,0,2,J2,2022-2023,16
+0,Stade Rochelais,13,3,3,0,0,J3,2022-2023,11
+1,Stade Toulousain,9,3,2,0,1,J3,2022-2023,9
+2,Montpellier Hérault Rugby,9,3,2,0,1,J3,2022-2023,8
+3,Racing 92,8,3,2,0,1,J3,2022-2023,10
+4,Stade Français Paris,8,3,2,0,1,J3,2022-2023,14
+5,Section Paloise,8,3,2,0,1,J3,2022-2023,3
+6,RC Toulon,8,3,2,0,1,J3,2022-2023,2
+7,CA Brive,7,3,1,0,2,J3,2022-2023,12
+8,Union Bordeaux-Bègles,5,3,1,0,2,J3,2022-2023,6
+9,ASM Clermont,5,3,1,0,2,J3,2022-2023,4
+10,LOU Rugby,5,3,1,0,2,J3,2022-2023,1
+11,Castres Olympique,4,3,1,0,2,J3,2022-2023,7
+12,Aviron Bayonnais,4,3,1,0,2,J3,2022-2023,5
+13,USA Perpignan,1,3,0,0,3,J3,2022-2023,16
+0,Stade Toulousain,14,4,3,0,1,J4,2022-2023,9
+1,Montpellier Hérault Rugby,14,4,3,0,1,J4,2022-2023,8
+2,Stade Rochelais,13,4,3,0,1,J4,2022-2023,11
+3,ASM Clermont,9,4,2,0,2,J4,2022-2023,4
+4,LOU Rugby,9,4,2,0,2,J4,2022-2023,1
+5,Stade Français Paris,8,4,2,0,2,J4,2022-2023,14
+6,RC Toulon,8,4,2,0,2,J4,2022-2023,2
+7,Castres Olympique,8,4,2,0,2,J4,2022-2023,7
+8,Aviron Bayonnais,8,4,2,0,2,J4,2022-2023,5
+9,Racing 92,8,4,2,0,2,J4,2022-2023,10
+10,Section Paloise,8,4,2,0,2,J4,2022-2023,3
+11,CA Brive,7,4,1,0,3,J4,2022-2023,12
+12,Union Bordeaux-Bègles,6,4,1,0,3,J4,2022-2023,6
+13,USA Perpignan,5,4,1,0,3,J4,2022-2023,16
+0,Stade Toulousain,18,5,4,0,1,J5,2022-2023,9
+1,Stade Rochelais,17,5,4,0,1,J5,2022-2023,11
+2,Montpellier Hérault Rugby,15,5,3,0,2,J5,2022-2023,8
+3,ASM Clermont,14,5,3,0,2,J5,2022-2023,4
+4,RC Toulon,12,5,3,0,2,J5,2022-2023,2
+5,CA Brive,11,5,2,0,3,J5,2022-2023,12
+6,Union Bordeaux-Bègles,10,5,2,0,3,J5,2022-2023,6
+7,Racing 92,9,5,2,0,3,J5,2022-2023,10
+8,Castres Olympique,9,5,2,0,3,J5,2022-2023,7
+9,Stade Français Paris,9,5,2,0,3,J5,2022-2023,14
+10,Aviron Bayonnais,9,5,2,0,3,J5,2022-2023,5
+11,LOU Rugby,9,5,2,0,3,J5,2022-2023,1
+12,USA Perpignan,9,5,2,0,3,J5,2022-2023,16
+13,Section Paloise,8,5,2,0,3,J5,2022-2023,3
+0,Stade Toulousain,23,6,5,0,1,J6,2022-2023,9
+1,RC Toulon,17,6,4,0,2,J6,2022-2023,2
+2,Stade Rochelais,17,6,4,0,2,J6,2022-2023,11
+3,Montpellier Hérault Rugby,15,6,3,0,3,J6,2022-2023,8
+4,Stade Français Paris,14,6,3,0,3,J6,2022-2023,14
+5,ASM Clermont,14,6,3,0,3,J6,2022-2023,4
+6,Racing 92,13,6,3,0,3,J6,2022-2023,10
+7,Aviron Bayonnais,13,6,3,0,3,J6,2022-2023,5
+8,Castres Olympique,13,6,3,0,3,J6,2022-2023,7
+9,LOU Rugby,13,6,3,0,3,J6,2022-2023,1
+10,CA Brive,11,6,2,0,4,J6,2022-2023,12
+11,Union Bordeaux-Bègles,10,6,2,0,4,J6,2022-2023,6
+12,USA Perpignan,9,6,2,0,4,J6,2022-2023,16
+13,Section Paloise,8,6,2,0,4,J6,2022-2023,3
+0,Stade Toulousain,28,7,6,0,1,J7,2022-2023,9
+1,Stade Rochelais,22,7,5,0,2,J7,2022-2023,11
+2,Stade Français Paris,18,7,4,0,3,J7,2022-2023,14
+3,ASM Clermont,18,7,4,0,3,J7,2022-2023,4
+4,RC Toulon,17,7,4,0,3,J7,2022-2023,2
+5,Castres Olympique,17,7,4,0,3,J7,2022-2023,7
+6,LOU Rugby,17,7,4,0,3,J7,2022-2023,1
+7,Montpellier Hérault Rugby,15,7,3,0,4,J7,2022-2023,8
+8,Union Bordeaux-Bègles,14,7,3,0,4,J7,2022-2023,6
+9,Aviron Bayonnais,13,7,3,0,4,J7,2022-2023,5
+10,Racing 92,13,7,3,0,4,J7,2022-2023,10
+11,CA Brive,11,7,2,0,5,J7,2022-2023,12
+12,Section Paloise,9,7,2,0,5,J7,2022-2023,3
+13,USA Perpignan,9,7,2,0,5,J7,2022-2023,16
+0,Stade Toulousain,32,8,7,0,1,J8,2022-2023,9
+1,Stade Français Paris,23,8,5,0,3,J8,2022-2023,14
+2,Stade Rochelais,22,8,5,0,3,J8,2022-2023,11
+3,RC Toulon,21,8,5,0,3,J8,2022-2023,2
+4,LOU Rugby,21,8,5,0,3,J8,2022-2023,1
+5,ASM Clermont,20,8,4,1,3,J8,2022-2023,4
+6,Castres Olympique,17,8,4,0,4,J8,2022-2023,7
+7,Racing 92,17,8,4,0,4,J8,2022-2023,10
+8,Aviron Bayonnais,17,8,4,0,4,J8,2022-2023,5
+9,Union Bordeaux-Bègles,16,8,3,1,4,J8,2022-2023,6
+10,Montpellier Hérault Rugby,15,8,3,0,5,J8,2022-2023,8
+11,CA Brive,11,8,2,0,6,J8,2022-2023,12
+12,Section Paloise,10,8,2,0,6,J8,2022-2023,3
+13,USA Perpignan,10,8,2,0,6,J8,2022-2023,16
+0,Stade Toulousain,33,9,7,0,2,J9,2022-2023,9
+1,Stade Français Paris,24,9,5,0,4,J9,2022-2023,14
+2,Stade Rochelais,22,9,5,0,4,J9,2022-2023,11
+3,RC Toulon,22,9,5,0,4,J9,2022-2023,2
+4,Castres Olympique,21,9,5,0,4,J9,2022-2023,7
+5,Racing 92,21,9,5,0,4,J9,2022-2023,10
+6,ASM Clermont,21,9,4,1,4,J9,2022-2023,4
+7,Aviron Bayonnais,21,9,5,0,4,J9,2022-2023,5
+8,LOU Rugby,21,9,5,0,4,J9,2022-2023,1
+9,Union Bordeaux-Bègles,20,9,4,1,4,J9,2022-2023,6
+10,Montpellier Hérault Rugby,19,9,4,0,5,J9,2022-2023,8
+11,Section Paloise,14,9,3,0,6,J9,2022-2023,3
+12,USA Perpignan,14,9,3,0,6,J9,2022-2023,16
+13,CA Brive,12,9,2,0,7,J9,2022-2023,12
+0,Stade Toulousain,35,10,7,1,2,J10,2022-2023,9
+1,Stade Rochelais,26,10,6,0,4,J10,2022-2023,11
+2,Racing 92,26,10,6,0,4,J10,2022-2023,10
+3,Stade Français Paris,26,10,5,1,4,J10,2022-2023,14
+4,LOU Rugby,25,10,6,0,4,J10,2022-2023,1
+5,Aviron Bayonnais,25,10,6,0,4,J10,2022-2023,5
+6,Montpellier Hérault Rugby,23,10,5,0,5,J10,2022-2023,8
+7,RC Toulon,22,10,5,0,5,J10,2022-2023,2
+8,ASM Clermont,22,10,4,1,5,J10,2022-2023,4
+9,Castres Olympique,21,10,5,0,5,J10,2022-2023,7
+10,Union Bordeaux-Bègles,20,10,4,1,5,J10,2022-2023,6
+11,Section Paloise,19,10,4,0,6,J10,2022-2023,3
+12,USA Perpignan,14,10,3,0,7,J10,2022-2023,16
+13,CA Brive,13,10,2,0,8,J10,2022-2023,12
+0,Stade Toulousain,35,11,7,1,3,J11,2022-2023,9
+1,Stade Rochelais,31,11,7,0,4,J11,2022-2023,11
+2,Racing 92,31,11,7,0,4,J11,2022-2023,10
+3,LOU Rugby,29,11,7,0,4,J11,2022-2023,1
+4,Montpellier Hérault Rugby,28,11,6,0,5,J11,2022-2023,8
+5,Stade Français Paris,27,11,5,1,5,J11,2022-2023,14
+6,RC Toulon,26,11,6,0,5,J11,2022-2023,2
+7,Aviron Bayonnais,25,11,6,0,5,J11,2022-2023,5
+8,Section Paloise,24,11,5,0,6,J11,2022-2023,3
+9,ASM Clermont,22,11,4,1,6,J11,2022-2023,4
+10,Union Bordeaux-Bègles,21,11,4,1,6,J11,2022-2023,6
+11,Castres Olympique,21,11,5,0,6,J11,2022-2023,7
+12,USA Perpignan,18,11,4,0,7,J11,2022-2023,16
+13,CA Brive,13,11,2,0,9,J11,2022-2023,12
+0,Stade Toulousain,40,12,8,1,3,J12,2022-2023,9
+1,Racing 92,35,12,8,0,4,J12,2022-2023,10
+2,Stade Français Paris,32,12,6,1,5,J12,2022-2023,14
+3,Stade Rochelais,31,12,7,0,5,J12,2022-2023,11
+4,Montpellier Hérault Rugby,29,12,6,0,6,J12,2022-2023,8
+5,LOU Rugby,29,12,7,0,5,J12,2022-2023,1
+6,Aviron Bayonnais,29,12,7,0,5,J12,2022-2023,5
+7,Union Bordeaux-Bègles,26,12,5,1,6,J12,2022-2023,6
+8,RC Toulon,26,12,6,0,6,J12,2022-2023,2
+9,ASM Clermont,26,12,5,1,6,J12,2022-2023,4
+10,Castres Olympique,25,12,6,0,6,J12,2022-2023,7
+11,Section Paloise,25,12,5,0,7,J12,2022-2023,3
+12,USA Perpignan,18,12,4,0,8,J12,2022-2023,16
+13,CA Brive,13,12,2,0,10,J12,2022-2023,12
+0,Stade Toulousain,44,13,9,1,3,J13,2022-2023,9
+1,Stade Français Paris,37,13,7,1,5,J13,2022-2023,14
+2,Racing 92,35,13,8,0,5,J13,2022-2023,10
+3,Montpellier Hérault Rugby,34,13,7,0,6,J13,2022-2023,8
+4,Stade Rochelais,32,13,7,0,6,J13,2022-2023,11
+5,Aviron Bayonnais,31,13,7,1,5,J13,2022-2023,5
+6,Union Bordeaux-Bègles,30,13,6,1,6,J13,2022-2023,6
+7,RC Toulon,30,13,7,0,6,J13,2022-2023,2
+8,LOU Rugby,29,13,7,0,6,J13,2022-2023,1
+9,ASM Clermont,27,13,5,1,7,J13,2022-2023,4
+10,Section Paloise,27,13,5,1,7,J13,2022-2023,3
+11,Castres Olympique,26,13,6,0,7,J13,2022-2023,7
+12,USA Perpignan,18,13,4,0,9,J13,2022-2023,16
+13,CA Brive,17,13,3,0,10,J13,2022-2023,12
+0,Stade Toulousain,49,14,10,1,3,J14,2022-2023,9
+1,Stade Français Paris,42,14,8,1,5,J14,2022-2023,14
+2,Stade Rochelais,37,14,8,0,6,J14,2022-2023,11
+3,Racing 92,37,14,8,1,5,J14,2022-2023,10
+4,Aviron Bayonnais,35,14,8,1,5,J14,2022-2023,5
+5,Union Bordeaux-Bègles,35,14,7,1,6,J14,2022-2023,6
+6,Montpellier Hérault Rugby,34,14,7,0,7,J14,2022-2023,8
+7,RC Toulon,31,14,7,0,7,J14,2022-2023,2
+8,LOU Rugby,30,14,7,0,7,J14,2022-2023,1
+9,Castres Olympique,28,14,6,1,7,J14,2022-2023,7
+10,ASM Clermont,27,14,5,1,8,J14,2022-2023,4
+11,Section Paloise,27,14,5,1,8,J14,2022-2023,3
+12,CA Brive,21,14,4,0,10,J14,2022-2023,12
+13,USA Perpignan,18,14,4,0,10,J14,2022-2023,16
+0,Stade Toulousain,49,15,10,1,4,J15,2022-2023,9
+1,Stade Français Paris,46,15,9,1,5,J15,2022-2023,14
+2,Stade Rochelais,41,15,9,0,6,J15,2022-2023,11
+3,Union Bordeaux-Bègles,39,15,8,1,6,J15,2022-2023,6
+4,Racing 92,38,15,8,1,6,J15,2022-2023,10
+5,Montpellier Hérault Rugby,38,15,8,0,7,J15,2022-2023,8
+6,Aviron Bayonnais,35,15,8,1,6,J15,2022-2023,5
+7,LOU Rugby,35,15,8,0,7,J15,2022-2023,1
+8,RC Toulon,31,15,7,0,8,J15,2022-2023,2
+9,ASM Clermont,31,15,6,1,8,J15,2022-2023,4
+10,Castres Olympique,28,15,6,1,8,J15,2022-2023,7
+11,Section Paloise,27,15,5,1,9,J15,2022-2023,3
+12,CA Brive,25,15,5,0,10,J15,2022-2023,12
+13,USA Perpignan,18,15,4,0,11,J15,2022-2023,16
+0,Stade Toulousain,54,16,11,1,4,J16,2022-2023,9
+1,Stade Français Paris,46,16,9,1,6,J16,2022-2023,14
+2,Stade Rochelais,42,16,9,0,7,J16,2022-2023,11
+3,Racing 92,42,16,9,1,6,J16,2022-2023,10
+4,Aviron Bayonnais,40,16,9,1,6,J16,2022-2023,5
+5,Union Bordeaux-Bègles,40,16,8,1,7,J16,2022-2023,6
+6,LOU Rugby,40,16,9,0,7,J16,2022-2023,1
+7,Montpellier Hérault Rugby,38,16,8,0,8,J16,2022-2023,8
+8,RC Toulon,35,16,8,0,8,J16,2022-2023,2
+9,Castres Olympique,32,16,7,1,8,J16,2022-2023,7
+10,ASM Clermont,31,16,6,1,9,J16,2022-2023,4
+11,Section Paloise,27,16,5,1,10,J16,2022-2023,3
+12,CA Brive,25,16,5,0,11,J16,2022-2023,12
+13,USA Perpignan,22,16,5,0,11,J16,2022-2023,16
+0,Stade Toulousain,58,17,12,1,4,J17,2022-2023,9
+1,Stade Français Paris,50,17,10,1,6,J17,2022-2023,14
+2,LOU Rugby,44,17,10,0,7,J17,2022-2023,1
+3,Stade Rochelais,43,17,9,0,8,J17,2022-2023,11
+4,Racing 92,42,17,9,1,7,J17,2022-2023,10
+5,Aviron Bayonnais,41,17,9,1,7,J17,2022-2023,5
+6,Union Bordeaux-Bègles,40,17,8,1,8,J17,2022-2023,6
+7,Montpellier Hérault Rugby,39,17,8,0,9,J17,2022-2023,8
+8,RC Toulon,39,17,9,0,8,J17,2022-2023,2
+9,ASM Clermont,36,17,7,1,9,J17,2022-2023,4
+10,Castres Olympique,32,17,7,1,9,J17,2022-2023,7
+11,Section Paloise,32,17,6,1,10,J17,2022-2023,3
+12,CA Brive,26,17,5,0,12,J17,2022-2023,12
+13,USA Perpignan,26,17,6,0,11,J17,2022-2023,16
+0,Stade Toulousain,58,18,12,1,5,J18,2022-2023,9
+1,Stade Français Paris,51,18,10,1,7,J18,2022-2023,14
+2,LOU Rugby,48,18,11,0,7,J18,2022-2023,1
+3,Stade Rochelais,47,18,10,0,8,J18,2022-2023,11
+4,Racing 92,46,18,10,1,7,J18,2022-2023,10
+5,Aviron Bayonnais,45,18,10,1,7,J18,2022-2023,5
+6,Union Bordeaux-Bègles,44,18,9,1,8,J18,2022-2023,6
+7,RC Toulon,43,18,10,0,8,J18,2022-2023,2
+8,Montpellier Hérault Rugby,39,18,8,0,10,J18,2022-2023,8
+9,ASM Clermont,36,18,7,1,10,J18,2022-2023,4
+10,Castres Olympique,32,18,7,1,10,J18,2022-2023,7
+11,Section Paloise,32,18,6,1,11,J18,2022-2023,3
+12,USA Perpignan,30,18,7,0,11,J18,2022-2023,16
+13,CA Brive,26,18,5,0,13,J18,2022-2023,12
+0,Stade Toulousain,63,19,13,1,5,J19,2022-2023,9
+1,Stade Français Paris,55,19,11,1,7,J19,2022-2023,14
+2,LOU Rugby,53,19,12,0,7,J19,2022-2023,1
+3,Stade Rochelais,52,19,11,0,8,J19,2022-2023,11
+4,Aviron Bayonnais,50,19,11,1,7,J19,2022-2023,5
+5,Union Bordeaux-Bègles,49,19,10,1,8,J19,2022-2023,6
+6,Racing 92,46,19,10,1,8,J19,2022-2023,10
+7,RC Toulon,43,19,10,0,9,J19,2022-2023,2
+8,ASM Clermont,40,19,8,1,10,J19,2022-2023,4
+9,Montpellier Hérault Rugby,39,19,8,0,11,J19,2022-2023,8
+10,Castres Olympique,32,19,7,1,11,J19,2022-2023,7
+11,Section Paloise,32,19,6,1,12,J19,2022-2023,3
+12,USA Perpignan,30,19,7,0,12,J19,2022-2023,16
+13,CA Brive,26,19,5,0,14,J19,2022-2023,12
+0,Stade Toulousain,67,20,14,1,5,J20,2022-2023,9
+1,Stade Rochelais,56,20,12,0,8,J20,2022-2023,11
+2,Stade Français Paris,55,20,11,1,8,J20,2022-2023,14
+3,LOU Rugby,54,20,12,0,8,J20,2022-2023,1
+4,Union Bordeaux-Bègles,53,20,11,1,8,J20,2022-2023,6
+5,Aviron Bayonnais,50,20,11,1,8,J20,2022-2023,5
+6,RC Toulon,48,20,11,0,9,J20,2022-2023,2
+7,Racing 92,47,20,10,1,9,J20,2022-2023,10
+8,Montpellier Hérault Rugby,44,20,9,0,11,J20,2022-2023,8
+9,ASM Clermont,40,20,8,1,11,J20,2022-2023,4
+10,Castres Olympique,36,20,8,1,11,J20,2022-2023,7
+11,USA Perpignan,34,20,8,0,12,J20,2022-2023,16
+12,Section Paloise,33,20,6,1,13,J20,2022-2023,3
+13,CA Brive,26,20,5,0,15,J20,2022-2023,12
+0,Stade Toulousain,67,21,14,1,6,J21,2022-2023,9
+1,Stade Rochelais,61,21,13,0,8,J21,2022-2023,11
+2,Stade Français Paris,56,21,11,1,9,J21,2022-2023,14
+3,LOU Rugby,55,21,12,0,9,J21,2022-2023,1
+4,Union Bordeaux-Bègles,53,21,11,1,9,J21,2022-2023,6
+5,RC Toulon,52,21,12,0,9,J21,2022-2023,2
+6,Racing 92,51,21,11,1,9,J21,2022-2023,10
+7,Aviron Bayonnais,50,21,11,1,9,J21,2022-2023,5
+8,Montpellier Hérault Rugby,48,21,10,0,11,J21,2022-2023,8
+9,ASM Clermont,45,21,9,1,11,J21,2022-2023,4
+10,Castres Olympique,40,21,9,1,11,J21,2022-2023,7
+11,Section Paloise,37,21,7,1,13,J21,2022-2023,3
+12,USA Perpignan,35,21,8,0,13,J21,2022-2023,16
+13,CA Brive,26,21,5,0,16,J21,2022-2023,12
+0,Stade Toulousain,71,22,15,1,6,J22,2022-2023,9
+1,Stade Rochelais,65,22,14,0,8,J22,2022-2023,11
+2,Stade Français Paris,60,22,12,1,9,J22,2022-2023,14
+3,RC Toulon,57,22,13,0,9,J22,2022-2023,2
+4,LOU Rugby,56,22,12,0,10,J22,2022-2023,1
+5,Racing 92,56,22,12,1,9,J22,2022-2023,10
+6,Union Bordeaux-Bègles,54,22,11,1,10,J22,2022-2023,6
+7,Aviron Bayonnais,50,22,11,1,10,J22,2022-2023,5
+8,Montpellier Hérault Rugby,48,22,10,0,12,J22,2022-2023,8
+9,ASM Clermont,46,22,9,1,12,J22,2022-2023,4
+10,Castres Olympique,44,22,10,1,11,J22,2022-2023,7
+11,Section Paloise,41,22,8,1,13,J22,2022-2023,3
+12,USA Perpignan,35,22,8,0,14,J22,2022-2023,16
+13,CA Brive,27,22,5,0,17,J22,2022-2023,12
+0,Stade Toulousain,71,23,15,1,7,J23,2022-2023,9
+1,Stade Rochelais,70,23,15,0,8,J23,2022-2023,11
+2,Stade Français Paris,64,23,13,1,9,J23,2022-2023,14
+3,Union Bordeaux-Bègles,58,23,12,1,10,J23,2022-2023,6
+4,RC Toulon,57,23,13,0,10,J23,2022-2023,2
+5,LOU Rugby,56,23,12,0,11,J23,2022-2023,1
+6,Racing 92,56,23,12,1,10,J23,2022-2023,10
+7,Aviron Bayonnais,54,23,12,1,10,J23,2022-2023,5
+8,Castres Olympique,49,23,11,1,11,J23,2022-2023,7
+9,Montpellier Hérault Rugby,49,23,10,0,13,J23,2022-2023,8
+10,ASM Clermont,46,23,9,1,13,J23,2022-2023,4
+11,Section Paloise,42,23,8,1,14,J23,2022-2023,3
+12,USA Perpignan,39,23,9,0,14,J23,2022-2023,16
+13,CA Brive,31,23,6,0,17,J23,2022-2023,12
+0,Stade Toulousain,75,24,16,1,7,J24,2022-2023,9
+1,Stade Rochelais,74,24,16,0,8,J24,2022-2023,11
+2,Stade Français Paris,64,24,13,1,10,J24,2022-2023,14
+3,Racing 92,61,24,13,1,10,J24,2022-2023,10
+4,LOU Rugby,60,24,13,0,11,J24,2022-2023,1
+5,Union Bordeaux-Bègles,58,24,12,1,11,J24,2022-2023,6
+6,RC Toulon,57,24,13,0,11,J24,2022-2023,2
+7,Aviron Bayonnais,54,24,12,1,11,J24,2022-2023,5
+8,ASM Clermont,51,24,10,1,13,J24,2022-2023,4
+9,Montpellier Hérault Rugby,50,24,10,0,14,J24,2022-2023,8
+10,Castres Olympique,49,24,11,1,12,J24,2022-2023,7
+11,Section Paloise,47,24,9,1,14,J24,2022-2023,3
+12,USA Perpignan,39,24,9,0,15,J24,2022-2023,16
+13,CA Brive,35,24,7,0,17,J24,2022-2023,12
+0,Stade Toulousain,76,25,16,1,8,J25,2022-2023,9
+1,Stade Rochelais,74,25,16,0,9,J25,2022-2023,11
+2,Stade Français Paris,66,25,13,2,10,J25,2022-2023,14
+3,Racing 92,66,25,14,1,10,J25,2022-2023,10
+4,Union Bordeaux-Bègles,63,25,13,1,11,J25,2022-2023,6
+5,LOU Rugby,62,25,13,1,11,J25,2022-2023,1
+6,Aviron Bayonnais,58,25,13,1,11,J25,2022-2023,5
+7,RC Toulon,57,25,13,0,12,J25,2022-2023,2
+8,Montpellier Hérault Rugby,54,25,11,0,14,J25,2022-2023,8
+9,Castres Olympique,53,25,12,1,12,J25,2022-2023,7
+10,ASM Clermont,52,25,10,1,14,J25,2022-2023,4
+11,Section Paloise,47,25,9,1,15,J25,2022-2023,3
+12,USA Perpignan,43,25,10,0,15,J25,2022-2023,16
+13,CA Brive,36,25,7,0,18,J25,2022-2023,12
+0,Stade Toulousain,81,26,17,1,8,J26,2022-2023,9
+1,Stade Rochelais,78,26,17,0,9,J26,2022-2023,11
+2,LOU Rugby,67,26,14,1,11,J26,2022-2023,1
+3,Stade Français Paris,67,26,13,2,11,J26,2022-2023,14
+4,Racing 92,66,26,14,1,11,J26,2022-2023,10
+5,Union Bordeaux-Bègles,63,26,13,1,12,J26,2022-2023,6
+6,RC Toulon,61,26,14,0,12,J26,2022-2023,2
+7,Aviron Bayonnais,58,26,13,1,12,J26,2022-2023,5
+8,Castres Olympique,57,26,13,1,12,J26,2022-2023,7
+9,ASM Clermont,56,26,11,1,14,J26,2022-2023,4
+10,Montpellier Hérault Rugby,54,26,11,0,15,J26,2022-2023,8
+11,Section Paloise,52,26,10,1,15,J26,2022-2023,3
+12,USA Perpignan,43,26,10,0,16,J26,2022-2023,16
+13,CA Brive,36,26,7,0,19,J26,2022-2023,12
+0,LOU Rugby,5,1,1,0,0,J1,2023-2024,1
+1,Stade Français Paris,4,1,1,0,0,J1,2023-2024,14
+2,Oyonnax Rugby,4,1,1,0,0,J1,2023-2024,17
+3,Aviron Bayonnais,4,1,1,0,0,J1,2023-2024,5
+4,Montpellier Hérault Rugby,4,1,1,0,0,J1,2023-2024,8
+5,Racing 92,4,1,1,0,0,J1,2023-2024,10
+6,Castres Olympique,4,1,1,0,0,J1,2023-2024,7
+7,Section Paloise,1,1,0,0,1,J1,2023-2024,3
+8,Union Bordeaux-Bègles,1,1,0,0,1,J1,2023-2024,6
+9,Stade Rochelais,0,1,0,0,1,J1,2023-2024,11
+10,RC Toulon,0,1,0,0,1,J1,2023-2024,2
+11,ASM Clermont,0,1,0,0,1,J1,2023-2024,4
+12,Stade Toulousain,0,1,0,0,1,J1,2023-2024,9
+13,USA Perpignan,0,1,0,0,1,J1,2023-2024,16
+0,Stade Français Paris,8,2,2,0,0,J2,2023-2024,14
+1,Racing 92,5,2,1,0,1,J2,2023-2024,10
+2,Section Paloise,5,2,1,0,1,J2,2023-2024,3
+3,Castres Olympique,5,2,1,0,1,J2,2023-2024,7
+4,Union Bordeaux-Bègles,5,2,1,0,1,J2,2023-2024,6
+5,Aviron Bayonnais,5,2,1,0,1,J2,2023-2024,5
+6,Stade Toulousain,5,2,1,0,1,J2,2023-2024,9
+7,ASM Clermont,5,2,1,0,1,J2,2023-2024,4
+8,LOU Rugby,5,2,1,0,1,J2,2023-2024,1
+9,Montpellier Hérault Rugby,4,2,1,0,1,J2,2023-2024,8
+10,Stade Rochelais,4,2,1,0,1,J2,2023-2024,11
+11,Oyonnax Rugby,4,2,1,0,1,J2,2023-2024,17
+12,RC Toulon,4,2,1,0,1,J2,2023-2024,2
+13,USA Perpignan,0,2,0,0,2,J2,2023-2024,16
+0,Stade Français Paris,13,3,3,0,0,J3,2023-2024,14
+1,Section Paloise,10,3,2,0,1,J3,2023-2024,3
+2,Castres Olympique,10,3,2,0,1,J3,2023-2024,7
+3,Racing 92,10,3,2,0,1,J3,2023-2024,10
+4,Stade Toulousain,9,3,2,0,1,J3,2023-2024,9
+5,ASM Clermont,9,3,2,0,1,J3,2023-2024,4
+6,Union Bordeaux-Bègles,9,3,2,0,1,J3,2023-2024,6
+7,LOU Rugby,5,3,1,0,2,J3,2023-2024,1
+8,Stade Rochelais,5,3,1,0,2,J3,2023-2024,11
+9,RC Toulon,5,3,1,0,2,J3,2023-2024,2
+10,Aviron Bayonnais,5,3,1,0,2,J3,2023-2024,5
+11,Oyonnax Rugby,4,3,1,0,2,J3,2023-2024,17
+12,Montpellier Hérault Rugby,4,3,1,0,2,J3,2023-2024,8
+13,USA Perpignan,0,3,0,0,3,J3,2023-2024,16
+0,Section Paloise,14,4,3,0,1,J4,2023-2024,3
+1,Castres Olympique,14,4,3,0,1,J4,2023-2024,7
+2,Racing 92,14,4,3,0,1,J4,2023-2024,10
+3,Stade Français Paris,13,4,3,0,1,J4,2023-2024,14
+4,Stade Toulousain,13,4,3,0,1,J4,2023-2024,9
+5,LOU Rugby,10,4,2,0,2,J4,2023-2024,1
+6,RC Toulon,10,4,2,0,2,J4,2023-2024,2
+7,Union Bordeaux-Bègles,9,4,2,0,2,J4,2023-2024,6
+8,Aviron Bayonnais,9,4,2,0,2,J4,2023-2024,5
+9,ASM Clermont,9,4,2,0,2,J4,2023-2024,4
+10,Stade Rochelais,6,4,1,0,3,J4,2023-2024,11
+11,Montpellier Hérault Rugby,5,4,1,0,3,J4,2023-2024,8
+12,Oyonnax Rugby,4,4,1,0,3,J4,2023-2024,17
+13,USA Perpignan,0,4,0,0,4,J4,2023-2024,16
+0,Section Paloise,18,5,4,0,1,J5,2023-2024,3
+1,Racing 92,18,5,4,0,1,J5,2023-2024,10
+2,Stade Français Paris,18,5,4,0,1,J5,2023-2024,14
+3,ASM Clermont,14,5,3,0,2,J5,2023-2024,4
+4,Castres Olympique,14,5,3,0,2,J5,2023-2024,7
+5,Stade Toulousain,14,5,3,0,2,J5,2023-2024,9
+6,Union Bordeaux-Bègles,13,5,3,0,2,J5,2023-2024,6
+7,LOU Rugby,11,5,2,0,3,J5,2023-2024,1
+8,RC Toulon,11,5,2,0,3,J5,2023-2024,2
+9,Aviron Bayonnais,9,5,2,0,3,J5,2023-2024,5
+10,Oyonnax Rugby,8,5,2,0,3,J5,2023-2024,17
+11,Stade Rochelais,7,5,1,0,4,J5,2023-2024,11
+12,Montpellier Hérault Rugby,5,5,1,0,4,J5,2023-2024,8
+13,USA Perpignan,4,5,1,0,4,J5,2023-2024,16
+0,Stade Français Paris,22,6,5,0,1,J6,2023-2024,14
+1,Section Paloise,22,6,5,0,1,J6,2023-2024,3
+2,Racing 92,19,6,4,0,2,J6,2023-2024,10
+3,Castres Olympique,19,6,4,0,2,J6,2023-2024,7
+4,Stade Toulousain,18,6,4,0,2,J6,2023-2024,9
+5,ASM Clermont,18,6,4,0,2,J6,2023-2024,4
+6,RC Toulon,15,6,3,0,3,J6,2023-2024,2
+7,Union Bordeaux-Bègles,13,6,3,0,3,J6,2023-2024,6
+8,LOU Rugby,12,6,2,0,4,J6,2023-2024,1
+9,Stade Rochelais,11,6,2,0,4,J6,2023-2024,11
+10,Aviron Bayonnais,10,6,2,0,4,J6,2023-2024,5
+11,Oyonnax Rugby,8,6,2,0,4,J6,2023-2024,17
+12,Montpellier Hérault Rugby,6,6,1,0,5,J6,2023-2024,8
+13,USA Perpignan,4,6,1,0,5,J6,2023-2024,16
+0,Stade Français Paris,23,7,5,0,2,J7,2023-2024,14
+1,Racing 92,23,7,5,0,2,J7,2023-2024,10
+2,Castres Olympique,23,7,5,0,2,J7,2023-2024,7
+3,Section Paloise,22,7,5,0,2,J7,2023-2024,3
+4,RC Toulon,19,7,4,0,3,J7,2023-2024,2
+5,ASM Clermont,19,7,4,0,3,J7,2023-2024,4
+6,Stade Toulousain,18,7,4,0,3,J7,2023-2024,9
+7,Stade Rochelais,15,7,3,0,4,J7,2023-2024,11
+8,Aviron Bayonnais,15,7,3,0,4,J7,2023-2024,5
+9,Union Bordeaux-Bègles,14,7,3,0,4,J7,2023-2024,6
+10,Oyonnax Rugby,12,7,3,0,4,J7,2023-2024,17
+11,LOU Rugby,12,7,2,0,5,J7,2023-2024,1
+12,USA Perpignan,8,7,2,0,5,J7,2023-2024,16
+13,Montpellier Hérault Rugby,6,7,1,0,6,J7,2023-2024,8
+0,Racing 92,28,8,6,0,2,J8,2023-2024,10
+1,Section Paloise,27,8,6,0,2,J8,2023-2024,3
+2,Stade Français Paris,23,8,5,0,3,J8,2023-2024,14
+3,RC Toulon,23,8,5,0,3,J8,2023-2024,2
+4,Castres Olympique,23,8,5,0,3,J8,2023-2024,7
+5,Stade Toulousain,23,8,5,0,3,J8,2023-2024,9
+6,Union Bordeaux-Bègles,19,8,4,0,4,J8,2023-2024,6
+7,ASM Clermont,19,8,4,0,4,J8,2023-2024,4
+8,Oyonnax Rugby,16,8,4,0,4,J8,2023-2024,17
+9,LOU Rugby,16,8,3,0,5,J8,2023-2024,1
+10,Stade Rochelais,15,8,3,0,5,J8,2023-2024,11
+11,Aviron Bayonnais,15,8,3,0,5,J8,2023-2024,5
+12,USA Perpignan,8,8,2,0,6,J8,2023-2024,16
+13,Montpellier Hérault Rugby,7,8,1,0,7,J8,2023-2024,8
+0,Racing 92,29,9,6,0,3,J9,2023-2024,10
+1,RC Toulon,28,9,6,0,3,J9,2023-2024,2
+2,Castres Olympique,28,9,6,0,3,J9,2023-2024,7
+3,Section Paloise,27,9,6,0,3,J9,2023-2024,3
+4,Stade Français Paris,27,9,6,0,3,J9,2023-2024,14
+5,Stade Toulousain,23,9,5,0,4,J9,2023-2024,9
+6,Union Bordeaux-Bègles,23,9,5,0,4,J9,2023-2024,6
+7,ASM Clermont,23,9,5,0,4,J9,2023-2024,4
+8,Stade Rochelais,20,9,4,0,5,J9,2023-2024,11
+9,Aviron Bayonnais,19,9,4,0,5,J9,2023-2024,5
+10,Oyonnax Rugby,16,9,4,0,5,J9,2023-2024,17
+11,LOU Rugby,16,9,3,0,6,J9,2023-2024,1
+12,USA Perpignan,8,9,2,0,7,J9,2023-2024,16
+13,Montpellier Hérault Rugby,7,9,1,0,8,J9,2023-2024,8
+0,Racing 92,34,10,7,0,3,J10,2023-2024,10
+1,Section Paloise,31,10,7,0,3,J10,2023-2024,3
+2,Stade Français Paris,31,10,7,0,3,J10,2023-2024,14
+3,Union Bordeaux-Bègles,28,10,6,0,4,J10,2023-2024,6
+4,RC Toulon,28,10,6,0,4,J10,2023-2024,2
+5,Castres Olympique,28,10,6,0,4,J10,2023-2024,7
+6,Stade Toulousain,27,10,6,0,4,J10,2023-2024,9
+7,ASM Clermont,23,10,5,0,5,J10,2023-2024,4
+8,Stade Rochelais,21,10,4,0,6,J10,2023-2024,11
+9,Aviron Bayonnais,19,10,4,0,6,J10,2023-2024,5
+10,Oyonnax Rugby,16,10,4,0,6,J10,2023-2024,17
+11,LOU Rugby,16,10,3,0,7,J10,2023-2024,1
+12,USA Perpignan,13,10,3,0,7,J10,2023-2024,16
+13,Montpellier Hérault Rugby,11,10,2,0,8,J10,2023-2024,8
+0,Racing 92,35,11,7,0,4,J11,2023-2024,10
+1,Union Bordeaux-Bègles,32,11,7,0,4,J11,2023-2024,6
+2,RC Toulon,32,11,7,0,4,J11,2023-2024,2
+3,Section Paloise,31,11,7,0,4,J11,2023-2024,3
+4,Stade Français Paris,31,11,7,0,4,J11,2023-2024,14
+5,Castres Olympique,29,11,6,0,5,J11,2023-2024,7
+6,Stade Toulousain,27,11,6,0,5,J11,2023-2024,9
+7,Stade Rochelais,26,11,5,0,6,J11,2023-2024,11
+8,ASM Clermont,24,11,5,0,6,J11,2023-2024,4
+9,Aviron Bayonnais,23,11,5,0,6,J11,2023-2024,5
+10,Oyonnax Rugby,20,11,5,0,6,J11,2023-2024,17
+11,LOU Rugby,20,11,4,0,7,J11,2023-2024,1
+12,USA Perpignan,17,11,4,0,7,J11,2023-2024,16
+13,Montpellier Hérault Rugby,12,11,2,0,9,J11,2023-2024,8
+0,Racing 92,40,12,8,0,4,J12,2023-2024,10
+1,Union Bordeaux-Bègles,36,12,8,0,4,J12,2023-2024,6
+2,Stade Français Paris,33,12,7,1,4,J12,2023-2024,14
+3,Stade Toulousain,32,12,7,0,5,J12,2023-2024,9
+4,RC Toulon,32,12,7,0,5,J12,2023-2024,2
+5,Section Paloise,31,12,7,0,5,J12,2023-2024,3
+6,Castres Olympique,30,12,6,0,6,J12,2023-2024,7
+7,Stade Rochelais,30,12,6,0,6,J12,2023-2024,11
+8,ASM Clermont,26,12,5,1,6,J12,2023-2024,4
+9,Aviron Bayonnais,24,12,5,0,7,J12,2023-2024,5
+10,USA Perpignan,21,12,5,0,7,J12,2023-2024,16
+11,Oyonnax Rugby,20,12,5,0,7,J12,2023-2024,17
+12,LOU Rugby,20,12,4,0,8,J12,2023-2024,1
+13,Montpellier Hérault Rugby,16,12,3,0,9,J12,2023-2024,8
+0,Racing 92,40,13,8,0,5,J13,2023-2024,10
+1,Stade Français Paris,37,13,8,1,4,J13,2023-2024,14
+2,Union Bordeaux-Bègles,37,13,8,0,5,J13,2023-2024,6
+3,Stade Toulousain,36,13,8,0,5,J13,2023-2024,9
+4,RC Toulon,36,13,8,0,5,J13,2023-2024,2
+5,Section Paloise,32,13,7,0,6,J13,2023-2024,3
+6,Castres Olympique,31,13,6,0,7,J13,2023-2024,7
+7,Stade Rochelais,31,13,6,0,7,J13,2023-2024,11
+8,ASM Clermont,30,13,6,1,6,J13,2023-2024,4
+9,Aviron Bayonnais,28,13,6,0,7,J13,2023-2024,5
+10,LOU Rugby,24,13,5,0,8,J13,2023-2024,1
+11,USA Perpignan,21,13,5,0,8,J13,2023-2024,16
+12,Oyonnax Rugby,21,13,5,0,8,J13,2023-2024,17
+13,Montpellier Hérault Rugby,20,13,4,0,9,J13,2023-2024,8
+0,Stade Français Paris,41,14,9,1,4,J14,2023-2024,14
+1,Stade Toulousain,41,14,9,0,5,J14,2023-2024,9
+2,Union Bordeaux-Bègles,41,14,9,0,5,J14,2023-2024,6
+3,Racing 92,40,14,8,0,6,J14,2023-2024,10
+4,RC Toulon,37,14,8,0,6,J14,2023-2024,2
+5,ASM Clermont,35,14,7,1,6,J14,2023-2024,4
+6,Castres Olympique,35,14,7,0,7,J14,2023-2024,7
+7,Stade Rochelais,35,14,7,0,7,J14,2023-2024,11
+8,Section Paloise,32,14,7,0,7,J14,2023-2024,3
+9,Aviron Bayonnais,28,14,6,0,8,J14,2023-2024,5
+10,USA Perpignan,26,14,6,0,8,J14,2023-2024,16
+11,LOU Rugby,24,14,5,0,9,J14,2023-2024,1
+12,Oyonnax Rugby,22,14,5,0,9,J14,2023-2024,17
+13,Montpellier Hérault Rugby,20,14,4,0,10,J14,2023-2024,8
+0,Stade Français Paris,46,15,10,1,4,J15,2023-2024,14
+1,Stade Toulousain,46,15,10,0,5,J15,2023-2024,9
+2,Union Bordeaux-Bègles,41,15,9,0,6,J15,2023-2024,6
+3,Racing 92,40,15,8,0,7,J15,2023-2024,10
+4,Castres Olympique,39,15,8,0,7,J15,2023-2024,7
+5,RC Toulon,37,15,8,0,7,J15,2023-2024,2
+6,Section Paloise,36,15,8,0,7,J15,2023-2024,3
+7,ASM Clermont,35,15,7,1,7,J15,2023-2024,4
+8,Stade Rochelais,35,15,7,0,8,J15,2023-2024,11
+9,Aviron Bayonnais,32,15,7,0,8,J15,2023-2024,5
+10,LOU Rugby,28,15,6,0,9,J15,2023-2024,1
+11,USA Perpignan,26,15,6,0,9,J15,2023-2024,16
+12,Montpellier Hérault Rugby,25,15,5,0,10,J15,2023-2024,8
+13,Oyonnax Rugby,22,15,5,0,10,J15,2023-2024,17
+0,Stade Français Paris,50,16,11,1,4,J16,2023-2024,14
+1,Stade Toulousain,50,16,11,0,5,J16,2023-2024,9
+2,Castres Olympique,44,16,9,0,7,J16,2023-2024,7
+3,Union Bordeaux-Bègles,41,16,9,0,7,J16,2023-2024,6
+4,Section Paloise,40,16,9,0,7,J16,2023-2024,3
+5,Racing 92,40,16,8,0,8,J16,2023-2024,10
+6,RC Toulon,37,16,8,0,8,J16,2023-2024,2
+7,ASM Clermont,36,16,7,1,8,J16,2023-2024,4
+8,Stade Rochelais,35,16,7,0,9,J16,2023-2024,11
+9,LOU Rugby,33,16,7,0,9,J16,2023-2024,1
+10,Aviron Bayonnais,33,16,7,0,9,J16,2023-2024,5
+11,USA Perpignan,31,16,7,0,9,J16,2023-2024,16
+12,Montpellier Hérault Rugby,29,16,6,0,10,J16,2023-2024,8
+13,Oyonnax Rugby,22,16,5,0,11,J16,2023-2024,17
+0,Stade Français Paris,55,17,12,1,4,J17,2023-2024,14
+1,Stade Toulousain,55,17,12,0,5,J17,2023-2024,9
+2,Union Bordeaux-Bègles,45,17,10,0,7,J17,2023-2024,6
+3,Castres Olympique,44,17,9,0,8,J17,2023-2024,7
+4,RC Toulon,41,17,9,0,8,J17,2023-2024,2
+5,Racing 92,40,17,8,0,9,J17,2023-2024,10
+6,Stade Rochelais,40,17,8,0,9,J17,2023-2024,11
+7,Section Paloise,40,17,9,0,8,J17,2023-2024,3
+8,Aviron Bayonnais,38,17,8,0,9,J17,2023-2024,5
+9,ASM Clermont,36,17,7,1,9,J17,2023-2024,4
+10,LOU Rugby,33,17,7,0,10,J17,2023-2024,1
+11,Montpellier Hérault Rugby,33,17,7,0,10,J17,2023-2024,8
+12,USA Perpignan,31,17,7,0,10,J17,2023-2024,16
+13,Oyonnax Rugby,23,17,5,0,12,J17,2023-2024,17
+0,Stade Français Paris,55,18,12,1,5,J18,2023-2024,14
+1,Stade Toulousain,55,18,12,0,6,J18,2023-2024,9
+2,Stade Rochelais,45,18,9,0,9,J18,2023-2024,11
+3,Union Bordeaux-Bègles,45,18,10,0,8,J18,2023-2024,6
+4,Castres Olympique,44,18,9,0,9,J18,2023-2024,7
+5,Racing 92,44,18,9,0,9,J18,2023-2024,10
+6,Section Paloise,44,18,10,0,8,J18,2023-2024,3
+7,RC Toulon,41,18,9,0,9,J18,2023-2024,2
+8,Aviron Bayonnais,39,18,8,0,10,J18,2023-2024,5
+9,ASM Clermont,38,18,7,2,9,J18,2023-2024,4
+10,LOU Rugby,38,18,8,0,10,J18,2023-2024,1
+11,Montpellier Hérault Rugby,37,18,8,0,10,J18,2023-2024,8
+12,USA Perpignan,35,18,8,0,10,J18,2023-2024,16
+13,Oyonnax Rugby,25,18,5,1,12,J18,2023-2024,17
+0,Stade Français Paris,59,19,13,1,5,J19,2023-2024,14
+1,Stade Toulousain,56,19,12,0,7,J19,2023-2024,9
+2,Union Bordeaux-Bègles,49,19,11,0,8,J19,2023-2024,6
+3,Racing 92,48,19,10,0,9,J19,2023-2024,10
+4,RC Toulon,46,19,10,0,9,J19,2023-2024,2
+5,Stade Rochelais,46,19,9,0,10,J19,2023-2024,11
+6,Castres Olympique,45,19,9,0,10,J19,2023-2024,7
+7,Section Paloise,45,19,10,0,9,J19,2023-2024,3
+8,Aviron Bayonnais,43,19,9,0,10,J19,2023-2024,5
+9,ASM Clermont,42,19,8,2,9,J19,2023-2024,4
+10,USA Perpignan,39,19,9,0,10,J19,2023-2024,16
+11,LOU Rugby,38,19,8,0,11,J19,2023-2024,1
+12,Montpellier Hérault Rugby,37,19,8,0,11,J19,2023-2024,8
+13,Oyonnax Rugby,26,19,5,1,13,J19,2023-2024,17
+0,Stade Français Paris,63,20,14,1,5,J20,2023-2024,14
+1,Stade Toulousain,60,20,13,0,7,J20,2023-2024,9
+2,Racing 92,52,20,11,0,9,J20,2023-2024,10
+3,RC Toulon,51,20,11,0,9,J20,2023-2024,2
+4,Stade Rochelais,51,20,10,0,10,J20,2023-2024,11
+5,Union Bordeaux-Bègles,49,20,11,0,9,J20,2023-2024,6
+6,Section Paloise,46,20,10,0,10,J20,2023-2024,3
+7,Castres Olympique,45,20,9,0,11,J20,2023-2024,7
+8,USA Perpignan,44,20,10,0,10,J20,2023-2024,16
+9,Aviron Bayonnais,43,20,9,0,11,J20,2023-2024,5
+10,ASM Clermont,42,20,8,2,10,J20,2023-2024,4
+11,LOU Rugby,42,20,9,0,11,J20,2023-2024,1
+12,Montpellier Hérault Rugby,38,20,8,0,12,J20,2023-2024,8
+13,Oyonnax Rugby,26,20,5,1,14,J20,2023-2024,17
+0,Stade Français Paris,67,21,15,1,5,J21,2023-2024,14
+1,Stade Toulousain,61,21,13,0,8,J21,2023-2024,9
+2,Racing 92,57,21,12,0,9,J21,2023-2024,10
+3,RC Toulon,55,21,12,0,9,J21,2023-2024,2
+4,Union Bordeaux-Bègles,54,21,12,0,9,J21,2023-2024,6
+5,Stade Rochelais,52,21,10,0,11,J21,2023-2024,11
+6,Section Paloise,50,21,11,0,10,J21,2023-2024,3
+7,USA Perpignan,49,21,11,0,10,J21,2023-2024,16
+8,Castres Olympique,49,21,10,0,11,J21,2023-2024,7
+9,Aviron Bayonnais,44,21,9,0,12,J21,2023-2024,5
+10,ASM Clermont,42,21,8,2,11,J21,2023-2024,4
+11,LOU Rugby,42,21,9,0,12,J21,2023-2024,1
+12,Montpellier Hérault Rugby,38,21,8,0,13,J21,2023-2024,8
+13,Oyonnax Rugby,26,21,5,1,15,J21,2023-2024,17
+0,Stade Français Paris,67,22,15,1,6,J22,2023-2024,14
+1,Stade Toulousain,65,22,14,0,8,J22,2023-2024,9
+2,Union Bordeaux-Bègles,58,22,13,0,9,J22,2023-2024,6
+3,Racing 92,57,22,12,0,10,J22,2023-2024,10
+4,Stade Rochelais,56,22,11,0,11,J22,2023-2024,11
+5,RC Toulon,55,22,12,0,10,J22,2023-2024,2
+6,USA Perpignan,53,22,12,0,10,J22,2023-2024,16
+7,Castres Olympique,50,22,10,0,12,J22,2023-2024,7
+8,Section Paloise,50,22,11,0,11,J22,2023-2024,3
+9,ASM Clermont,47,22,9,2,11,J22,2023-2024,4
+10,LOU Rugby,47,22,10,0,12,J22,2023-2024,1
+11,Aviron Bayonnais,44,22,9,0,13,J22,2023-2024,5
+12,Montpellier Hérault Rugby,39,22,8,0,14,J22,2023-2024,8
+13,Oyonnax Rugby,30,22,6,1,15,J22,2023-2024,17
+0,Stade Toulousain,70,23,15,0,8,J23,2023-2024,9
+1,Stade Français Paris,67,23,15,1,7,J23,2023-2024,14
+2,Union Bordeaux-Bègles,63,23,14,0,9,J23,2023-2024,6
+3,RC Toulon,59,23,13,0,10,J23,2023-2024,2
+4,Racing 92,57,23,12,0,11,J23,2023-2024,10
+5,Stade Rochelais,56,23,11,0,12,J23,2023-2024,11
+6,Section Paloise,55,23,12,0,11,J23,2023-2024,3
+7,Castres Olympique,54,23,11,0,12,J23,2023-2024,7
+8,USA Perpignan,53,23,12,0,11,J23,2023-2024,16
+9,ASM Clermont,51,23,10,2,11,J23,2023-2024,4
+10,Aviron Bayonnais,48,23,10,0,13,J23,2023-2024,5
+11,LOU Rugby,47,23,10,0,13,J23,2023-2024,1
+12,Montpellier Hérault Rugby,40,23,8,0,15,J23,2023-2024,8
+13,Oyonnax Rugby,30,23,6,1,16,J23,2023-2024,17
+0,Stade Toulousain,74,24,16,0,8,J24,2023-2024,9
+1,Stade Français Paris,71,24,16,1,7,J24,2023-2024,14
+2,Union Bordeaux-Bègles,64,24,14,0,10,J24,2023-2024,6
+3,RC Toulon,63,24,14,0,10,J24,2023-2024,2
+4,Stade Rochelais,60,24,12,0,12,J24,2023-2024,11
+5,Racing 92,57,24,12,0,12,J24,2023-2024,10
+6,Section Paloise,56,24,12,0,12,J24,2023-2024,3
+7,ASM Clermont,56,24,11,2,11,J24,2023-2024,4
+8,USA Perpignan,54,24,12,0,12,J24,2023-2024,16
+9,Castres Olympique,54,24,11,0,13,J24,2023-2024,7
+10,Aviron Bayonnais,52,24,11,0,13,J24,2023-2024,5
+11,LOU Rugby,51,24,11,0,13,J24,2023-2024,1
+12,Montpellier Hérault Rugby,40,24,8,0,16,J24,2023-2024,8
+13,Oyonnax Rugby,30,24,6,1,17,J24,2023-2024,17
+0,Stade Toulousain,76,25,16,1,8,J25,2023-2024,9
+1,Stade Français Paris,71,25,16,1,8,J25,2023-2024,14
+2,RC Toulon,68,25,15,0,10,J25,2023-2024,2
+3,Union Bordeaux-Bègles,64,25,14,0,11,J25,2023-2024,6
+4,Stade Rochelais,62,25,12,1,12,J25,2023-2024,11
+5,Racing 92,61,25,13,0,12,J25,2023-2024,10
+6,USA Perpignan,58,25,13,0,12,J25,2023-2024,16
+7,Castres Olympique,58,25,12,0,13,J25,2023-2024,7
+8,Section Paloise,56,25,12,0,13,J25,2023-2024,3
+9,ASM Clermont,56,25,11,2,12,J25,2023-2024,4
+10,Aviron Bayonnais,52,25,11,0,14,J25,2023-2024,5
+11,LOU Rugby,51,25,11,0,14,J25,2023-2024,1
+12,Montpellier Hérault Rugby,44,25,9,0,16,J25,2023-2024,8
+13,Oyonnax Rugby,34,25,7,1,17,J25,2023-2024,17
+0,Stade Toulousain,76,26,16,1,9,J26,2023-2024,9
+1,Stade Français Paris,75,26,17,1,8,J26,2023-2024,14
+2,Union Bordeaux-Bègles,69,26,15,0,11,J26,2023-2024,6
+3,RC Toulon,69,26,15,0,11,J26,2023-2024,2
+4,Stade Rochelais,66,26,13,1,12,J26,2023-2024,11
+5,Racing 92,62,26,13,0,13,J26,2023-2024,10
+6,Castres Olympique,62,26,13,0,13,J26,2023-2024,7
+7,ASM Clermont,61,26,12,2,12,J26,2023-2024,4
+8,Section Paloise,60,26,13,0,13,J26,2023-2024,3
+9,USA Perpignan,58,26,13,0,13,J26,2023-2024,16
+10,LOU Rugby,55,26,12,0,14,J26,2023-2024,1
+11,Aviron Bayonnais,52,26,11,0,15,J26,2023-2024,5
+12,Montpellier Hérault Rugby,44,26,9,0,17,J26,2023-2024,8
+13,Oyonnax Rugby,34,26,7,1,18,J26,2023-2024,17
+0,ASM Clermont,5,1,1,0,0,J1,2024-2025,4
+1,Stade Toulousain,5,1,1,0,0,J1,2024-2025,9
+2,Union Bordeaux-Bègles,4,1,1,0,0,J1,2024-2025,6
+3,Stade Rochelais,4,1,1,0,0,J1,2024-2025,11
+4,LOU Rugby,4,1,1,0,0,J1,2024-2025,1
+5,Castres Olympique,4,1,1,0,0,J1,2024-2025,7
+6,Aviron Bayonnais,4,1,1,0,0,J1,2024-2025,5
+7,USA Perpignan,1,1,0,0,1,J1,2024-2025,16
+8,Racing 92,1,1,0,0,1,J1,2024-2025,10
+9,Montpellier Hérault Rugby,1,1,0,0,1,J1,2024-2025,8
+10,RC Toulon,1,1,0,0,1,J1,2024-2025,2
+11,Stade Français Paris,0,1,0,0,1,J1,2024-2025,14
+12,RC Vannes,0,1,0,0,1,J1,2024-2025,18
+13,Section Paloise,0,1,0,0,1,J1,2024-2025,3
+0,Stade Toulousain,9,2,2,0,0,J2,2024-2025,9
+1,LOU Rugby,8,2,2,0,0,J2,2024-2025,1
+2,ASM Clermont,5,2,1,0,1,J2,2024-2025,4
+3,Racing 92,5,2,1,0,1,J2,2024-2025,10
+4,Castres Olympique,5,2,1,0,1,J2,2024-2025,7
+5,RC Toulon,5,2,1,0,1,J2,2024-2025,2
+6,Union Bordeaux-Bègles,5,2,1,0,1,J2,2024-2025,6
+7,Montpellier Hérault Rugby,5,2,1,0,1,J2,2024-2025,8
+8,Section Paloise,5,2,1,0,1,J2,2024-2025,3
+9,Stade Rochelais,4,2,1,0,1,J2,2024-2025,11
+10,Stade Français Paris,4,2,1,0,1,J2,2024-2025,14
+11,Aviron Bayonnais,4,2,1,0,1,J2,2024-2025,5
+12,USA Perpignan,1,2,0,0,2,J2,2024-2025,16
+13,RC Vannes,1,2,0,0,2,J2,2024-2025,18
+0,Stade Toulousain,13,3,3,0,0,J3,2024-2025,9
+1,Union Bordeaux-Bègles,10,3,2,0,1,J3,2024-2025,6
+2,ASM Clermont,10,3,2,0,1,J3,2024-2025,4
+3,Castres Olympique,10,3,2,0,1,J3,2024-2025,7
+4,Stade Rochelais,9,3,2,0,1,J3,2024-2025,11
+5,RC Toulon,9,3,2,0,1,J3,2024-2025,2
+6,LOU Rugby,8,3,2,0,1,J3,2024-2025,1
+7,Stade Français Paris,5,3,1,0,2,J3,2024-2025,14
+8,RC Vannes,5,3,1,0,2,J3,2024-2025,18
+9,Montpellier Hérault Rugby,5,3,1,0,2,J3,2024-2025,8
+10,Racing 92,5,3,1,0,2,J3,2024-2025,10
+11,Section Paloise,5,3,1,0,2,J3,2024-2025,3
+12,Aviron Bayonnais,4,3,1,0,2,J3,2024-2025,5
+13,USA Perpignan,1,3,0,0,3,J3,2024-2025,16
+0,Union Bordeaux-Bègles,14,4,3,0,1,J4,2024-2025,6
+1,Stade Toulousain,14,4,3,0,1,J4,2024-2025,9
+2,RC Toulon,14,4,3,0,1,J4,2024-2025,2
+3,Stade Rochelais,13,4,3,0,1,J4,2024-2025,11
+4,LOU Rugby,12,4,3,0,1,J4,2024-2025,1
+5,Castres Olympique,11,4,2,0,2,J4,2024-2025,7
+6,ASM Clermont,10,4,2,0,2,J4,2024-2025,4
+7,Section Paloise,10,4,2,0,2,J4,2024-2025,3
+8,Aviron Bayonnais,8,4,2,0,2,J4,2024-2025,5
+9,Montpellier Hérault Rugby,6,4,1,0,3,J4,2024-2025,8
+10,USA Perpignan,6,4,1,0,3,J4,2024-2025,16
+11,Racing 92,6,4,1,0,3,J4,2024-2025,10
+12,Stade Français Paris,5,4,1,0,3,J4,2024-2025,14
+13,RC Vannes,5,4,1,0,3,J4,2024-2025,18
+0,Union Bordeaux-Bègles,18,5,4,0,1,J5,2024-2025,6
+1,Stade Rochelais,18,5,4,0,1,J5,2024-2025,11
+2,Castres Olympique,15,5,3,0,2,J5,2024-2025,7
+3,RC Toulon,15,5,3,0,2,J5,2024-2025,2
+4,Stade Toulousain,15,5,3,0,2,J5,2024-2025,9
+5,ASM Clermont,14,5,3,0,2,J5,2024-2025,4
+6,LOU Rugby,12,5,3,0,2,J5,2024-2025,1
+7,Section Paloise,11,5,2,0,3,J5,2024-2025,3
+8,USA Perpignan,10,5,2,0,3,J5,2024-2025,16
+9,Racing 92,10,5,2,0,3,J5,2024-2025,10
+10,Stade Français Paris,9,5,2,0,3,J5,2024-2025,14
+11,Aviron Bayonnais,9,5,2,0,3,J5,2024-2025,5
+12,Montpellier Hérault Rugby,6,5,1,0,4,J5,2024-2025,8
+13,RC Vannes,6,5,1,0,4,J5,2024-2025,18
+0,Union Bordeaux-Bègles,23,6,5,0,1,J6,2024-2025,6
+1,Stade Toulousain,20,6,4,0,2,J6,2024-2025,9
+2,Stade Rochelais,18,6,4,0,2,J6,2024-2025,11
+3,LOU Rugby,17,6,4,0,2,J6,2024-2025,1
+4,RC Toulon,15,6,3,0,3,J6,2024-2025,2
+5,Section Paloise,15,6,3,0,3,J6,2024-2025,3
+6,Castres Olympique,15,6,3,0,3,J6,2024-2025,7
+7,ASM Clermont,14,6,3,0,3,J6,2024-2025,4
+8,Racing 92,14,6,3,0,3,J6,2024-2025,10
+9,Aviron Bayonnais,14,6,3,0,3,J6,2024-2025,5
+10,Montpellier Hérault Rugby,10,6,2,0,4,J6,2024-2025,8
+11,USA Perpignan,10,6,2,0,4,J6,2024-2025,16
+12,Stade Français Paris,9,6,2,0,4,J6,2024-2025,14
+13,RC Vannes,7,6,1,0,5,J6,2024-2025,18
+0,Stade Toulousain,24,7,5,0,2,J7,2024-2025,9
+1,Union Bordeaux-Bègles,23,7,5,0,2,J7,2024-2025,6
+2,Stade Rochelais,22,7,5,0,2,J7,2024-2025,11
+3,RC Toulon,19,7,4,0,3,J7,2024-2025,2
+4,ASM Clermont,19,7,4,0,3,J7,2024-2025,4
+5,Castres Olympique,19,7,4,0,3,J7,2024-2025,7
+6,Aviron Bayonnais,18,7,4,0,3,J7,2024-2025,5
+7,LOU Rugby,18,7,4,0,3,J7,2024-2025,1
+8,Section Paloise,15,7,3,0,4,J7,2024-2025,3
+9,Racing 92,14,7,3,0,4,J7,2024-2025,10
+10,USA Perpignan,14,7,3,0,4,J7,2024-2025,16
+11,Montpellier Hérault Rugby,10,7,2,0,5,J7,2024-2025,8
+12,Stade Français Paris,9,7,2,0,5,J7,2024-2025,14
+13,RC Vannes,7,7,1,0,6,J7,2024-2025,18
+0,Stade Toulousain,29,8,6,0,2,J8,2024-2025,9
+1,Union Bordeaux-Bègles,28,8,6,0,2,J8,2024-2025,6
+2,Aviron Bayonnais,22,8,5,0,3,J8,2024-2025,5
+3,Stade Rochelais,22,8,5,0,3,J8,2024-2025,11
+4,RC Toulon,19,8,4,0,4,J8,2024-2025,2
+5,ASM Clermont,19,8,4,0,4,J8,2024-2025,4
+6,Castres Olympique,19,8,4,0,4,J8,2024-2025,7
+7,Racing 92,18,8,4,0,4,J8,2024-2025,10
+8,LOU Rugby,18,8,4,0,4,J8,2024-2025,1
+9,Section Paloise,15,8,3,0,5,J8,2024-2025,3
+10,Montpellier Hérault Rugby,14,8,3,0,5,J8,2024-2025,8
+11,Stade Français Paris,14,8,3,0,5,J8,2024-2025,14
+12,USA Perpignan,14,8,3,0,5,J8,2024-2025,16
+13,RC Vannes,11,8,2,0,6,J8,2024-2025,18
+0,Stade Toulousain,30,9,6,0,3,J9,2024-2025,9
+1,Union Bordeaux-Bègles,29,9,6,0,3,J9,2024-2025,6
+2,Stade Rochelais,27,9,6,0,3,J9,2024-2025,11
+3,Aviron Bayonnais,26,9,6,0,3,J9,2024-2025,5
+4,RC Toulon,23,9,5,0,4,J9,2024-2025,2
+5,ASM Clermont,23,9,5,0,4,J9,2024-2025,4
+6,Castres Olympique,23,9,5,0,4,J9,2024-2025,7
+7,Racing 92,22,9,5,0,4,J9,2024-2025,10
+8,USA Perpignan,19,9,4,0,5,J9,2024-2025,16
+9,LOU Rugby,18,9,4,0,5,J9,2024-2025,1
+10,Montpellier Hérault Rugby,15,9,3,0,6,J9,2024-2025,8
+11,Section Paloise,15,9,3,0,6,J9,2024-2025,3
+12,Stade Français Paris,14,9,3,0,6,J9,2024-2025,14
+13,RC Vannes,11,9,2,0,7,J9,2024-2025,18
+0,Stade Toulousain,35,10,7,0,3,J10,2024-2025,9
+1,Union Bordeaux-Bègles,33,10,7,0,3,J10,2024-2025,6
+2,Stade Rochelais,28,10,6,0,4,J10,2024-2025,11
+3,RC Toulon,28,10,6,0,4,J10,2024-2025,2
+4,Castres Olympique,27,10,6,0,4,J10,2024-2025,7
+5,ASM Clermont,27,10,6,0,4,J10,2024-2025,4
+6,Aviron Bayonnais,26,10,6,0,4,J10,2024-2025,5
+7,Racing 92,22,10,5,0,5,J10,2024-2025,10
+8,Montpellier Hérault Rugby,20,10,4,0,6,J10,2024-2025,8
+9,Stade Français Paris,19,10,4,0,6,J10,2024-2025,14
+10,USA Perpignan,19,10,4,0,6,J10,2024-2025,16
+11,LOU Rugby,18,10,4,0,6,J10,2024-2025,1
+12,Section Paloise,15,10,3,0,7,J10,2024-2025,3
+13,RC Vannes,11,10,2,0,8,J10,2024-2025,18
+0,Stade Toulousain,39,11,8,0,3,J11,2024-2025,9
+1,Union Bordeaux-Bègles,37,11,8,0,3,J11,2024-2025,6
+2,ASM Clermont,32,11,7,0,4,J11,2024-2025,4
+3,RC Toulon,32,11,7,0,4,J11,2024-2025,2
+4,Aviron Bayonnais,30,11,7,0,4,J11,2024-2025,5
+5,Stade Rochelais,28,11,6,0,5,J11,2024-2025,11
+6,Castres Olympique,27,11,6,0,5,J11,2024-2025,7
+7,Racing 92,23,11,5,0,6,J11,2024-2025,10
+8,Montpellier Hérault Rugby,21,11,4,0,7,J11,2024-2025,8
+9,Section Paloise,19,11,4,0,7,J11,2024-2025,3
+10,USA Perpignan,19,11,4,0,7,J11,2024-2025,16
+11,Stade Français Paris,19,11,4,0,7,J11,2024-2025,14
+12,LOU Rugby,18,11,4,0,7,J11,2024-2025,1
+13,RC Vannes,15,11,3,0,8,J11,2024-2025,18
+0,Union Bordeaux-Bègles,41,12,9,0,3,J12,2024-2025,6
+1,Stade Toulousain,41,12,8,1,3,J12,2024-2025,9
+2,RC Toulon,37,12,8,0,4,J12,2024-2025,2
+3,Aviron Bayonnais,34,12,8,0,4,J12,2024-2025,5
+4,ASM Clermont,33,12,7,0,5,J12,2024-2025,4
+5,Stade Rochelais,32,12,7,0,5,J12,2024-2025,11
+6,Castres Olympique,27,12,6,0,6,J12,2024-2025,7
+7,Montpellier Hérault Rugby,25,12,5,0,7,J12,2024-2025,8
+8,Racing 92,24,12,5,0,7,J12,2024-2025,10
+9,Stade Français Paris,23,12,5,0,7,J12,2024-2025,14
+10,LOU Rugby,20,12,4,1,7,J12,2024-2025,1
+11,USA Perpignan,19,12,4,0,8,J12,2024-2025,16
+12,Section Paloise,19,12,4,0,8,J12,2024-2025,3
+13,RC Vannes,15,12,3,0,9,J12,2024-2025,18
+0,Stade Toulousain,46,13,9,1,3,J13,2024-2025,9
+1,Union Bordeaux-Bègles,45,13,10,0,3,J13,2024-2025,6
+2,RC Toulon,38,13,8,0,5,J13,2024-2025,2
+3,Aviron Bayonnais,38,13,9,0,4,J13,2024-2025,5
+4,ASM Clermont,34,13,7,0,6,J13,2024-2025,4
+5,Stade Rochelais,32,13,7,0,6,J13,2024-2025,11
+6,Montpellier Hérault Rugby,29,13,6,0,7,J13,2024-2025,8
+7,Castres Olympique,27,13,6,0,7,J13,2024-2025,7
+8,Racing 92,26,13,5,1,7,J13,2024-2025,10
+9,Section Paloise,24,13,5,0,8,J13,2024-2025,3
+10,Stade Français Paris,23,13,5,0,8,J13,2024-2025,14
+11,USA Perpignan,23,13,5,0,8,J13,2024-2025,16
+12,LOU Rugby,22,13,4,2,7,J13,2024-2025,1
+13,RC Vannes,15,13,3,0,10,J13,2024-2025,18
+0,Union Bordeaux-Bègles,50,14,11,0,3,J14,2024-2025,6
+1,Stade Toulousain,47,14,9,1,4,J14,2024-2025,9
+2,RC Toulon,43,14,9,0,5,J14,2024-2025,2
+3,ASM Clermont,38,14,8,0,6,J14,2024-2025,4
+4,Aviron Bayonnais,38,14,9,0,5,J14,2024-2025,5
+5,Stade Rochelais,36,14,8,0,6,J14,2024-2025,11
+6,Montpellier Hérault Rugby,34,14,7,0,7,J14,2024-2025,8
+7,Castres Olympique,31,14,7,0,7,J14,2024-2025,7
+8,Racing 92,26,14,5,1,8,J14,2024-2025,10
+9,LOU Rugby,26,14,5,2,7,J14,2024-2025,1
+10,Section Paloise,25,14,5,0,9,J14,2024-2025,3
+11,USA Perpignan,24,14,5,0,9,J14,2024-2025,16
+12,Stade Français Paris,23,14,5,0,9,J14,2024-2025,14
+13,RC Vannes,16,14,3,0,11,J14,2024-2025,18
+0,Union Bordeaux-Bègles,51,15,11,0,4,J15,2024-2025,6
+1,Stade Toulousain,51,15,10,1,4,J15,2024-2025,9
+2,RC Toulon,48,15,10,0,5,J15,2024-2025,2
+3,Aviron Bayonnais,39,15,9,0,6,J15,2024-2025,5
+4,ASM Clermont,38,15,8,0,7,J15,2024-2025,4
+5,Stade Rochelais,36,15,8,0,7,J15,2024-2025,11
+6,Castres Olympique,35,15,8,0,7,J15,2024-2025,7
+7,Montpellier Hérault Rugby,34,15,7,0,8,J15,2024-2025,8
+8,LOU Rugby,30,15,6,2,7,J15,2024-2025,1
+9,Section Paloise,29,15,6,0,9,J15,2024-2025,3
+10,USA Perpignan,28,15,6,0,9,J15,2024-2025,16
+11,Racing 92,26,15,5,1,9,J15,2024-2025,10
+12,Stade Français Paris,24,15,5,0,10,J15,2024-2025,14
+13,RC Vannes,20,15,4,0,11,J15,2024-2025,18
+0,Stade Toulousain,55,16,11,1,4,J16,2024-2025,9
+1,Union Bordeaux-Bègles,52,16,11,0,5,J16,2024-2025,6
+2,RC Toulon,52,16,11,0,5,J16,2024-2025,2
+3,Aviron Bayonnais,43,16,10,0,6,J16,2024-2025,5
+4,ASM Clermont,38,16,8,0,8,J16,2024-2025,4
+5,Castres Olympique,37,16,8,1,7,J16,2024-2025,7
+6,Stade Rochelais,36,16,8,0,8,J16,2024-2025,11
+7,LOU Rugby,35,16,7,2,7,J16,2024-2025,1
+8,Montpellier Hérault Rugby,34,16,7,0,9,J16,2024-2025,8
+9,USA Perpignan,30,16,6,1,9,J16,2024-2025,16
+10,Section Paloise,30,16,6,0,10,J16,2024-2025,3
+11,Stade Français Paris,28,16,6,0,10,J16,2024-2025,14
+12,Racing 92,27,16,5,1,10,J16,2024-2025,10
+13,RC Vannes,24,16,5,0,11,J16,2024-2025,18
+0,Stade Toulousain,55,16,11,1,4,J17,2024-2025,9
+1,Union Bordeaux-Bègles,52,16,11,0,5,J17,2024-2025,6
+2,RC Toulon,52,16,11,0,5,J17,2024-2025,2
+3,Aviron Bayonnais,43,16,10,0,6,J17,2024-2025,5
+4,ASM Clermont,38,16,8,0,8,J17,2024-2025,4
+5,Castres Olympique,37,16,8,1,7,J17,2024-2025,7
+6,Stade Rochelais,36,16,8,0,8,J17,2024-2025,11
+7,LOU Rugby,35,16,7,2,7,J17,2024-2025,1
+8,Montpellier Hérault Rugby,34,16,7,0,9,J17,2024-2025,8
+9,USA Perpignan,30,16,6,1,9,J17,2024-2025,16
+10,Section Paloise,30,16,6,0,10,J17,2024-2025,3
+11,Stade Français Paris,28,16,6,0,10,J17,2024-2025,14
+12,Racing 92,27,16,5,1,10,J17,2024-2025,10
+13,RC Vannes,24,16,5,0,11,J17,2024-2025,18
+0,Stade Toulousain,55,16,11,1,4,J18,2024-2025,9
+1,Union Bordeaux-Bègles,52,16,11,0,5,J18,2024-2025,6
+2,RC Toulon,52,16,11,0,5,J18,2024-2025,2
+3,Aviron Bayonnais,43,16,10,0,6,J18,2024-2025,5
+4,ASM Clermont,38,16,8,0,8,J18,2024-2025,4
+5,Castres Olympique,37,16,8,1,7,J18,2024-2025,7
+6,Stade Rochelais,36,16,8,0,8,J18,2024-2025,11
+7,LOU Rugby,35,16,7,2,7,J18,2024-2025,1
+8,Montpellier Hérault Rugby,34,16,7,0,9,J18,2024-2025,8
+9,USA Perpignan,30,16,6,1,9,J18,2024-2025,16
+10,Section Paloise,30,16,6,0,10,J18,2024-2025,3
+11,Stade Français Paris,28,16,6,0,10,J18,2024-2025,14
+12,Racing 92,27,16,5,1,10,J18,2024-2025,10
+13,RC Vannes,24,16,5,0,11,J18,2024-2025,18
+0,Stade Toulousain,55,16,11,1,4,J19,2024-2025,9
+1,Union Bordeaux-Bègles,52,16,11,0,5,J19,2024-2025,6
+2,RC Toulon,52,16,11,0,5,J19,2024-2025,2
+3,Aviron Bayonnais,43,16,10,0,6,J19,2024-2025,5
+4,ASM Clermont,38,16,8,0,8,J19,2024-2025,4
+5,Castres Olympique,37,16,8,1,7,J19,2024-2025,7
+6,Stade Rochelais,36,16,8,0,8,J19,2024-2025,11
+7,LOU Rugby,35,16,7,2,7,J19,2024-2025,1
+8,Montpellier Hérault Rugby,34,16,7,0,9,J19,2024-2025,8
+9,USA Perpignan,30,16,6,1,9,J19,2024-2025,16
+10,Section Paloise,30,16,6,0,10,J19,2024-2025,3
+11,Stade Français Paris,28,16,6,0,10,J19,2024-2025,14
+12,Racing 92,27,16,5,1,10,J19,2024-2025,10
+13,RC Vannes,24,16,5,0,11,J19,2024-2025,18
+0,Stade Toulousain,55,16,11,1,4,J20,2024-2025,9
+1,Union Bordeaux-Bègles,52,16,11,0,5,J20,2024-2025,6
+2,RC Toulon,52,16,11,0,5,J20,2024-2025,2
+3,Aviron Bayonnais,43,16,10,0,6,J20,2024-2025,5
+4,ASM Clermont,38,16,8,0,8,J20,2024-2025,4
+5,Castres Olympique,37,16,8,1,7,J20,2024-2025,7
+6,Stade Rochelais,36,16,8,0,8,J20,2024-2025,11
+7,LOU Rugby,35,16,7,2,7,J20,2024-2025,1
+8,Montpellier Hérault Rugby,34,16,7,0,9,J20,2024-2025,8
+9,USA Perpignan,30,16,6,1,9,J20,2024-2025,16
+10,Section Paloise,30,16,6,0,10,J20,2024-2025,3
+11,Stade Français Paris,28,16,6,0,10,J20,2024-2025,14
+12,Racing 92,27,16,5,1,10,J20,2024-2025,10
+13,RC Vannes,24,16,5,0,11,J20,2024-2025,18
+0,Stade Toulousain,55,16,11,1,4,J21,2024-2025,9
+1,Union Bordeaux-Bègles,52,16,11,0,5,J21,2024-2025,6
+2,RC Toulon,52,16,11,0,5,J21,2024-2025,2
+3,Aviron Bayonnais,43,16,10,0,6,J21,2024-2025,5
+4,ASM Clermont,38,16,8,0,8,J21,2024-2025,4
+5,Castres Olympique,37,16,8,1,7,J21,2024-2025,7
+6,Stade Rochelais,36,16,8,0,8,J21,2024-2025,11
+7,LOU Rugby,35,16,7,2,7,J21,2024-2025,1
+8,Montpellier Hérault Rugby,34,16,7,0,9,J21,2024-2025,8
+9,USA Perpignan,30,16,6,1,9,J21,2024-2025,16
+10,Section Paloise,30,16,6,0,10,J21,2024-2025,3
+11,Stade Français Paris,28,16,6,0,10,J21,2024-2025,14
+12,Racing 92,27,16,5,1,10,J21,2024-2025,10
+13,RC Vannes,24,16,5,0,11,J21,2024-2025,18
+0,Stade Toulousain,55,16,11,1,4,J22,2024-2025,9
+1,Union Bordeaux-Bègles,52,16,11,0,5,J22,2024-2025,6
+2,RC Toulon,52,16,11,0,5,J22,2024-2025,2
+3,Aviron Bayonnais,43,16,10,0,6,J22,2024-2025,5
+4,ASM Clermont,38,16,8,0,8,J22,2024-2025,4
+5,Castres Olympique,37,16,8,1,7,J22,2024-2025,7
+6,Stade Rochelais,36,16,8,0,8,J22,2024-2025,11
+7,LOU Rugby,35,16,7,2,7,J22,2024-2025,1
+8,Montpellier Hérault Rugby,34,16,7,0,9,J22,2024-2025,8
+9,USA Perpignan,30,16,6,1,9,J22,2024-2025,16
+10,Section Paloise,30,16,6,0,10,J22,2024-2025,3
+11,Stade Français Paris,28,16,6,0,10,J22,2024-2025,14
+12,Racing 92,27,16,5,1,10,J22,2024-2025,10
+13,RC Vannes,24,16,5,0,11,J22,2024-2025,18
+0,Stade Toulousain,55,16,11,1,4,J23,2024-2025,9
+1,Union Bordeaux-Bègles,52,16,11,0,5,J23,2024-2025,6
+2,RC Toulon,52,16,11,0,5,J23,2024-2025,2
+3,Aviron Bayonnais,43,16,10,0,6,J23,2024-2025,5
+4,ASM Clermont,38,16,8,0,8,J23,2024-2025,4
+5,Castres Olympique,37,16,8,1,7,J23,2024-2025,7
+6,Stade Rochelais,36,16,8,0,8,J23,2024-2025,11
+7,LOU Rugby,35,16,7,2,7,J23,2024-2025,1
+8,Montpellier Hérault Rugby,34,16,7,0,9,J23,2024-2025,8
+9,USA Perpignan,30,16,6,1,9,J23,2024-2025,16
+10,Section Paloise,30,16,6,0,10,J23,2024-2025,3
+11,Stade Français Paris,28,16,6,0,10,J23,2024-2025,14
+12,Racing 92,27,16,5,1,10,J23,2024-2025,10
+13,RC Vannes,24,16,5,0,11,J23,2024-2025,18
+0,Stade Toulousain,55,16,11,1,4,J24,2024-2025,9
+1,Union Bordeaux-Bègles,52,16,11,0,5,J24,2024-2025,6
+2,RC Toulon,52,16,11,0,5,J24,2024-2025,2
+3,Aviron Bayonnais,43,16,10,0,6,J24,2024-2025,5
+4,ASM Clermont,38,16,8,0,8,J24,2024-2025,4
+5,Castres Olympique,37,16,8,1,7,J24,2024-2025,7
+6,Stade Rochelais,36,16,8,0,8,J24,2024-2025,11
+7,LOU Rugby,35,16,7,2,7,J24,2024-2025,1
+8,Montpellier Hérault Rugby,34,16,7,0,9,J24,2024-2025,8
+9,USA Perpignan,30,16,6,1,9,J24,2024-2025,16
+10,Section Paloise,30,16,6,0,10,J24,2024-2025,3
+11,Stade Français Paris,28,16,6,0,10,J24,2024-2025,14
+12,Racing 92,27,16,5,1,10,J24,2024-2025,10
+13,RC Vannes,24,16,5,0,11,J24,2024-2025,18
+0,Stade Toulousain,55,16,11,1,4,J25,2024-2025,9
+1,Union Bordeaux-Bègles,52,16,11,0,5,J25,2024-2025,6
+2,RC Toulon,52,16,11,0,5,J25,2024-2025,2
+3,Aviron Bayonnais,43,16,10,0,6,J25,2024-2025,5
+4,ASM Clermont,38,16,8,0,8,J25,2024-2025,4
+5,Castres Olympique,37,16,8,1,7,J25,2024-2025,7
+6,Stade Rochelais,36,16,8,0,8,J25,2024-2025,11
+7,LOU Rugby,35,16,7,2,7,J25,2024-2025,1
+8,Montpellier Hérault Rugby,34,16,7,0,9,J25,2024-2025,8
+9,USA Perpignan,30,16,6,1,9,J25,2024-2025,16
+10,Section Paloise,30,16,6,0,10,J25,2024-2025,3
+11,Stade Français Paris,28,16,6,0,10,J25,2024-2025,14
+12,Racing 92,27,16,5,1,10,J25,2024-2025,10
+13,RC Vannes,24,16,5,0,11,J25,2024-2025,18
+0,Stade Toulousain,55,16,11,1,4,J26,2024-2025,9
+1,Union Bordeaux-Bègles,52,16,11,0,5,J26,2024-2025,6
+2,RC Toulon,52,16,11,0,5,J26,2024-2025,2
+3,Aviron Bayonnais,43,16,10,0,6,J26,2024-2025,5
+4,ASM Clermont,38,16,8,0,8,J26,2024-2025,4
+5,Castres Olympique,37,16,8,1,7,J26,2024-2025,7
+6,Stade Rochelais,36,16,8,0,8,J26,2024-2025,11
+7,LOU Rugby,35,16,7,2,7,J26,2024-2025,1
+8,Montpellier Hérault Rugby,34,16,7,0,9,J26,2024-2025,8
+9,USA Perpignan,30,16,6,1,9,J26,2024-2025,16
+10,Section Paloise,30,16,6,0,10,J26,2024-2025,3
+11,Stade Français Paris,28,16,6,0,10,J26,2024-2025,14
+12,Racing 92,27,16,5,1,10,J26,2024-2025,10
+13,RC Vannes,24,16,5,0,11,J26,2024-2025,18

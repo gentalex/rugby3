@@ -1,0 +1,1002 @@
+,Nom,Poste,Stats,Equipe,Age,Taille (m),Poids (kg),ID_equipes
+0,Pita Ahki,Inside Centre,"['Sep 24, 1992', '1.89m', '96kg']",Stade Toulousain,33,1.89,96,9
+1,David Ainu'u,Loosehead Prop,"['Nov 20, 1999', '1.78m', '125kg']",Stade Toulousain,26,1.78,125,9
+4,Dorian Aldegheri,Tighthead Prop,"['Aug 4, 1993', '1.80m', '119kg']",Stade Toulousain,32,1.80,119,9
+5,Richie Arnold,No 5 Lock,"['Jul 1, 1990', '2.08m', '127kg']",Stade Toulousain,35,2.08,127,9
+6,Paul Ausset,No. 8,"['Jun 19, 1999', '1.90m', '100kg']",Stade Toulousain,26,1.90,100,9
+7,Cyril Baille,Loosehead Prop,"['Sep 15, 1993', '1.82m', '116kg']",Stade Toulousain,32,1.82,116,9
+8,Leo Banos,Openside Flanker,"['Aug 16, 2002', '1.91m', '112kg']",Stade Toulousain,23,1.91,112,9
+9,Pierre-Louis Barassi,Outside Centre,"['Apr 22, 1998', '1.87m', '102kg']",Stade Toulousain,27,1.87,102,9
+11,Setareki Bituniyata,Outside Centre,"['Aug 12, 1995', '1.94m', '112kg']",Stade Toulousain,30,1.94,112,9
+12,Arthur Bonneval,Left Wing,"['May 31, 1995', '1.82m', '88kg']",Stade Toulousain,30,1.82,88,9
+13,Jean Bouilhou,Assistant Coach,"['Dec 1, 1978', '1.93m', '100kg']",Stade Toulousain,47,1.93,100,9
+14,Joshua Brennan,No 5 Lock,"['Nov 28, 2001', '1.99m', '114kg']",Stade Toulousain,24,1.99,114,9
+15,Ange Capuozzo,Fullback,"['Apr 30, 1999', '1.77m', '82kg']",Stade Toulousain,26,1.77,82,9
+16,Mathis Castro Ferreira,Left Wing,"['Jan 13, 2004', '1.92m', '105kg']",Stade Toulousain,21,1.92,105,9
+17,Santiago Chocobares,Outside Centre,"['Mar 31, 1999', '1.88m', '96kg']",Stade Toulousain,26,1.88,96,9
+18,Paul Costes,Inside Centre,"['Apr 4, 2003', '1.82m', '85kg']",Stade Toulousain,22,1.82,85,9
+19,Guillaume Cramont,Hooker,"['Dec 29, 2000', '1.82m', '97kg']",Stade Toulousain,25,1.82,97,9
+20,Francois Cros,Blindside Flanker,"['Mar 25, 1994', '1.90m', '107kg']",Stade Toulousain,31,1.90,107,9
+21,Simon Daroque,Scrum Half,"['Jun 8, 2005', '1.75m', '74kg']",Stade Toulousain,20,1.75,74,9
+22,Dimitri Delibes,Inside Centre,"['Mar 17, 1999', '1.90m', '94kg']",Stade Toulousain,26,1.90,94,9
+24,Antoine Dupont,Scrum Half,"['Nov 15, 1996', '1.74m', '85kg']",Stade Toulousain,29,1.74,85,9
+25,Efrain Elias,No 5 Lock,"['Apr 30, 2004', '2.01m', '113kg']",Stade Toulousain,21,2.01,113,9
+26,Nelson Epee,Left Wing,"['Feb 20, 2001', '1.74m', '73kg']",Stade Toulousain,24,1.74,73,9
+27,Thibaud Flament,Blindside Flanker,"['Apr 29, 1997', '2.03m', '116kg']",Stade Toulousain,28,2.03,116,9
+28,Kalvin Gourgues,Inside Centre,"['Mar 27, 2005', '1.84m', '93kg']",Stade Toulousain,20,1.84,93,9
+29,Paul Graou,Scrum Half,"['Jul 25, 1997', '1.77m', '90kg']",Stade Toulousain,28,1.77,90,9
+30,Malachi Hawkes,Tighthead Prop,"['Dec 6, 2002', '1.79m', '123kg']",Stade Toulousain,23,1.79,123,9
+31,Theo Idjellidaine,Scrum Half,"['Mar 15, 2001', '1.68m', '79kg']",Stade Toulousain,24,1.68,79,9
+32,Anthony Jelonch,No. 8,"['Jul 28, 1996', '1.93m', '105kg']",Stade Toulousain,29,1.93,105,9
+33,Lomig Jouanny,Inside Centre,"['May 25, 2004', '1.93m', '87kg']",Stade Toulousain,21,1.93,87,9
+34,Jerome Kaino,Coach,"['Apr 6, 1983', '1.96m', '106kg']",Stade Toulousain,42,1.96,106,9
+35,Blair Kinghorn,Fullback,"['Jan 18, 1997', '1.93m', '107kg']",Stade Toulousain,28,1.93,107,9
+37,Thomas Lacombre,Hooker,"['Jul 14, 2004', '1.74m', '90kg']",Stade Toulousain,21,1.74,90,9
+38,Nepo Laulala,Tighthead Prop,"['Nov 6, 1991', '1.84m', '133kg']",Stade Toulousain,34,1.84,133,9
+39,Matthis Lebel,Right Wing,"['Mar 25, 1999', '1.84m', '84kg']",Stade Toulousain,26,1.84,84,9
+42,Paul Mallez,Tighthead Prop,"['Jan 24, 2001', '1.80m', '116kg']",Stade Toulousain,24,1.80,116,9
+43,Juan Cruz Mallia,Outside Centre,"['Sep 11, 1996', '1.82m', '92kg']",Stade Toulousain,29,1.82,92,9
+44,Julien Marchand,Hooker,"['Oct 5, 1995', '1.81m', '108kg']",Stade Toulousain,30,1.81,108,9
+46,Peato Mauvaka,Hooker,"['Jan 10, 1997', '1.84m', '124kg']",Stade Toulousain,28,1.84,124,9
+47,Emmanuel Meafou,No 5 Lock,"['Jul 12, 1998', '2.03m', '140kg']",Stade Toulousain,27,2.03,140,9
+48,Joel Merkler,No 4 Lock,"['Oct 25, 2001', '1.94m', '113kg']",Stade Toulousain,24,1.94,113,9
+49,Ugo Mola,Head Coach,"['May 14, 1973', '1.83m', '85kg']",Stade Toulousain,52,1.83,85,9
+50,Rodrigue Neti,Loosehead Prop,"['Apr 26, 1995', '1.85m', '124kg']",Stade Toulousain,30,1.85,124,9
+51,Theo Ntamack,No. 8,"['May 29, 2002', '1.93m', '103kg']",Stade Toulousain,23,1.93,103,9
+52,Romain Ntamack,Fly Half,"['May 1, 1999', '1.86m', '86kg']",Stade Toulousain,26,1.86,86,9
+53,Alban Placines,Blindside Flanker,"['Apr 23, 1993', '1.89m', '110kg']",Stade Toulousain,32,1.89,110,9
+54,Clement Poitrenaud,Assistant Coach,"['May 20, 1982', '1.88m', '90kg']",Stade Toulousain,43,1.88,90,9
+55,Raphael Portat,No 5 Lock,"['Oct 25, 2003', '2.00m', '107kg']",Stade Toulousain,22,2.00,107,9
+57,Thomas Ramos,Fullback,"['Jul 23, 1995', '1.78m', '87kg']",Stade Toulousain,30,1.78,87,9
+58,Hugo Reilhes,Loosehead Prop,"['Jan 1, 2001', '1.80m', '108kg']",Stade Toulousain,24,1.80,108,9
+60,Romain Riguet,Inside Centre,"['Apr 10, 2001', '1.84m', '82kg']",Stade Toulousain,24,1.84,82,9
+61,Alexandre Roumat,No. 8,"['Jun 24, 1997', '1.98m', '105kg']",Stade Toulousain,28,1.98,105,9
+62,Naoto Saito,Scrum Half,"['Aug 26, 1997', '1.65m', '73kg']",Stade Toulousain,28,1.65,73,9
+63,Selevasio Tolofua,No. 8,"['May 31, 1997', '1.86m', '116kg']",Stade Toulousain,28,1.86,116,9
+64,Clement Verge,Loosehead Prop,"['Sep 13, 2001', '2.00m', '116kg']",Stade Toulousain,24,2.00,116,9
+66,Jack Willis,Openside Flanker,"['Dec 24, 1996', '1.90m', '107kg']",Stade Toulousain,29,1.90,107,9
+0,Zaccharie Affane,Tighthead Prop,"['Jul 15, 2004', '1.91m', '126kg']",Union Bordeaux-Bègles,21,1.91,126,6
+1,Louis Bielle-Biarrey,Left Wing,"['Jun 19, 2003', '1.84m', '79kg']",Union Bordeaux-Bègles,22,1.84,79,6
+2,Pierre Bochaton,No 4 Lock,"['Apr 17, 2001', '1.97m', '103kg']",Union Bordeaux-Bègles,24,1.97,103,6
+3,Ugo Boniface,Tighthead Prop,"['Jul 21, 1998', '1.90m', '125kg']",Union Bordeaux-Bègles,27,1.90,125,6
+4,Yannick Bru,Head Coach,"['May 22, 1973', '1.80m', '99kg']",Union Bordeaux-Bègles,52,1.80,99,6
+5,Romain Buros,Fullback,"['Jul 31, 1997', '1.87m', '97kg']",Union Bordeaux-Bègles,28,1.87,97,6
+6,Joey Carbery,Fly Half,"['Nov 1, 1995', '1.83m', '88kg']",Union Bordeaux-Bègles,30,1.83,88,6
+7,Cyril Cazeaux,No 4 Lock,"['Feb 10, 1995', '1.98m', '117kg']",Union Bordeaux-Bègles,30,1.98,117,6
+8,Adam Coleman,No 4 Lock,"['Oct 7, 1991', '2.04m', '122kg']",Union Bordeaux-Bègles,34,2.04,122,6
+9,Santiago Cordero,Left Wing,"['Dec 6, 1993', '1.75m', '83kg']",Union Bordeaux-Bègles,32,1.75,83,6
+10,Nicolas Depoortere,Outside Centre,"['Jan 1, 2003', '1.93m', '87kg']",Union Bordeaux-Bègles,22,1.93,87,6
+11,Mahamadou Diaby,Blindside Flanker,"['Aug 15, 1990', '1.92m', '104kg']",Union Bordeaux-Bègles,35,1.92,104,6
+12,Nans Ducuing,Fullback,"['Nov 6, 1991', '1.85m', '90kg']",Union Bordeaux-Bègles,34,1.85,90,6
+14,Joseph Exshaw,Scrum Half,"['Feb 10, 2003', '1.80m', '83kg']",Union Bordeaux-Bègles,22,1.80,83,6
+15,Sipili Falatea,Tighthead Prop,"['Jun 23, 1997', '1.84m', '114kg']",Union Bordeaux-Bègles,28,1.84,114,6
+16,Mateo Garcia,Fly Half,"['Jul 8, 2002', '1.74m', '79kg']",Union Bordeaux-Bègles,23,1.74,79,6
+18,Marko Gazzotti,Blindside Flanker,"['Sep 24, 2004', '1.92m', '107kg']",Union Bordeaux-Bègles,21,1.92,107,6
+19,Renato Giammarioli,Openside Flanker,"['Mar 23, 1995', '1.88m', '111kg']",Union Bordeaux-Bègles,30,1.88,111,6
+20,Jonny Gray,No 5 Lock,"['Mar 14, 1994', '1.98m', '122kg']",Union Bordeaux-Bègles,31,1.98,122,6
+21,Tiaan Jacobs,Openside Flanker,"['Aug 16, 2004', '1.93m', '107kg']",Union Bordeaux-Bègles,21,1.93,107,6
+22,Matthieu Jalibert,Fly Half,"['Nov 6, 1998', '1.84m', '84kg']",Union Bordeaux-Bègles,27,1.84,84,6
+23,Rohan Janse van Rensburg,Inside Centre,"['Sep 11, 1994', '1.85m', '109kg']",Union Bordeaux-Bègles,31,1.85,109,6
+24,Jean-Baptiste Lachaise,Blindside Flanker,"['Apr 26, 2001', '1.90m', '98kg']",Union Bordeaux-Bègles,24,1.90,98,6
+25,Remi Lamerat,Outside Centre,"['Jan 14, 1990', '1.84m', '106kg']",Union Bordeaux-Bègles,35,1.84,106,6
+26,Maxime Lamothe,Hooker,"['Oct 3, 1998', '1.83m', '109kg']",Union Bordeaux-Bègles,27,1.83,109,6
+27,Romain Latterrade,Hooker,"['Apr 4, 1996', '1.79m', '112kg']",Union Bordeaux-Bègles,29,1.79,112,6
+29,Yann Lesgourgues,Scrum Half,"['Jan 17, 1991', '1.77m', '76kg']",Union Bordeaux-Bègles,34,1.77,76,6
+30,Maxime Lucu,Scrum Half,"['Jan 12, 1993', '1.77m', '91kg']",Union Bordeaux-Bègles,32,1.77,91,6
+31,Gatien Massé,Left Wing,"['May 2, 2002', '1.82m', '93kg']",Union Bordeaux-Bègles,23,1.82,93,6
+32,Temo Matiu,No 4 Lock,"['Jul 20, 2001', '1.91m', '100kg']",Union Bordeaux-Bègles,24,1.91,100,6
+34,Yoram Moefana,Outside Centre,"['Jul 18, 2000', '1.82m', '97kg']",Union Bordeaux-Bègles,25,1.82,97,6
+36,Gabriel Oghre,Hooker,"['May 25, 1998', '1.72m', '103kg']",Union Bordeaux-Bègles,27,1.72,103,6
+37,Damian Penaud,Right Wing,"['Sep 25, 1996', '1.92m', '94kg']",Union Bordeaux-Bègles,29,1.92,94,6
+38,Matis Perchaud,Loosehead Prop,"['Sep 17, 2002', '1.87m', '114kg']",Union Bordeaux-Bègles,23,1.87,114,6
+39,Sirius Permal,Openside Flanker,"['Oct 9, 2003', '1.87m', '107kg']",Union Bordeaux-Bègles,22,1.87,107,6
+40,Guido Petti,No 4 Lock,"['Nov 17, 1994', '1.94m', '110kg']",Union Bordeaux-Bègles,31,1.94,110,6
+41,Jefferson Poirot,Loosehead Prop,"['Nov 1, 1992', '1.81m', '117kg']",Union Bordeaux-Bègles,33,1.81,117,6
+42,Arthur Retiere,Scrum Half,"['Aug 1, 1997', '1.70m', '80kg']",Union Bordeaux-Bègles,28,1.70,80,6
+43,Enzo Reybier,Left Wing,"['Apr 4, 2002', '1.74m', '76kg']",Union Bordeaux-Bègles,23,1.74,76,6
+44,Alexandre Ricard,Blindside Flanker,"['Mar 23, 1984', '2.00m', '111kg']",Union Bordeaux-Bègles,41,2.00,111,6
+45,Alban Roussel,No 4 Lock,"['Nov 9, 1998', '1.96m', '120kg']",Union Bordeaux-Bègles,27,1.96,120,6
+46,Connor Sa,Hooker,"['Jan 22, 2002', '1.83m', '101kg']",Union Bordeaux-Bègles,23,1.83,101,6
+47,Carlu Sadie,Tighthead Prop,"['May 7, 1997', '1.82m', '138kg']",Union Bordeaux-Bègles,28,1.82,138,6
+48,Mateo Saint-Germain,Hooker,"['Feb 12, 2002', '1.81m', '104kg']",Union Bordeaux-Bègles,23,1.81,104,6
+49,Pete Samu,Blindside Flanker,"['Dec 17, 1991', '1.85m', '102kg']",Union Bordeaux-Bègles,34,1.85,102,6
+50,Shaun Sowerby,Head Coach,"['Jul 1, 1978', '1.95m', '108kg']",Union Bordeaux-Bègles,47,1.95,108,6
+51,Lachlan Swinton,Blindside Flanker,"['Jan 16, 1997', '1.94m', '113kg']",Union Bordeaux-Bègles,28,1.94,113,6
+52,Ben Tameifuna,Tighthead Prop,"['Aug 30, 1991', '1.82m', '148kg']",Union Bordeaux-Bègles,34,1.82,148,6
+53,Ben Tapuai,Outside Centre,"['Jan 19, 1989', '1.80m', '100kg']",Union Bordeaux-Bègles,36,1.80,100,6
+54,Tevita Tatafu.,No. 8,"['Jan 2, 1996', '1.83m', '133kg']",Union Bordeaux-Bègles,29,1.83,133,6
+55,Toma Taufa,Tighthead Prop,"['Mar 9, 1995', '1.78m', '124kg']",Union Bordeaux-Bègles,30,1.78,124,6
+56,Pablo Uberti,Inside Centre,"['Oct 19, 1997', '1.85m', '85kg']",Union Bordeaux-Bègles,28,1.85,85,6
+57,Bastien Vergnes Taillefer,Blindside Flanker,"['Jun 13, 1997', '1.92m', '108kg']",Union Bordeaux-Bègles,28,1.92,108,6
+58,Tom Willis,No. 8,"['Jan 18, 1999', '1.92m', '117kg']",Union Bordeaux-Bègles,26,1.92,117,6
+0,Esteban Abadie,Blindside Flanker,"['Dec 1, 1997', '1.88m', '100kg']",RC Toulon,28,1.88,100,2
+1,Brian Alainu'uese,No 4 Lock,"['Mar 19, 1994', '2.00m', '133kg']",RC Toulon,31,2.00,133,2
+2,Teddy Baubigny,Hooker,"['Sep 2, 1998', '1.84m', '109kg']",RC Toulon,27,1.84,109,2
+3,Dan Biggar,Fly Half,"['Oct 16, 1989', '1.88m', '93kg']",RC Toulon,36,1.88,93,2
+4,Daniel Brennan,Tighthead Prop,"['Sep 23, 1998', '1.92m', '132kg']",RC Toulon,27,1.92,132,2
+5,Jules Coulon,Blindside Flanker,"['Jul 4, 2002', '1.89m', '104kg']",RC Toulon,23,1.89,104,2
+7,Jules Danglot,Scrum Half,"['Jun 8, 2002', '1.70m', '71kg']",RC Toulon,23,1.70,71,2
+9,Marius Domon,Fly Half,"['Jun 13, 2002', '1.83m', '85kg']",RC Toulon,23,1.83,85,2
+10,Gael Drean,Left Wing,"['Oct 22, 2000', '1.84m', '84kg']",RC Toulon,25,1.84,84,2
+11,Julien Dupuy,Coach,"['Dec 19, 1983', '1.78m', '78kg']",RC Toulon,42,1.78,78,2
+12,Clément Egiziano,Blindside Flanker,"['Dec 23, 2001', '1.83m', '93kg']",RC Toulon,24,1.83,93,2
+13,Leicester Fainga'anuku,Left Wing,"['Oct 11, 1999', '1.88m', '109kg']",RC Toulon,26,1.88,109,2
+14,Antoine Frisch,Inside Centre,"['Jun 1, 1996', '1.88m', '100kg']",RC Toulon,29,1.88,100,2
+15,Paolo Garbisi,Fly Half,"['Apr 26, 2000', '1.82m', '91kg']",RC Toulon,25,1.82,91,2
+16,Beka Gigashvili,Tighthead Prop,"['Feb 17, 1992', '1.77m', '116kg']",RC Toulon,33,1.77,116,2
+17,Jean-Baptiste Gros,Loosehead Prop,"['May 29, 1999', '1.95m', '110kg']",RC Toulon,26,1.95,110,2
+18,Matthias Halagahu,No 4 Lock,"['Aug 15, 2001', '1.94m', '113kg']",RC Toulon,24,1.94,113,2
+19,Enzo Herve,Fly Half,"['Oct 13, 1998', '1.76m', '94kg']",RC Toulon,27,1.76,94,2
+20,Facundo Isa,Blindside Flanker,"['Sep 21, 1993', '1.88m', '111kg']",RC Toulon,32,1.88,111,2
+21,Mickael Ivaldi,Hooker,"['Feb 20, 1990', '1.81m', '108kg']",RC Toulon,35,1.81,108,2
+22,Melvyn Jaminet,Fullback,"['Jun 30, 1999', '1.80m', '85kg']",RC Toulon,26,1.80,85,2
+23,Matteo Le Corvec,No 5 Lock,"['Jan 4, 2001', '1.92m', '111kg']",RC Toulon,24,1.92,111,2
+24,Gianmarco Lucchesi,Hooker,"['Sep 10, 2000', '1.84m', '110kg']",RC Toulon,25,1.84,110,2
+25,Lewis Ludlam,Blindside Flanker,"['Dec 5, 1995', '1.92m', '104kg']",RC Toulon,30,1.92,104,2
+26,Andrea Masi,Fullback,"['Mar 30, 1981', '1.86m', '92kg']",RC Toulon,44,1.86,92,2
+27,David Mchedlidze,Loosehead Prop,"['Jan 19, 2002', '1.86m', '103kg']",RC Toulon,23,1.86,103,2
+29,Pierre Mignoni,Head Coach,"['Feb 28, 1977', '1.69m', '75kg']",RC Toulon,48,1.69,75,2
+30,Simon Moretti,Left Wing,"['Apr 19, 2000', '1.80m', '84kg']",RC Toulon,25,1.80,84,2
+31,Charles Ollivon,Openside Flanker,"['May 11, 1993', '1.99m', '113kg']",RC Toulon,32,1.99,113,2
+32,Duncan Paia'aua,Inside Centre,"['Jan 20, 1995', '1.80m', '91kg']",RC Toulon,30,1.80,91,2
+33,Maxime Petitjean,Fly Half,"['Mar 17, 1984', '1.83m', '83kg']",RC Toulon,41,1.83,83,2
+34,Dany Priso,Loosehead Prop,"['Jan 2, 1994', '1.82m', '110kg']",RC Toulon,31,1.82,110,2
+35,Joe Quere Karaba,No. 8,"['Sep 28, 2004', '1.98m', '115kg']",RC Toulon,21,1.98,115,2
+36,Rayan Rebbadj,Openside Flanker,"['Aug 15, 1999', '1.90m', '93kg']",RC Toulon,26,1.90,93,2
+37,Swan Rebbadj,No 5 Lock,"['Jan 15, 1995', '2.02m', '112kg']",RC Toulon,30,2.02,112,2
+38,David Ribbans,No 5 Lock,"['Aug 29, 1995', '2.02m', '121kg']",RC Toulon,30,2.02,121,2
+39,Baptiste Serin,Scrum Half,"['Jun 20, 1994', '1.80m', '76kg']",RC Toulon,31,1.80,76,2
+40,Emerick Setiano,Tighthead Prop,"['Jul 19, 1996', '1.83m', '114kg']",RC Toulon,29,1.83,114,2
+41,Kyle Sinckler,Tighthead Prop,"['Mar 30, 1993', '1.83m', '120kg']",RC Toulon,32,1.83,120,2
+42,Jeremy Sinzelle,Left Wing,"['Jul 2, 1990', '1.84m', '88kg']",RC Toulon,35,1.84,88,2
+43,Mathieu Smaili,Fullback,"['Aug 30, 1999', '1.80m', '85kg']",RC Toulon,26,1.80,85,2
+44,Selevasio Tolofua,No. 8,"['May 31, 1997', '1.86m', '116kg']",RC Toulon,28,1.86,116,2
+45,Setariki Tuicuvu,Inside Centre,"['Sep 7, 1995', '1.79m', '90kg']",RC Toulon,30,1.79,90,2
+46,Gabin Villiere,Right Wing,"['Dec 13, 1995', '1.80m', '93kg']",RC Toulon,30,1.80,93,2
+47,Waisea Vuidravuwalu,Left Wing,"['Jun 26, 1990', '1.93m', '104kg']",RC Toulon,35,1.93,104,2
+48,Jiuta Wainiqolo,Fullback,"['Mar 30, 1999', '1.87m', '97kg']",RC Toulon,26,1.87,97,2
+49,Ben White,Scrum Half,"['May 27, 1998', '1.78m', '88kg']",RC Toulon,27,1.78,88,2
+50,Yannick Youyoutte,No 5 Lock,"['Aug 30, 1999', '1.97m', '120kg']",RC Toulon,26,1.97,120,2
+0,Giorgi Akhaladze,Loosehead Prop,"['Apr 13, 1999', '1.86m', '128kg']",ASM Clermont,26,1.86,128,4
+1,Michael Alaalatoa,Tighthead Prop,"['Aug 28, 1991', '1.89m', '132kg']",ASM Clermont,34,1.89,132,4
+2,Mathys Belaubre,Fullback,"['Mar 15, 2005', '1.88m', '109kg']",ASM Clermont,20,1.88,109,4
+4,Anthony Belleau,Fly Half,"['Apr 8, 1996', '1.77m', '85kg']",ASM Clermont,29,1.77,85,4
+5,Sebastien Bezy,Scrum Half,"['Nov 22, 1991', '1.74m', '76kg']",ASM Clermont,34,1.74,76,4
+6,Jules Bousquet,Scrum Half,"['Oct 29, 2004', '1.75m', '65kg']",ASM Clermont,21,1.75,65,4
+7,Baptiste Britz,Blindside Flanker,"['May 1, 2005', '1.86m', '94kg']",ASM Clermont,20,1.86,94,4
+8,Thomas Ceyte,No 5 Lock,"['Feb 13, 1991', '1.96m', '117kg']",ASM Clermont,34,1.96,117,4
+9,Antoine Chalus,Blindside Flanker,"['Jan 17, 2005', '1.83m', '101kg']",ASM Clermont,20,1.83,101,4
+11,Leon Darricarrere,Inside Centre,"['Jun 4, 2004', '1.81m', '92kg']",ASM Clermont,21,1.81,92,4
+12,Bautista Delguy,Right Wing,"['Apr 22, 1997', '1.83m', '84kg']",ASM Clermont,28,1.83,84,4
+13,Lucas Dessaigne,Blindside Flanker,"['Feb 27, 1999', '1.88m', '102kg']",ASM Clermont,26,1.88,102,4
+14,Thomas Duchene,Tighthead Prop,"['Aug 25, 2004', '1.80m', '115kg']",ASM Clermont,21,1.80,115,4
+15,Folau Faingaa,Hooker,"['May 5, 1995', '1.78m', '106kg']",ASM Clermont,30,1.78,106,4
+16,Etienne Falgoux,Loosehead Prop,"['Jan 19, 1993', '1.83m', '112kg']",ASM Clermont,32,1.83,112,4
+17,Yérim Fall,Inside Centre,"['Jun 24, 2003', '1.78m', '90kg']",ASM Clermont,22,1.78,90,4
+18,Anthony Favier,Outside Centre,"['Sep 1, 2003', '1.77m', '92kg']",ASM Clermont,22,1.77,92,4
+19,Alexandre Fischer,Openside Flanker,"['Jan 19, 1998', '1.88m', '107kg']",ASM Clermont,27,1.88,107,4
+20,Etienne Fourcade,Hooker,"['Apr 11, 1997', '1.80m', '103kg']",ASM Clermont,28,1.80,103,4
+21,Pierre Fouyssac,Inside Centre,"['Mar 17, 1995', '1.89m', '110kg']",ASM Clermont,30,1.89,110,4
+22,Matheo Frisach,Loosehead Prop,"['Feb 10, 2006', '1.88m', '127kg']",ASM Clermont,19,1.88,127,4
+23,Theo Giral,Fly Half,"['Feb 4, 2003', '1.79m', '85kg']",ASM Clermont,22,1.79,85,4
+25,Kylan Hamdaoui,Fullback,"['Apr 15, 1994', '1.82m', '89kg']",ASM Clermont,31,1.82,89,4
+26,Anthime Hemery,Blindside Flanker,"['Jan 9, 2001', '1.89m', '110kg']",ASM Clermont,24,1.89,110,4
+27,Baptiste Jauneau,Scrum Half,"['Nov 17, 2003', '1.78m', '81kg']",ASM Clermont,22,1.78,81,4
+28,Joris Jurand,Fullback,"['Nov 11, 1995', '1.88m', '100kg']",ASM Clermont,30,1.88,100,4
+29,Marcos Kremer,Blindside Flanker,"['Jul 30, 1997', '1.95m', '114kg']",ASM Clermont,28,1.95,114,4
+31,Thibaud Lanen,No 4 Lock,"['Apr 1, 1998', '1.96m', '106kg']",ASM Clermont,27,1.96,106,4
+33,Alexandre Lapandry,Openside Flanker,"['Mar 13, 1989', '1.93m', '103kg']",ASM Clermont,36,1.93,103,4
+34,Fritz Lee,No. 8,"['Aug 29, 1988', '1.88m', '108kg']",ASM Clermont,37,1.88,108,4
+35,Sacha Lotrian,Tighthead Prop,"['Aug 13, 2000', '1.80m', '106kg']",ASM Clermont,25,1.80,106,4
+36,Samuel M'Foudi,No 4 Lock,"['May 8, 2002', '2.00m', '100kg']",ASM Clermont,23,2.00,100,4
+37,Barnabe Massa,Hooker,"['May 13, 2004', '1.80m', '101kg']",ASM Clermont,21,1.80,101,4
+38,George Moala,Inside Centre,"['Nov 5, 1990', '1.87m', '106kg']",ASM Clermont,35,1.87,106,4
+39,Regis Montagne,Tighthead Prop,"['Sep 30, 2000', '1.86m', '132kg']",ASM Clermont,25,1.86,132,4
+40,Alex Newsome,Right Wing,"['Jan 20, 1995', '1.89m', '93kg']",ASM Clermont,30,1.89,93,4
+41,Cristian Ojovan,Tighthead Prop,"['Jan 4, 1997', '1.83m', '120kg']",ASM Clermont,28,1.83,120,4
+42,Beltran Ortega,Right Wing,"['Jan 13, 2005', '1.81m', '80kg']",ASM Clermont,20,1.81,80,4
+43,Alivereti Raka,Right Wing,"['Dec 9, 1994', '1.89m', '105kg']",ASM Clermont,31,1.89,105,4
+44,Oskar Rixen,No 4 Lock,"['Feb 9, 2002', '2.04m', '118kg']",ASM Clermont,23,2.04,118,4
+45,Aurelien Rougerie,Coach,"['Sep 26, 1980', '1.94m', '104kg']",ASM Clermont,45,1.94,104,4
+46,Enzo Sanga,Scrum Half,"['May 19, 1995', '1.76m', '75kg']",ASM Clermont,30,1.76,75,4
+48,Rob Simmons,No 4 Lock,"['Apr 19, 1989', '2.04m', '115kg']",ASM Clermont,36,2.04,115,4
+49,Irae Simone,Inside Centre,"['Jul 10, 1995', '1.93m', '105kg']",ASM Clermont,30,1.93,105,4
+50,Pita-Gus Sowakula,No. 8,"['Oct 26, 1994', '1.90m', '117kg']",ASM Clermont,31,1.90,117,4
+51,Lucas Tauzin,Outside Centre,"['May 21, 1998', '1.87m', '94kg']",ASM Clermont,27,1.87,94,4
+52,Killian Tixeront,No. 8,"['Jan 22, 2002', '1.96m', '107kg']",ASM Clermont,23,1.96,107,4
+55,Ben Urdapilleta,Fly Half,"['Nov 3, 1986', '1.78m', '86kg']",ASM Clermont,39,1.78,86,4
+57,Sebastien Vahaamahina,No 5 Lock,"['Oct 21, 1991', '2.03m', '120kg']",ASM Clermont,34,2.03,120,4
+58,Ian Vass,Coach,"['Aug 17, 1981', '1.80m', '94kg']",ASM Clermont,44,1.80,94,4
+59,Peceli Yato,Openside Flanker,"['Jan 17, 1993', '1.96m', '120kg']",ASM Clermont,32,1.96,120,4
+0,Afaesetiti Amosa,Openside Flanker,"['Oct 11, 1990', '1.87m', '112kg']",Aviron Bayonnais,35,1.87,112,5
+1,Manex Ariceta,Blindside Flanker,"['Mar 20, 2004', '1.93m', '113kg']",Aviron Bayonnais,21,1.93,113,5
+2,Paul Beltran,Blindside Flanker,"['Apr 22, 2001', '1.80m', '110kg']",Aviron Bayonnais,24,1.80,110,5
+3,Quentin Bethune,Loosehead Prop,"['Sep 25, 1995', '1.87m', '113kg']",Aviron Bayonnais,30,1.87,113,5
+4,Andy Bordelai,Loosehead Prop,"['Mar 29, 2000', '1.86m', '116kg']",Aviron Bayonnais,25,1.86,116,5
+5,Facundo Bosch,Hooker,"['Aug 8, 1991', '1.80m', '102kg']",Aviron Bayonnais,34,1.80,102,5
+6,Remi Bourdeau,Blindside Flanker,"['Feb 27, 1992', '1.95m', '108kg']",Aviron Bayonnais,33,1.95,108,5
+7,Rodrigo Bruni,No. 8,"['Sep 3, 1993', '1.87m', '109kg']",Aviron Bayonnais,32,1.87,109,5
+8,Aurelien Callandret,Left Wing,"['Aug 23, 1997', '1.83m', '85kg']",Aviron Bayonnais,28,1.83,85,5
+9,Yon Camou,Left Wing,"['Jun 7, 2022', '1.80m', '83kg']",Aviron Bayonnais,3,1.80,83,5
+10,Esteban Capilla,No. 8,"['Jan 5, 2003', '1.98m', '100kg']",Aviron Bayonnais,22,1.98,100,5
+11,Mateo Carreras,Right Wing,"['Dec 17, 1999', '1.79m', '86kg']",Aviron Bayonnais,26,1.79,86,5
+12,Uzair Cassiem,No. 8,"['Mar 17, 1990', '1.89m', '112kg']",Aviron Bayonnais,35,1.89,112,5
+13,Remi Castagnet,Loosehead Prop,"['May 7, 2002', '1.79m', '119kg']",Aviron Bayonnais,23,1.79,119,5
+15,Baptiste Chouzenoux,Openside Flanker,"['Aug 7, 1993', '2.00m', '107kg']",Aviron Bayonnais,32,2.00,107,5
+16,Swan Cormenier,Loosehead Prop,"['Jan 18, 1996', '1.70m', '119kg']",Aviron Bayonnais,29,1.70,119,5
+17,Pascal Cotet,Tighthead Prop,"['Oct 12, 1993', '1.84m', '123kg']",Aviron Bayonnais,32,1.84,123,5
+18,Jean Baptiste De Clercq,Tighthead Prop,"['Feb 23, 1994', '1.83m', '122kg']",Aviron Bayonnais,31,1.83,122,5
+19,Robin Dione,Openside Flanker,"['Jun 25, 2002', '1.80m', '95kg']",Aviron Bayonnais,23,1.80,95,5
+20,Arnaud Erbinartegaray,Fullback,"['Sep 16, 2000', '1.85m', '89kg']",Aviron Bayonnais,25,1.85,89,5
+21,Gerard Fraser,Scrum Half,"['Nov 5, 1978', '1.80m', '86kg']",Aviron Bayonnais,47,1.80,86,5
+22,Gaetan Germain,Fullback,"['Jul 2, 1990', '1.90m', '99kg']",Aviron Bayonnais,35,1.90,99,5
+23,Baptiste Germain,Scrum Half,"['Nov 21, 2000', '1.74m', '80kg']",Aviron Bayonnais,25,1.74,80,5
+24,Vincent Giudicelli,Hooker,"['Jun 25, 1997', '1.84m', '104kg']",Aviron Bayonnais,28,1.84,104,5
+25,Giovanni Habel-Kueffner,Blindside Flanker,"['Jan 9, 1995', '1.96m', '105kg']",Aviron Bayonnais,30,1.96,105,5
+26,Victor Hannoun,Left Wing,"['Aug 20, 2003', '1.82m', '77kg']",Aviron Bayonnais,22,1.82,77,5
+27,Baptiste Heguy,Openside Flanker,"['May 11, 1998', '1.96m', '104kg']",Aviron Bayonnais,27,1.96,104,5
+28,Reece Hodge,Fullback,"['Aug 26, 1994', '1.91m', '94kg']",Aviron Bayonnais,31,1.91,94,5
+29,Arthur Iturria,Blindside Flanker,"['May 13, 1994', '1.98m', '112kg']",Aviron Bayonnais,31,1.98,112,5
+31,Nika Lomidze,No. 8,"['Jan 22, 2004', '1.90m', '101kg']",Aviron Bayonnais,21,1.90,101,5
+32,Camille Lopez,Fly Half,"['Apr 3, 1989', '1.75m', '90kg']",Aviron Bayonnais,36,1.75,90,5
+33,Maxime Machenaud,Scrum Half,"['Dec 30, 1988', '1.74m', '87kg']",Aviron Bayonnais,37,1.74,87,5
+34,Sireli Maqala,Right Wing,"['Mar 20, 2000', '1.72m', '88kg']",Aviron Bayonnais,25,1.72,88,5
+35,Denis Marchois,No 5 Lock,"['Feb 5, 1994', '1.98m', '115kg']",Aviron Bayonnais,31,1.98,115,5
+36,Lucas Martin,Hooker,"['Sep 12, 2002', '1.85m', '96kg']",Aviron Bayonnais,23,1.85,96,5
+37,Guillaume Martocq,Outside Centre,"['Aug 23, 1999', '1.83m', '96kg']",Aviron Bayonnais,26,1.83,96,5
+38,Nadir Megdoud,Left Wing,"['Mar 26, 1997', '1.81m', '93kg']",Aviron Bayonnais,28,1.81,93,5
+39,Alex Moon,No 5 Lock,"['Sep 6, 1996', '2.01m', '123kg']",Aviron Bayonnais,29,2.01,123,5
+40,Federico Mori,Outside Centre,"['Oct 13, 2000', '1.88m', '108kg']",Aviron Bayonnais,25,1.88,108,5
+41,Xan Mousques,Fullback,"['Nov 18, 2005', '1.78m', '77kg']",Aviron Bayonnais,20,1.78,77,5
+42,Yohan Orabé,Fullback,"['May 21, 2002', '1.82m', '83kg']",Aviron Bayonnais,23,1.82,83,5
+44,Lucas Paulos,No 5 Lock,"['Jan 9, 1998', '1.99m', '123kg']",Aviron Bayonnais,27,1.99,123,5
+45,Veikoso James Poloniati,No 4 Lock,"['Aug 27, 1995', '2.03m', '127kg']",Aviron Bayonnais,30,2.03,127,5
+47,Guillaume Rouet,Scrum Half,"['Aug 13, 1988', '1.70m', '75kg']",Aviron Bayonnais,37,1.70,75,5
+48,Pieter Scholtz,Tighthead Prop,"['Mar 20, 1994', '1.87m', '137kg']",Aviron Bayonnais,31,1.87,137,5
+49,Joris Segonds,Fly Half,"['Apr 6, 1997', '1.80m', '91kg']",Aviron Bayonnais,28,1.80,91,5
+50,Tom Spring,Fullback,"['Aug 26, 2002', '1.80m', '81kg']",Aviron Bayonnais,23,1.80,81,5
+51,Luke Tagi,Tighthead Prop,"['Jun 23, 1997', '1.87m', '130kg']",Aviron Bayonnais,28,1.87,130,5
+52,Tevita Tatafu,Tighthead Prop,"['Oct 13, 2002', '1.83m', '133kg']",Aviron Bayonnais,23,1.83,133,5
+53,Cheikh Tiberghien,Left Wing,"['Jan 8, 2000', '1.86m', '96kg']",Aviron Bayonnais,25,1.86,96,5
+55,Isaia Toeava,Outside Centre,"['Jan 15, 1986', '1.82m', '122kg']",Aviron Bayonnais,39,1.82,122,5
+57,Badri Tsikhistavi,Loosehead Prop,"['Jul 24, 2003', '1.88m', '117kg']",Aviron Bayonnais,22,1.88,117,5
+58,Lasha Tsikhistavi,No. 8,"['Jul 24, 2003', '1.89m', '102kg']",Aviron Bayonnais,22,1.89,102,5
+59,Manu Tuilagi,Outside Centre,"['May 18, 1991', '1.85m', '111kg']",Aviron Bayonnais,34,1.85,111,5
+60,Torsten van Jaarsveld,Hooker,"['Jun 30, 1987', '1.75m', '106kg']",Aviron Bayonnais,38,1.75,106,5
+0,Nika Abuladze,Loosehead Prop,"['Aug 20, 1995', '1.86m', '122kg']",Montpellier Hérault Rugby,30,1.86,122,8
+1,Lyam Akrab,Hooker,"['Sep 6, 2005', '1.78m', '103kg']",Montpellier Hérault Rugby,20,1.78,103,8
+3,Aurelien Barreau,Fly Half,"['Mar 7, 2005', '1.72m', '84kg']",Montpellier Hérault Rugby,20,1.72,84,8
+4,Alexandre Becognee,No. 8,"['Sep 3, 1996', '1.88m', '105kg']",Montpellier Hérault Rugby,29,1.88,105,8
+5,Alexis Bernadet,Scrum Half,"['Jun 2, 2001', '1.77m', '75kg']",Montpellier Hérault Rugby,24,1.77,75,8
+6,Jules Bertry,Inside Centre,"['Aug 14, 2000', '1.78m', '84kg']",Montpellier Hérault Rugby,25,1.78,84,8
+7,Adam Mountaga Bouare,Scrum Half,"['Oct 18, 2004', '1.78m', '117kg']",Montpellier Hérault Rugby,21,1.78,117,8
+8,Anthony Bouthier,Fullback,"['Jun 19, 1992', '1.82m', '86kg']",Montpellier Hérault Rugby,33,1.82,86,8
+9,George Bridge,Left Wing,"['Apr 1, 1995', '1.86m', '96kg']",Montpellier Hérault Rugby,30,1.86,96,8
+10,Auguste Cadot,Inside Centre,"['Jul 28, 2001', '1.81m', '91kg']",Montpellier Hérault Rugby,24,1.81,91,8
+11,Yacouba Camara,Openside Flanker,"['Jun 2, 1994', '1.95m', '110kg']",Montpellier Hérault Rugby,31,1.95,110,8
+12,Joan Caudullo,Hooker,"['Jan 5, 1982', '1.76m', '100kg']",Montpellier Hérault Rugby,43,1.76,100,8
+13,Bastien Chalureau,No 5 Lock,"['Feb 13, 1992', '2.02m', '118kg']",Montpellier Hérault Rugby,33,2.02,118,8
+14,Lucas Chaudanson,Inside Centre,"['Jan 11, 2002', '1.84m', '88kg']",Montpellier Hérault Rugby,23,1.84,88,8
+15,Leo Coly,Scrum Half,"['Sep 9, 1999', '1.75m', '79kg']",Montpellier Hérault Rugby,26,1.75,79,8
+16,Thomas Darmon,Fly Half,"['May 12, 1998', '1.81m', '88kg']",Montpellier Hérault Rugby,27,1.81,88,8
+17,Romain Delemarle,Left Wing,"['Feb 2, 2004', '1.95m', '100kg']",Montpellier Hérault Rugby,21,1.95,100,8
+18,Martin Doan,Scrum Half,"['Oct 8, 1998', '1.75m', '77kg']",Montpellier Hérault Rugby,27,1.75,77,8
+19,Tyler Duguid,No 4 Lock,"['Oct 17, 2000', '1.97m', '121kg']",Montpellier Hérault Rugby,25,1.97,121,8
+20,Baptiste Erdocio,Tighthead Prop,"['Mar 13, 2000', '1.72m', '115kg']",Montpellier Hérault Rugby,25,1.72,115,8
+21,Cantin Foguet,Blindside Flanker,"['May 25, 2004', '1.92m', '100kg']",Montpellier Hérault Rugby,21,1.92,100,8
+22,Enzo Forletta,Loosehead Prop,"['Jun 15, 1994', '1.75m', '115kg']",Montpellier Hérault Rugby,31,1.75,115,8
+24,Hugo Gens,Openside Flanker,"['Mar 11, 2001', '1.92m', '95kg']",Montpellier Hérault Rugby,24,1.92,95,8
+25,Mohamed Haouas,Tighthead Prop,"['Jun 9, 1994', '1.85m', '122kg']",Montpellier Hérault Rugby,31,1.85,122,8
+26,Stuart Hogg,Fullback,"['Jun 24, 1992', '1.80m', '93kg']",Montpellier Hérault Rugby,33,1.80,93,8
+27,Wilfrid Hounkpatin,Tighthead Prop,"['Jul 29, 1991', '1.92m', '130kg']",Montpellier Hérault Rugby,34,1.92,130,8
+28,Nicolaas Janse van Rensburg,Blindside Flanker,"['May 6, 1994', '1.99m', '108kg']",Montpellier Hérault Rugby,31,1.99,108,8
+29,Luka Japaridze,Tighthead Prop,"['Sep 6, 1998', '1.81m', '125kg']",Montpellier Hérault Rugby,27,1.81,125,8
+30,Vano Karkadze,Hooker,"['Jun 25, 2000', '1.78m', '110kg']",Montpellier Hérault Rugby,25,1.78,110,8
+31,Gigi Leshkasheli,No. 8,"['Jul 10, 2000', '1.89m', '117kg']",Montpellier Hérault Rugby,25,1.89,117,8
+32,Ryan Louwrens,Scrum Half,"['Mar 12, 1991', '1.79m', '93kg']",Montpellier Hérault Rugby,34,1.79,93,8
+33,Pierre Lucas,Inside Centre,"['Apr 29, 1997', '1.83m', '86kg']",Montpellier Hérault Rugby,28,1.83,86,8
+34,Axel Malaret,Fullback,"['May 15, 2003', '1.87m', '78kg']",Montpellier Hérault Rugby,22,1.87,78,8
+35,Nicolas Martins,Blindside Flanker,"['Jan 18, 1999', '1.96m', '100kg']",Montpellier Hérault Rugby,26,1.96,100,8
+36,Louis Mauro,Loosehead Prop,"['Apr 22, 2002', '1.82m', '108kg']",Montpellier Hérault Rugby,23,1.82,108,8
+37,Domingo Miotti,Fly Half,"['May 22, 1996', '1.88m', '93kg']",Montpellier Hérault Rugby,29,1.88,93,8
+38,Josh Moorby,Fullback,"['Jul 11, 1998', '1.88m', '94kg']",Montpellier Hérault Rugby,27,1.88,94,8
+39,Loan Moulis,Left Wing,"['Apr 29, 2002', '1.82m', '74kg']",Montpellier Hérault Rugby,23,1.82,74,8
+40,Mael Moustin,Left Wing,"['Apr 22, 2003', '1.85m', '90kg']",Montpellier Hérault Rugby,22,1.85,90,8
+41,Gabriel Ngandebe,Left Wing,"['Mar 30, 1997', '1.73m', '76kg']",Montpellier Hérault Rugby,28,1.73,76,8
+42,Lenni Nouchi,No. 8,"['Nov 24, 2003', '1.92m', '105kg']",Montpellier Hérault Rugby,22,1.92,105,8
+43,Mael Perrin,Loosehead Prop,"['Jun 2, 2004', '1.91m', '113kg']",Montpellier Hérault Rugby,21,1.91,113,8
+44,Calum Randle,Blindside Flanker,"['Jan 18, 2000', '1.83m', '90kg']",Montpellier Hérault Rugby,25,1.83,90,8
+45,Cobus Reinach,Scrum Half,"['Feb 7, 1990', '1.75m', '85kg']",Montpellier Hérault Rugby,35,1.75,85,8
+46,Hugo Reus,Fly Half,"['Feb 21, 2004', '1.84m', '84kg']",Montpellier Hérault Rugby,21,1.84,84,8
+48,Thibault Salodini,No. 8,"['Nov 6, 2002', '1.90m', '96kg']",Montpellier Hérault Rugby,23,1.90,96,8
+49,Jan Serfontein,Inside Centre,"['Apr 15, 1993', '1.87m', '95kg']",Montpellier Hérault Rugby,32,1.87,95,8
+50,Sam Simmonds,No. 8,"['Nov 10, 1994', '1.84m', '103kg']",Montpellier Hérault Rugby,31,1.84,103,8
+52,Luca Tabarot,Loosehead Prop,"['Dec 24, 2003', '1.87m', '115kg']",Montpellier Hérault Rugby,22,1.87,115,8
+53,Madosh Tambwe,Right Wing,"['May 12, 1997', '1.86m', '92kg']",Montpellier Hérault Rugby,28,1.86,92,8
+54,Marco Tauleigne,Openside Flanker,"['Aug 30, 1993', '1.91m', '115kg']",Montpellier Hérault Rugby,32,1.91,115,8
+55,Julien Tisseron,Fullback,"['Aug 12, 1995', '1.83m', '86kg']",Montpellier Hérault Rugby,30,1.83,86,8
+56,Christopher Tolofua,Hooker,"['Dec 31, 1993', '1.82m', '132kg']",Montpellier Hérault Rugby,32,1.82,132,8
+57,Jordan Uelese,Hooker,"['Jan 24, 1997', '1.89m', '122kg']",Montpellier Hérault Rugby,28,1.89,122,8
+58,Florian Verhaeghe,No 4 Lock,"['Apr 27, 1997', '2.03m', '110kg']",Montpellier Hérault Rugby,28,2.03,110,8
+60,Thomas Vincent,Scrum Half,"['Jul 21, 1999', '1.85m', '82kg']",Montpellier Hérault Rugby,26,1.85,82,8
+61,Arthur Vincent,Inside Centre,"['Aug 20, 1999', '1.82m', '90kg']",Montpellier Hérault Rugby,26,1.82,90,8
+62,Billy Vunipola,No. 8,"['Nov 3, 1992', '1.91m', '128kg']",Montpellier Hérault Rugby,33,1.91,128,8
+63,Paul Willemse,No 4 Lock,"['Nov 13, 1992', '2.01m', '127kg']",Montpellier Hérault Rugby,33,2.01,127,8
+0,Adrien Amans,No 4 Lock,"['Jan 23, 2000', '1.82m', '78kg']",Castres Olympique,25,1.82,78,7
+1,Christian Ambadiang,Left Wing,"['Jan 13, 1999', '1.89m', '107kg']",Castres Olympique,26,1.89,107,7
+2,Santiago Arata,Scrum Half,"['Sep 2, 1996', '1.71m', '70kg']",Castres Olympique,29,1.71,70,7
+3,Tyler Ardron,No. 8,"['Jun 16, 1991', '1.97m', '108kg']",Castres Olympique,34,1.97,108,7
+4,Aurelien Azar,Tighthead Prop,"['Jun 10, 1994', '1.88m', '119kg']",Castres Olympique,31,1.88,119,7
+5,Mathieu Babillot,Blindside Flanker,"['Sep 9, 1993', '1.90m', '98kg']",Castres Olympique,32,1.90,98,7
+6,Remy Baget,Left Wing,"['Jul 27, 1997', '1.82m', '89kg']",Castres Olympique,28,1.82,89,7
+7,Gaetan Barlot,Hooker,"['Apr 13, 1997', '1.84m', '107kg']",Castres Olympique,28,1.84,107,7
+8,Ben Botica,Fly Half,"['Oct 7, 1989', '1.78m', '93kg']",Castres Olympique,36,1.78,93,7
+9,Vilimoni Botitu,Left Wing,"['Jun 16, 1998', '1.80m', '92kg']",Castres Olympique,27,1.80,92,7
+10,Laurent Bouchet,Hooker,"['Aug 23, 1988', '1.82m', '100kg']",Castres Olympique,37,1.82,100,7
+11,Bastien Bourgier,Blindside Flanker,"['Feb 5, 1999', '1.70m', '75kg']",Castres Olympique,26,1.70,75,7
+13,Yannick Caballero,Openside Flanker,"['Apr 3, 1983', '1.92m', '95kg']",Castres Olympique,42,1.92,95,7
+14,Theo Chabouni,Left Wing,"['Dec 22, 2003', '1.82m', '82kg']",Castres Olympique,22,1.82,82,7
+15,Levan Chilachava,Tighthead Prop,"['Aug 17, 1991', '1.88m', '128kg']",Castres Olympique,34,1.88,128,7
+17,Marc Clerc,Tighthead Prop,"['Jun 9, 1987', '1.81m', '120kg']",Castres Olympique,38,1.81,120,7
+18,Adrea Cocagi,Inside Centre,"['Mar 1, 1994', '1.85m', '106kg']",Castres Olympique,31,1.85,106,7
+19,Will Collier,Tighthead Prop,"['May 5, 1991', '1.83m', '116kg']",Castres Olympique,34,1.83,116,7
+20,Pierre Colonna,Hooker,"['Jun 14, 2001', '1.88m', '113kg']",Castres Olympique,24,1.88,113,7
+21,Baptiste Cope,Blindside Flanker,"['Sep 2, 2000', '1.86m', '92kg']",Castres Olympique,25,1.86,92,7
+22,Nicolas Corato,Tighthead Prop,"['Oct 7, 1997', '1.84m', '123kg']",Castres Olympique,28,1.84,123,7
+23,Andrea Dardenne,Blindside Flanker,"['Jan 1, 2001', '1.89m', '93kg']",Castres Olympique,24,1.89,93,7
+24,Alexis Decaux,Loosehead Prop,"['Oct 19, 2000', '1.85m', '110kg']",Castres Olympique,25,1.85,110,7
+25,Baptiste Delaporte,Blindside Flanker,"['Mar 27, 1997', '1.90m', '94kg']",Castres Olympique,28,1.90,94,7
+26,Gauthier Doubrere,Scrum Half,"['Dec 24, 1995', '1.76m', '76kg']",Castres Olympique,30,1.76,76,7
+28,Guillaume Ducat,No 4 Lock,"['May 25, 1996', '2.05m', '115kg']",Castres Olympique,29,2.05,115,7
+29,Julien Dumora,Fullback,"['Mar 24, 1988', '1.84m', '86kg']",Castres Olympique,37,1.84,86,7
+30,Joris Dupont,Fly Half,"['Feb 8, 2001', '1.80m', '90kg']",Castres Olympique,24,1.80,90,7
+31,Jeremy Fernandez,Scrum Half,"['May 15, 1997', '1.76m', '79kg']",Castres Olympique,28,1.76,79,7
+32,Jack Goodhue,Outside Centre,"['Jun 13, 1995', '1.87m', '98kg']",Castres Olympique,30,1.87,98,7
+34,Hugo Hermet,Scrum Half,"['Aug 2, 2001', '1.90m', '95kg']",Castres Olympique,24,1.90,95,7
+35,Nathanael Hulleu,Right Wing,"['May 16, 2000', '1.78m', '85kg']",Castres Olympique,25,1.78,85,7
+36,Paul Jedrasiak,No 4 Lock,"['Feb 6, 1993', '2.00m', '121kg']",Castres Olympique,32,2.00,121,7
+37,Semi Kunatani,Blindside Flanker,"['Oct 27, 1990', '1.92m', '110kg']",Castres Olympique,35,1.92,110,7
+38,Louis Le Brun,Inside Centre,"['Feb 28, 2002', '1.88m', '86kg']",Castres Olympique,23,1.88,86,7
+39,Romain Macurdy,Blindside Flanker,"['Sep 21, 2001', '2.01m', '100kg']",Castres Olympique,24,2.01,100,7
+40,Gauthier Maravat,No 4 Lock,"['Jun 11, 2000', '1.98m', '106kg']",Castres Olympique,25,1.98,106,7
+42,Izaiha Moore-Aiono,Openside Flanker,"['Mar 3, 2000', '1.83m', '99kg']",Castres Olympique,25,1.83,99,7
+43,Leone Nakarawa,No 4 Lock,"['Apr 2, 1988', '2.00m', '127kg']",Castres Olympique,37,2.00,127,7
+44,Rian Olivier,No 4 Lock,"['Mar 12, 2001', '1.98m', '115kg']",Castres Olympique,24,1.98,115,7
+45,Geoffrey Palis,Fullback,"['Jul 8, 1991', '1.88m', '88kg']",Castres Olympique,34,1.88,88,7
+46,Abraham Papali’i,Blindside Flanker,"['Jun 20, 1993', '1.94m', '126kg']",Castres Olympique,32,1.94,126,7
+47,Yann Peysson,No 4 Lock,"['Jul 6, 2000', '1.92m', '103kg']",Castres Olympique,25,1.92,103,7
+48,Pierre Popelin,Fullback,"['Jun 23, 1995', '1.81m', '84kg']",Castres Olympique,30,1.81,84,7
+49,Josaia Raisuqe,Right Wing,"['Jul 22, 1994', '1.93m', '113kg']",Castres Olympique,31,1.93,113,7
+50,Xavier Sadourny,Head Coach,"['Apr 9, 1977', '1.79m', '88kg']",Castres Olympique,48,1.79,88,7
+51,Adrien Seguret,Inside Centre,"['Jul 22, 1998', '1.82m', '95kg']",Castres Olympique,27,1.82,95,7
+52,Tom Staniforth,No 5 Lock,"['Aug 13, 1994', '1.98m', '118kg']",Castres Olympique,31,1.98,118,7
+54,Antoine Tichit,Loosehead Prop,"['Jun 13, 1989', '1.87m', '115kg']",Castres Olympique,36,1.87,115,7
+56,Florent Vanverberghe,No. 8,"['Jul 22, 2000', '1.90m', '115kg']",Castres Olympique,25,1.90,115,7
+58,Quentin Walcker,Loosehead Prop,"['Feb 21, 1996', '1.81m', '105kg']",Castres Olympique,29,1.81,105,7
+59,Ratu Osea Waqaninavatu,Fullback,"['Apr 22, 2000', '1.73m', '85kg']",Castres Olympique,25,1.73,85,7
+60,Joe Worsley,Coach,"['Jun 14, 1977', '1.96m', '110kg']",Castres Olympique,48,1.96,110,7
+61,Loris Zarantonello,Hooker,"['Nov 17, 2000', '1.83m', '102kg']",Castres Olympique,25,1.83,102,7
+62,Antoine Zeghdar,Outside Centre,"['May 22, 1999', '1.98m', '103kg']",Castres Olympique,26,1.98,103,7
+0,Biyi Alo,Tighthead Prop,"['Mar 16, 1994', '1.88m', '140kg']",Racing 92,31,1.88,140,10
+1,Henry Arundell,Fullback,"['Nov 8, 2002', '1.83m', '96kg']",Racing 92,23,1.83,96,10
+2,Demba Bamba,Tighthead Prop,"['Mar 17, 1998', '1.85m', '119kg']",Racing 92,27,1.85,119,10
+3,Maxime Baudonne,Blindside Flanker,"['Jul 12, 2002', '1.88m', '97kg']",Racing 92,23,1.88,97,10
+4,Eddy Ben Arous,Loosehead Prop,"['Aug 25, 1990', '1.83m', '110kg']",Racing 92,35,1.83,110,10
+5,Henry Chavancy,Outside Centre,"['May 22, 1988', '1.81m', '97kg']",Racing 92,37,1.81,97,10
+6,Mahamadou Coulibaly,Openside Flanker,"['Jun 11, 2002', '1.89m', '100kg']",Racing 92,23,1.89,100,10
+7,Robin Couly,Hooker,"['Feb 7, 2004', '1.81m', '101kg']",Racing 92,21,1.81,101,10
+8,Hacjivah Dayimani,No. 8,"['Sep 23, 1997', '1.90m', '105kg']",Racing 92,28,1.90,105,10
+9,Ibrahim Diallo,Blindside Flanker,"['Jan 23, 1998', '1.92m', '108kg']",Racing 92,27,1.92,108,10
+10,Diego Escobar,Hooker,"['Apr 17, 2000', '1.76m', '97kg']",Racing 92,25,1.76,97,10
+11,Owen Farrell,Fly Half,"['Sep 24, 1991', '1.80m', '94kg']",Racing 92,34,1.80,94,10
+12,Gael Fickou,Inside Centre,"['Mar 26, 1994', '1.90m', '99kg']",Racing 92,31,1.90,99,10
+13,Antoine Gibert,Fly Half,"['Dec 31, 1997', '1.77m', '76kg']",Racing 92,28,1.77,76,10
+14,Guram Gogichashvili,Loosehead Prop,"['Sep 4, 1998', '1.83m', '118kg']",Racing 92,27,1.83,118,10
+15,Regan Grace,Scrum Half,"['Dec 12, 1996', '1.78m', '82kg']",Racing 92,29,1.78,82,10
+16,Vinaya Habosi,Left Wing,"['Jan 30, 2000', '1.76m', '92kg']",Racing 92,25,1.76,92,10
+17,Dylan Idrissi,Inside Centre,"['Feb 15, 2025', '1.88m', '90kg']",Racing 92,0,1.88,90,10
+18,Sam James,Inside Centre,"['Jul 3, 1994', '1.95m', '94kg']",Racing 92,31,1.95,94,10
+19,Jordan Joseph,No. 8,"['Jul 31, 2000', '1.89m', '115kg']",Racing 92,25,1.89,115,10
+20,Lino Julian,Loosehead Prop,"['Jul 27, 2004', '1.86m', '111kg']",Racing 92,21,1.86,111,10
+21,Feleti Kaitu'u,Hooker,"['Dec 30, 1994', '1.83m', '110kg']",Racing 92,31,1.83,110,10
+22,Gia Kharaishvili,Tighthead Prop,"['Feb 13, 1999', '1.80m', '120kg']",Racing 92,26,1.80,120,10
+23,Hassane Kolingar,Loosehead Prop,"['Mar 6, 1998', '1.84m', '115kg']",Racing 92,27,1.84,115,10
+24,Siya Kolisi,Openside Flanker,"['Jun 16, 1991', '1.87m', '106kg']",Racing 92,34,1.87,106,10
+25,Junior Kpoku,No 5 Lock,"['Sep 10, 2005', '2.04m', '119kg']",Racing 92,20,2.04,119,10
+26,Kleo Labarbe,Scrum Half,"['Aug 16, 2004', '1.75m', '65kg']",Racing 92,21,1.75,65,10
+27,Thomas Laclayat,Tighthead Prop,"['Oct 2, 1997', '1.76m', '125kg']",Racing 92,28,1.76,125,10
+28,Dan Lancaster,Inside Centre,"['May 23, 2001', '1.83m', '91kg']",Racing 92,24,1.83,91,10
+29,Nolann Le Garrec,Scrum Half,"['May 14, 2002', '1.75m', '75kg']",Racing 92,23,1.75,75,10
+30,Bernard Le Roux,Openside Flanker,"['Jun 4, 1989', '1.96m', '113kg']",Racing 92,36,1.96,113,10
+31,Clovis Lebail,Scrum Half,"['Nov 29, 1995', '1.73m', '74kg']",Racing 92,30,1.73,74,10
+32,Paul Leraitre,Right Wing,"['Dec 7, 2000', '1.90m', '92kg']",Racing 92,25,1.90,92,10
+33,Lee-Marvin Mazibuko,Tighthead Prop,"['Oct 12, 1997', '1.82m', '113kg']",Racing 92,28,1.82,113,10
+34,Frederic Michalak,Coach,"['Oct 16, 1982', '1.80m', '80kg']",Racing 92,43,1.80,80,10
+35,Wame Naituvi,Right Wing,"['May 18, 1996', '1.79m', '87kg']",Racing 92,29,1.79,87,10
+36,Boris Palu,No 4 Lock,"['Feb 4, 1996', '1.94m', '113kg']",Racing 92,29,1.94,113,10
+37,Arthur Roche,Inside Centre,"['May 5, 2005', '1.85m', '85kg']",Racing 92,20,1.85,85,10
+38,Joe Rokocoko,Left Wing,"['Jun 6, 1983', '1.89m', '104kg']",Racing 92,42,1.89,104,10
+39,Will Rowlands,No 5 Lock,"['Sep 19, 1991', '2.03m', '123kg']",Racing 92,34,2.03,123,10
+40,Fabien Sanconnie,No. 8,"['Feb 21, 1995', '1.95m', '114kg']",Racing 92,30,1.95,114,10
+41,Lucio Sordoni,Tighthead Prop,"['Jul 23, 1998', '1.90m', '123kg']",Racing 92,27,1.90,123,10
+42,Max Spring,Fullback,"['Mar 15, 2001', '1.73m', '75kg']",Racing 92,24,1.73,75,10
+43,Dimitri Szarzewski,Hooker,"['Jan 26, 1983', '1.80m', '102kg']",Racing 92,42,1.80,102,10
+44,Donovan Taofifenua,Left Wing,"['Mar 30, 1999', '1.79m', '84kg']",Racing 92,26,1.79,84,10
+45,Romain Taofifenua,No 4 Lock,"['Sep 14, 1990', '2.03m', '135kg']",Racing 92,35,2.03,135,10
+46,Janick Tarrit,Hooker,"['Oct 29, 1998', '1.83m', '100kg']",Racing 92,27,1.83,100,10
+47,Tristan Tedder,Fly Half,"['Apr 17, 1996', '1.80m', '80kg']",Racing 92,29,1.80,80,10
+48,Josua Tuisova,Right Wing,"['Feb 4, 1994', '1.81m', '112kg']",Racing 92,31,1.81,112,10
+49,Asaeli Tuivuaka,Left Wing,"['Dec 22, 1995', '1.75m', '103kg']",Racing 92,30,1.75,103,10
+50,Aston Vaiotu,No 4 Lock,"['Jun 4, 2002', '2.02m', '125kg']",Racing 92,23,2.02,125,10
+51,Cameron Woki,Openside Flanker,"['Nov 7, 1998', '1.96m', '109kg']",Racing 92,27,1.96,109,10
+52,Noa Zinzen,Openside Flanker,"['Feb 24, 2004', '1.92m', '103kg']",Racing 92,21,1.92,103,10
+0,Jermaine Ainsley,Tighthead Prop,"['Feb 8, 1995', '1.81m', '122kg']",LOU Rugby,30,1.81,122,1
+1,Liam Allen,No 4 Lock,"['Mar 17, 2000', '1.91m', '105kg']",LOU Rugby,25,1.91,105,1
+2,Irakli Aptsiauri,Tighthead Prop,"['Feb 23, 2003', '1.85m', '126kg']",LOU Rugby,22,1.85,126,1
+3,Coenraad Basson,No 4 Lock,"['Sep 25, 1981', '1.94m', '118kg']",LOU Rugby,44,1.94,118,1
+4,Leo Berdeu,Fly Half,"['Jun 13, 1998', '1.95m', '97kg']",LOU Rugby,27,1.95,97,1
+5,Steeve Blanc-Mappaz,Blindside Flanker,"['Jul 12, 1990', '1.90m', '102kg']",LOU Rugby,35,1.90,102,1
+6,Arno Botha,No. 8,"['Oct 26, 1991', '1.90m', '108kg']",LOU Rugby,34,1.90,108,1
+7,Charlie Cassang,Scrum Half,"['Feb 8, 1995', '1.73m', '80kg']",LOU Rugby,30,1.73,80,1
+8,Yanis Charcosset,No 4 Lock,"['Aug 28, 2001', '1.84m', '104kg']",LOU Rugby,24,1.84,104,1
+9,Camille Chat,Hooker,"['Dec 18, 1995', '1.78m', '101kg']",LOU Rugby,30,1.78,101,1
+10,Baptiste Couilloud,Scrum Half,"['Jul 22, 1997', '1.76m', '83kg']",LOU Rugby,28,1.76,83,1
+11,Dylan Cretin,Blindside Flanker,"['May 4, 1997', '1.95m', '101kg']",LOU Rugby,28,1.95,101,1
+12,Wayan de Benedettis,Tighthead Prop,"['Mar 10, 1999', '1.85m', '107kg']",LOU Rugby,26,1.85,107,1
+13,Ethan Dumortier,Left Wing,"['Dec 29, 2000', '1.91m', '93kg']",LOU Rugby,25,1.91,93,1
+14,Feao Fotuaika,Tighthead Prop,"['Apr 23, 1993', '1.86m', '135kg']",LOU Rugby,32,1.86,135,1
+15,Fabien Gengenbacher,Fly Half,"['Jan 13, 1984', '1.83m', '86kg']",LOU Rugby,41,1.83,86,1
+16,Killian Geraci,No 5 Lock,"['Mar 25, 1999', '2.00m', '118kg']",LOU Rugby,26,2.00,118,1
+17,Cedate Gomes Sa,Loosehead Prop,"['Mar 7, 1993', '1.85m', '113kg']",LOU Rugby,32,1.85,113,1
+18,Francisco Gomez-Kodela,Tighthead Prop,"['Jul 7, 1985', '1.84m', '120kg']",LOU Rugby,40,1.84,120,1
+19,Esteban Gonzalez,Scrum Half,"['Nov 28, 2005', '1.77m', '65kg']",LOU Rugby,20,1.77,65,1
+20,Maxime Gouzou,Openside Flanker,"['Sep 11, 1998', '1.89m', '102kg']",LOU Rugby,27,1.89,102,1
+21,Mickael Guillard,No 5 Lock,"['Dec 10, 2000', '1.97m', '112kg']",LOU Rugby,25,1.97,112,1
+22,Monty Ioane,Left Wing,"['Oct 30, 1994', '1.80m', '95kg']",LOU Rugby,31,1.80,95,1
+23,Paddy Jackson,Fly Half,"['Jan 5, 1992', '1.78m', '87kg']",LOU Rugby,33,1.78,87,1
+24,Hamza Kaabeche,Tighthead Prop,"['Sep 23, 1996', '1.89m', '114kg']",LOU Rugby,29,1.89,114,1
+25,Felix Lambey,No 4 Lock,"['Mar 15, 1994', '1.95m', '107kg']",LOU Rugby,31,1.95,107,1
+26,Tomas Lavanini,No 5 Lock,"['Jan 22, 1993', '2.01m', '126kg']",LOU Rugby,32,2.01,126,1
+27,Ave Maalo,Tighthead Prop,"['Aug 27, 2003', '1.89m', '132kg']",LOU Rugby,22,1.89,132,1
+28,Josiah Maraku,Outside Centre,"['Mar 30, 2000', '1.80m', '96kg']",LOU Rugby,25,1.80,96,1
+29,Guillaume Marchand,Hooker,"['Jun 5, 1998', '1.83m', '105kg']",LOU Rugby,27,1.83,105,1
+30,Sam Matavesi,Hooker,"['Jan 13, 1992', '1.83m', '102kg']",LOU Rugby,33,1.83,102,1
+31,Temo Mayanavanua,No 4 Lock,"['Nov 9, 1997', '1.97m', '120kg']",LOU Rugby,28,1.97,120,1
+32,Martin Meliande,Fullback,"['Dec 20, 2001', '1.87m', '82kg']",LOU Rugby,24,1.87,82,1
+33,Xavier Mignot,Right Wing,"['Jan 27, 1994', '1.88m', '99kg']",LOU Rugby,31,1.88,99,1
+34,Theo Millet,Outside Centre,"['Jul 8, 1997', '1.89m', '99kg']",LOU Rugby,28,1.89,99,1
+35,Etienne Narmand,Hooker,"['Jan 3, 2002', '1.83m', '95kg']",LOU Rugby,23,1.83,95,1
+36,Davit Niniashvili,Fullback,"['Jul 14, 2002', '1.86m', '89kg']",LOU Rugby,23,1.86,89,1
+38,Pierre-Emmanuel Pacheco,Tighthead Prop,"['Nov 4, 2002', '1.85m', '117kg']",LOU Rugby,23,1.85,117,1
+39,Martin Page-Relo,Scrum Half,"['Jun 1, 1999', '1.73m', '77kg']",LOU Rugby,26,1.73,77,1
+41,Alfred Parisien,Inside Centre,"['Mar 4, 2001', '1.82m', '93kg']",LOU Rugby,24,1.82,93,1
+42,Jonathan Pelissie,Scrum Half,"['Jun 6, 1988', '1.79m', '84kg']",LOU Rugby,37,1.79,84,1
+43,Semi Radradra,Outside Centre,"['Jun 13, 1992', '1.88m', '105kg']",LOU Rugby,33,1.88,105,1
+44,Vincent Rattez,Fullback,"['Mar 24, 1992', '1.81m', '77kg']",LOU Rugby,33,1.81,77,1
+45,Thibault Regard,Outside Centre,"['Jun 8, 1993', '1.80m', '95kg']",LOU Rugby,32,1.80,95,1
+46,Jerome Rey,Loosehead Prop,"['May 19, 1995', '1.81m', '112kg']",LOU Rugby,30,1.81,112,1
+47,Alban Roussel,No 4 Lock,"['Nov 9, 1998', '1.96m', '120kg']",LOU Rugby,27,1.96,120,1
+48,Beka Saghinadze,No 4 Lock,"['Oct 29, 1998', '1.91m', '110kg']",LOU Rugby,27,1.91,110,1
+49,Beka Shvangiradze,No. 8,"['Jun 12, 2002', '1.88m', '101kg']",LOU Rugby,23,1.88,101,1
+50,Valentin Simutoga,Tighthead Prop,"['Feb 14, 2003', '1.80m', '120kg']",LOU Rugby,22,1.80,120,1
+51,Fletcher Smith,Fly Half,"['Mar 1, 1995', '1.80m', '88kg']",LOU Rugby,30,1.80,88,1
+52,Lima Sopoaga,Fly Half,"['Mar 3, 1991', '1.77m', '91kg']",LOU Rugby,34,1.77,91,1
+53,Sebastien Taofifenua,Loosehead Prop,"['Mar 21, 1992', '1.78m', '127kg']",LOU Rugby,33,1.78,127,1
+54,Alexandre Tchaptchet,Fullback,"['Sep 26, 2001', '1.71m', '78kg']",LOU Rugby,24,1.71,78,1
+55,Tavite Veredamu,Right Wing,"['Sep 1, 1989', '1.92m', '108kg']",LOU Rugby,36,1.92,108,1
+56,Theo William,No 4 Lock,"['Jul 4, 2000', '1.94m', '108kg']",LOU Rugby,25,1.94,108,1
+0,Gregoire Arfeuil,Left Wing,"['Dec 5, 2004', '1.93m', '82kg']",Section Paloise,21,1.93,82,3
+1,Theo Attissogbe,Fullback,"['Nov 19, 2004', '1.81m', '79kg']",Section Paloise,21,1.81,79,3
+2,Hugo Auradou,No 5 Lock,"['Jul 20, 2003', '2.00m', '100kg']",Section Paloise,22,2.00,100,3
+3,Daniel Bibi Biziwu,Loosehead Prop,"['Aug 29, 2001', '1.83m', '112kg']",Section Paloise,24,1.83,112,3
+4,Josselin Bouhier,No 4 Lock,"['Jan 18, 2003', '1.93m', '91kg']",Section Paloise,22,1.93,91,3
+5,Fabien Brau-Boirie,Outside Centre,"['Dec 19, 2005', '1.90m', '94kg']",Section Paloise,20,1.90,94,3
+6,Ignacio Calles,Loosehead Prop,"['Oct 24, 1995', '1.87m', '116kg']",Section Paloise,30,1.87,116,3
+7,Mikael Capelli,No 5 Lock,"['Mar 18, 1997', '1.98m', '126kg']",Section Paloise,28,1.98,126,3
+8,Thomas Carol,Fly Half,"['Jan 27, 2001', '1.78m', '85kg']",Section Paloise,24,1.78,85,3
+9,Thibaut Carrie,Scrum Half,"['Oct 10, 2002', '1.70m', '72kg']",Section Paloise,23,1.70,72,3
+10,Thomas Choveau,Coach,"['Feb 23, 1979', '1.90m', '95kg']",Section Paloise,46,1.90,95,3
+11,Loic Credoz,Blindside Flanker,"['May 17, 1999', '1.86m', '104kg']",Section Paloise,26,1.86,104,3
+12,Thibault Daubagna,Scrum Half,"['May 20, 1994', '1.77m', '83kg']",Section Paloise,31,1.77,83,3
+13,Nathan Decron,Outside Centre,"['Feb 17, 1996', '1.85m', '96kg']",Section Paloise,29,1.85,96,3
+14,Youri Delhommel,Hooker,"['Mar 6, 1996', '1.81m', '101kg']",Section Paloise,29,1.81,101,3
+15,Axel Desperes,Fly Half,"['Jan 16, 2004', '1.83m', '77kg']",Section Paloise,21,1.83,77,3
+16,Alexandre Etchebehere,Tighthead Prop,"['Dec 26, 2004', '1.78m', '108kg']",Section Paloise,21,1.78,108,3
+17,Emilien Gailleton,Fullback,"['Jul 13, 2003', '1.85m', '89kg']",Section Paloise,22,1.85,89,3
+18,Beka Gorgadze,No 4 Lock,"['Feb 8, 1996', '1.89m', '110kg']",Section Paloise,29,1.89,110,3
+19,Aaron Grandidier-Nkanang,Fullback,"['May 18, 2000', '1.86m', '94kg']",Section Paloise,25,1.86,94,3
+20,Thibault Hamonou,No 4 Lock,"['Mar 10, 2000', '1.95m', '108kg']",Section Paloise,25,1.95,108,3
+21,Michael Harris,Fly Half,"['Jul 8, 1988', '1.85m', '93kg']",Section Paloise,37,1.85,93,3
+22,Reece Hewat,Blindside Flanker,"['Sep 25, 1997', '1.91m', '106kg']",Section Paloise,28,1.91,106,3
+23,Thomas Jolmes,No 4 Lock,"['Oct 8, 1995', '2.04m', '125kg']",Section Paloise,30,2.04,125,3
+24,Daniel Jooste,Hooker,"['Feb 21, 1998', '1.87m', '105kg']",Section Paloise,27,1.87,105,3
+25,Lekso Kaulashvili,Loosehead Prop,"['Aug 27, 1992', '1.85m', '120kg']",Section Paloise,33,1.85,120,3
+26,Olivier Klemenczak,Fullback,"['Jul 1, 1996', '1.81m', '81kg']",Section Paloise,29,1.81,81,3
+27,Joel Kpoku,No 4 Lock,"['Jun 22, 1999', '1.96m', '114kg']",Section Paloise,26,1.96,114,3
+28,Geoffrey Lanne-Petit,Assistant Coach,"['Feb 18, 1989', '1.75m', '75kg']",Section Paloise,36,1.75,75,3
+29,Clément Laporte,Fullback,"['Jan 7, 1998', '1.80m', '83kg']",Section Paloise,27,1.80,83,3
+30,Brent Liufau,Blindside Flanker,"['Mar 21, 2004', '1.96m', '119kg']",Section Paloise,21,1.96,119,3
+31,Aymeric Luc,Right Wing,"['Oct 14, 1997', '1.80m', '80kg']",Section Paloise,28,1.80,80,3
+32,Jack Maddocks,Fullback,"['Feb 5, 1997', '1.94m', '96kg']",Section Paloise,28,1.94,96,3
+33,Tumua Manu,Outside Centre,"['Apr 18, 1993', '1.83m', '97kg']",Section Paloise,32,1.83,97,3
+34,Jimi Maximin,No 5 Lock,"['Apr 3, 1999', '2.05m', '133kg']",Section Paloise,26,2.05,133,3
+35,Clément Mondinat,Fly Half,"['Oct 29, 2003', '1.78m', '78kg']",Section Paloise,22,1.78,78,3
+36,Guram Papidze,Loosehead Prop,"['Jun 16, 1997', '1.87m', '125kg']",Section Paloise,28,1.87,125,3
+37,Hugo Parrou,Left Wing,"['Jan 28, 2003', '1.83m', '105kg']",Section Paloise,22,1.83,105,3
+38,Paulo Pelesasa,Blindside Flanker,"['Feb 8, 2005', '1.91m', '115kg']",Section Paloise,20,1.91,115,3
+39,Remi Picquette,No 4 Lock,"['Feb 23, 1995', '2.00m', '117kg']",Section Paloise,30,2.00,117,3
+40,Sebastien Piqueronies,Head Coach,"['Jul 14, 1978', '1.86m', '85kg']",Section Paloise,47,1.86,85,3
+41,Arnaud Puyo,Hooker,"['Apr 25, 2003', '1.86m', '101kg']",Section Paloise,22,1.86,101,3
+42,Lucas Rey,Hooker,"['Mar 27, 1997', '1.75m', '98kg']",Section Paloise,28,1.75,98,3
+43,Dan Robson,Scrum Half,"['Mar 14, 1992', '1.73m', '82kg']",Section Paloise,33,1.73,82,3
+44,Elliot Roudil,Left Wing,"['Oct 30, 1996', '1.84m', '95kg']",Section Paloise,29,1.84,95,3
+45,Romain Ruffenach,Hooker,"['Sep 4, 1994', '1.86m', '108kg']",Section Paloise,31,1.86,108,3
+46,Remi Seneca,Loosehead Prop,"['Jan 16, 1995', '1.85m', '114kg']",Section Paloise,30,1.85,114,3
+47,Joe Simmonds,Fly Half,"['Dec 19, 1996', '1.82m', '91kg']",Section Paloise,29,1.82,91,3
+48,Thomas Souverbie,Scrum Half,"['Jun 28, 2004', '1.75m', '79kg']",Section Paloise,21,1.75,79,3
+49,Lekima Tagitagivalu,Blindside Flanker,"['Dec 4, 1995', '1.95m', '110kg']",Section Paloise,30,1.95,110,3
+50,Victor Templier,No 5 Lock,"['Jan 15, 2001', '1.96m', '116kg']",Section Paloise,24,1.96,116,3
+51,Mehdi Tlili,Blindside Flanker,"['Aug 17, 2004', '1.93m', '100kg']",Section Paloise,21,1.93,100,3
+52,Siate Tokolahi,Tighthead Prop,"['Mar 16, 1992', '1.86m', '116kg']",Section Paloise,33,1.86,116,3
+53,Carwyn Tuipulotu,Openside Flanker,"['Sep 28, 2001', '1.89m', '108kg']",Section Paloise,24,1.89,108,3
+55,Luc Ignace Vea,Loosehead Prop,"['Jul 31, 2002', '1.83m', '125kg']",Section Paloise,23,1.83,125,3
+56,Luke Whitelock,No. 8,"['Jan 29, 1991', '1.93m', '112kg']",Section Paloise,34,1.93,112,3
+57,Harry Williams,Tighthead Prop,"['Oct 1, 1991', '1.89m', '131kg']",Section Paloise,34,1.89,131,3
+58,Jon Zabala Arrieta,Tighthead Prop,"['Nov 26, 1996', '1.90m', '125kg']",Section Paloise,29,1.90,125,3
+59,Sacha Zegueur,Openside Flanker,"['Jun 21, 1999', '1.92m', '107kg']",Section Paloise,26,1.92,107,3
+0,Tommaso Allan,Fly Half,"['Apr 26, 1993', '1.84m', '91kg']",USA Perpignan,32,1.84,91,16
+1,Gela Aprasidze,Scrum Half,"['Jan 14, 1998', '1.75m', '75kg']",USA Perpignan,27,1.75,75,16
+2,Antoine Aucagne,Left Wing,"['Apr 11, 2000', '1.84m', '80kg']",USA Perpignan,25,1.84,80,16
+3,Lucas Bachelier,Openside Flanker,"['Mar 26, 1995', '1.88m', '92kg']",USA Perpignan,30,1.88,92,16
+5,Jean-Pascal Barraque,Outside Centre,"['Apr 24, 1991', '1.82m', '86kg']",USA Perpignan,34,1.82,86,16
+6,Gérald Bastide,Coach,"['Sep 7, 1973', '1.77m', '90kg']",USA Perpignan,52,1.77,90,16
+7,Giorgi Beria,Tighthead Prop,"['Nov 11, 1999', '1.75m', '108kg']",USA Perpignan,26,1.75,108,16
+8,Anthony Bouthier,Fullback,"['Jun 19, 1992', '1.82m', '86kg']",USA Perpignan,33,1.82,86,16
+9,Lorencio Boyer Gallardo,Loosehead Prop,"['Sep 23, 2005', '1.78m', '115kg']",USA Perpignan,20,1.78,115,16
+10,Alan Brazo,Blindside Flanker,"['May 21, 1992', '1.92m', '105kg']",USA Perpignan,33,1.92,105,16
+11,Kieran Brookes,Loosehead Prop,"['Aug 29, 1990', '1.88m', '129kg']",USA Perpignan,35,1.88,129,16
+12,Eneriko Buliruarua,Inside Centre,"['Jan 23, 1997', '1.86m', '106kg']",USA Perpignan,28,1.86,106,16
+13,Pietro Ceccarelli,Tighthead Prop,"['Feb 16, 1992', '1.84m', '123kg']",USA Perpignan,33,1.84,123,16
+14,Bastien Chinarro,No. 8,"['May 17, 2004', '1.96m', '94kg']",USA Perpignan,21,1.96,94,16
+15,Alistair Crossdale,Right Wing,"['Sep 1, 1998', '1.84m', '78kg']",USA Perpignan,27,1.84,78,16
+16,Jeronimo de la Fuente,Inside Centre,"['Feb 24, 1991', '1.83m', '93kg']",USA Perpignan,34,1.83,93,16
+17,Noe Della Schiava,Blindside Flanker,"['Feb 28, 2002', '1.93m', '95kg']",USA Perpignan,23,1.93,95,16
+18,Bruce Devaux,Loosehead Prop,"['Nov 14, 1996', '1.83m', '108kg']",USA Perpignan,29,1.83,108,16
+19,Lucas Dubois,Right Wing,"['Jun 9, 1998', '1.82m', '88kg']",USA Perpignan,27,1.82,88,16
+20,Alivereti Duguivalu,Inside Centre,"['Jul 21, 1997', '1.80m', '85kg']",USA Perpignan,28,1.80,85,16
+21,Louis Dupichot,Fullback,"['Sep 23, 1995', '1.83m', '86kg']",USA Perpignan,30,1.83,86,16
+22,Andro Dvali,No. 8,"['Jul 10, 2005', '1.89m', '95kg']",USA Perpignan,20,1.89,95,16
+23,Tom Ecochard,Scrum Half,"['Dec 14, 1992', '1.73m', '79kg']",USA Perpignan,33,1.73,79,16
+24,So'otala Fa'aso'o,No. 8,"['Oct 2, 1994', '1.95m', '117kg']",USA Perpignan,31,1.95,117,16
+25,Akato Fakatika,Tighthead Prop,"['Jan 31, 2001', '1.80m', '118kg']",USA Perpignan,24,1.80,118,16
+26,Theo Forner,Fullback,"['Oct 17, 2001', '1.88m', '87kg']",USA Perpignan,24,1.88,87,16
+27,Maxime Granelle,Inside Centre,"['Jul 26, 2005', '1.82m', '80kg']",USA Perpignan,20,1.82,80,16
+28,James Hall,Scrum Half,"['Oct 2, 1996', '1.74m', '82kg']",USA Perpignan,29,1.74,82,16
+29,Max Hicks,No 4 Lock,"['Sep 15, 1996', '1.99m', '112kg']",USA Perpignan,29,1.99,112,16
+30,Vakhtang Jincharadze,No. 8,"['Nov 8, 1999', '1.87m', '116kg']",USA Perpignan,26,1.87,116,16
+31,Jefferson Lee Joseph,Fullback,"['Aug 29, 2002', '1.92m', '88kg']",USA Perpignan,23,1.92,88,16
+33,Tristan Labouteley,No 4 Lock,"['Apr 12, 1995', '2.00m', '106kg']",USA Perpignan,30,2.00,106,16
+34,Seilala Lam,Hooker,"['Feb 2, 1989', '1.83m', '110kg']",USA Perpignan,36,1.83,110,16
+35,Mathys Lotrian,Hooker,"['Feb 18, 2004', '1.77m', '110kg']",USA Perpignan,21,1.77,110,16
+36,David Marty,Outside Centre,"['Oct 30, 1982', '1.80m', '93kg']",USA Perpignan,43,1.80,93,16
+37,Jake McIntyre,Fly Half,"['Apr 28, 1994', '1.77m', '87kg']",USA Perpignan,31,1.77,87,16
+38,Victor Montgaillard,Hooker,"['Jul 16, 2002', '1.81m', '98kg']",USA Perpignan,23,1.81,98,16
+39,Apisai Naqalevu,Outside Centre,"['Aug 21, 1989', '1.84m', '111kg']",USA Perpignan,36,1.84,111,16
+40,Marvin Orie,No 5 Lock,"['Feb 15, 1993', '1.98m', '113kg']",USA Perpignan,32,1.98,113,16
+41,Alessandro Ortombina,No 4 Lock,"['Oct 5, 2002', '1.96m', '114kg']",USA Perpignan,23,1.96,114,16
+42,Joaquín Oviedo,No. 8,"['Jul 7, 2001', '1.91m', '113kg']",USA Perpignan,24,1.91,113,16
+43,Baptiste Plana,Outside Centre,"['Oct 12, 1999', '1.82m', '85kg']",USA Perpignan,26,1.82,85,16
+44,Job Poulet,Inside Centre,"['Apr 30, 2003', '1.80m', '79kg']",USA Perpignan,22,1.80,79,16
+45,Nemo Roelofse,Tighthead Prop,"['Jun 6, 1995', '1.82m', '120kg']",USA Perpignan,30,1.82,120,16
+46,Ignacio Ruiz,Hooker,"['Jan 3, 2001', '1.91m', '112kg']",USA Perpignan,24,1.91,112,16
+47,Patrick Sobela,Openside Flanker,"['Aug 12, 1992', '1.88m', '105kg']",USA Perpignan,33,1.88,105,16
+48,Mathieu Tanguy,No 5 Lock,"['Jun 5, 1996', '1.94m', '110kg']",USA Perpignan,29,1.94,110,16
+49,Giorgi Tetrashvili,Loosehead Prop,"['Aug 31, 1993', '1.77m', '114kg']",USA Perpignan,32,1.77,114,16
+51,Posolo Tuilagi,Blindside Flanker,"['Jul 28, 2004', '1.92m', '149kg']",USA Perpignan,21,1.92,149,16
+52,Emmanuel Vaitulukina,Outside Centre,"['Jul 5, 2001', '1.83m', '94kg']",USA Perpignan,24,1.83,94,16
+53,Jaco van Tonder,Fullback,"['Apr 7, 1991', '1.86m', '95kg']",USA Perpignan,34,1.86,95,16
+54,Lucas Velarte,Hooker,"['Oct 24, 1998', '1.85m', '108kg']",USA Perpignan,27,1.85,108,16
+55,Tavite Veredamu,Right Wing,"['Sep 1, 1989', '1.92m', '108kg']",USA Perpignan,36,1.92,108,16
+56,Guillaume Vilaceca,No 4 Lock,"['Nov 7, 1983', '1.97m', '110kg']",USA Perpignan,42,1.97,110,16
+57,Lenny Viola,Scrum Half,"['Apr 16, 2004', '1.75m', '76kg']",USA Perpignan,21,1.75,76,16
+58,Adrien Warion,No 4 Lock,"['Jan 7, 2001', '1.85m', '112kg']",USA Perpignan,24,1.85,112,16
+0,Paul Abadie,Scrum Half,"['Jul 28, 1994', '1.76m', '88kg']",Stade Français Paris,31,1.76,88,14
+1,Sergo Abramishvili,Loosehead Prop,"['Nov 23, 2003', '1.80m', '105kg']",Stade Français Paris,22,1.80,105,14
+2,Paul Alo-Emile,Tighthead Prop,"['Dec 22, 1991', '1.80m', '136kg']",Stade Français Paris,34,1.80,136,14
+3,Moses Alo-Emile,Tighthead Prop,"['Jan 15, 2000', '1.89m', '124kg']",Stade Français Paris,25,1.89,124,14
+5,Pierre-Henri Azagoh,No 4 Lock,"['May 27, 1998', '1.96m', '103kg']",Stade Français Paris,27,1.96,103,14
+6,Leo Barre,Fly Half,"['Aug 20, 2002', '1.89m', '89kg']",Stade Français Paris,23,1.89,89,14
+8,Romain Briatte,Openside Flanker,"['Feb 18, 1993', '1.95m', '107kg']",Stade Français Paris,32,1.95,107,14
+9,Louis Carbonel,Fly Half,"['Feb 4, 1999', '1.80m', '82kg']",Stade Français Paris,26,1.80,82,14
+10,Clement Castets,Loosehead Prop,"['May 5, 1996', '1.81m', '109kg']",Stade Français Paris,29,1.81,109,14
+11,Ryan Chapus,Openside Flanker,"['Jan 1, 2000', '1.89m', '104kg']",Stade Français Paris,25,1.89,104,14
+12,Raffaele Costa Storti,Left Wing,"['Dec 19, 2000', '1.84m', '88kg']",Stade Français Paris,25,1.84,88,14
+13,Peniasi Dakuwaqa,Fullback,"['Apr 9, 1997', '1.85m', '92kg']",Stade Français Paris,28,1.85,92,14
+14,Julien Delbouis,Inside Centre,"['Aug 4, 1999', '1.85m', '105kg']",Stade Français Paris,26,1.85,105,14
+15,Ferdinand Dreno,Blindside Flanker,"['Apr 14, 2002', '1.88m', '96kg']",Stade Français Paris,23,1.88,96,14
+16,Louis Druart,Scrum Half,"['Apr 19, 2000', '1.77m', '76kg']",Stade Français Paris,25,1.77,76,14
+17,Lester Etien,Left Wing,"['Jun 21, 1995', '1.81m', '96kg']",Stade Français Paris,30,1.81,96,14
+18,Samuel Ezeala,Right Wing,"['Dec 11, 1999', '1.87m', '99kg']",Stade Français Paris,26,1.87,99,14
+19,Louis Foursans-Bourdette,Fly Half,"['Jan 29, 2002', '1.71m', '81kg']",Stade Français Paris,23,1.71,81,14
+20,Paul Gabrillagues,No 5 Lock,"['Jun 3, 1993', '2.00m', '115kg']",Stade Français Paris,32,2.00,115,14
+21,Alvaro Garcia,Hooker,"['Aug 22, 2003', '1.78m', '107kg']",Stade Français Paris,22,1.78,107,14
+22,Jules Gimbert,Scrum Half,"['Mar 2, 1998', '1.71m', '75kg']",Stade Français Paris,27,1.71,75,14
+23,Francisco Gomez-Kodela,Tighthead Prop,"['Jul 7, 1985', '1.84m', '120kg']",Stade Français Paris,40,1.84,120,14
+24,Paul Gustard,Head Coach,"['Feb 2, 1976', '1.93m', '100kg']",Stade Français Paris,49,1.93,100,14
+25,Tanginoa Halaifonua,No 4 Lock,"['Sep 20, 1996', '1.96m', '115kg']",Stade Français Paris,29,1.96,115,14
+26,Zack Henry,Fly Half,"['Oct 1, 1994', '1.82m', '89kg']",Stade Français Paris,31,1.82,89,14
+27,Mathieu Hirigoyen,Openside Flanker,"['Jan 25, 1999', '1.95m', '95kg']",Stade Français Paris,26,1.95,95,14
+29,Pierre Huguet,Openside Flanker,"['Nov 5, 1995', '1.94m', '106kg']",Stade Français Paris,30,1.94,106,14
+31,Joe Jonas,Fullback,"['Dec 31, 2000', '1.71m', '81kg']",Stade Français Paris,25,1.71,81,14
+32,Isaac Koffi,Loosehead Prop,"['Sep 28, 2005', '1.95m', '98kg']",Stade Français Paris,20,1.95,98,14
+33,Joketani Koroi,No 4 Lock,"['Aug 20, 1992', '1.94m', '115kg']",Stade Français Paris,33,1.94,115,14
+35,Sekou Macalou,Openside Flanker,"['Apr 20, 1995', '1.95m', '108kg']",Stade Français Paris,30,1.95,108,14
+36,Joe Marchant,Outside Centre,"['Jul 16, 1996', '1.83m', '89kg']",Stade Français Paris,29,1.83,89,14
+37,Ollie McCrea,No 5 Lock,"['Oct 17, 2004', '1.97m', '119kg']",Stade Français Paris,21,1.97,119,14
+38,Mamoudou Meite,Hooker,"['Nov 16, 2002', '1.82m', '108kg']",Stade Français Paris,23,1.82,108,14
+39,Giorgi Melikidze,Tighthead Prop,"['Jun 24, 1996', '1.79m', '118kg']",Stade Français Paris,29,1.79,118,14
+40,Leo Monin,Fullback,"['Jan 25, 2002', '1.87m', '86kg']",Stade Français Paris,23,1.87,86,14
+41,Thibaut Motassi,Scrum Half,"['Jan 2, 2005', '1.75m', '79kg']",Stade Français Paris,20,1.75,79,14
+42,Hugo Ndiaye,Tighthead Prop,"['Aug 18, 2000', '1.83m', '120kg']",Stade Français Paris,25,1.83,120,14
+43,Giacomo Nicotera,Hooker,"['Jul 15, 1996', '1.83m', '102kg']",Stade Français Paris,29,1.83,102,14
+44,Morgan Parra,Scrum Half,"['Nov 15, 1988', '1.80m', '80kg']",Stade Français Paris,37,1.80,80,14
+45,Varian Pasquet,Outside Centre,"['Jul 29, 1999', '1.92m', '92kg']",Stade Français Paris,26,1.92,92,14
+46,Baptiste Pesenti,No 4 Lock,"['Jul 3, 1997', '1.95m', '118kg']",Stade Français Paris,28,1.95,118,14
+48,Lucas Peyresblanques,Hooker,"['Jan 20, 1998', '1.81m', '101kg']",Stade Français Paris,27,1.81,101,14
+49,Juan Martin Scelzo,No 4 Lock,"['Feb 12, 2002', '1.92m', '110kg']",Stade Français Paris,23,1.92,110,14
+50,Henry Spring,Openside Flanker,"['Mar 14, 2001', '1.85m', '105kg']",Stade Français Paris,24,1.85,105,14
+51,Yoan Tanga,No. 8,"['Nov 29, 1996', '1.85m', '106kg']",Stade Français Paris,29,1.85,106,14
+52,Andy Timo,Fly Half,"['May 28, 2004', '1.91m', '92kg']",Stade Français Paris,21,1.91,92,14
+54,JJ van der Mescht,No 4 Lock,"['May 4, 1999', '1.98m', '135kg']",Stade Français Paris,26,1.98,135,14
+55,Jeremy Ward,Outside Centre,"['Jan 10, 1996', '1.87m', '92kg']",Stade Français Paris,29,1.87,92,14
+56,Brad Weber,Scrum Half,"['Jan 17, 1991', '1.72m', '75kg']",Stade Français Paris,34,1.72,75,14
+0,Alex Arrate,Fly Half,"['Jun 24, 1997', '1.82m', '90kg']",RC Vannes,28,1.82,90,18
+1,Simon Augry,Openside Flanker,"['Aug 22, 1997', '1.92m', '104kg']",RC Vannes,28,1.92,104,18
+2,Inaki Ayarza,Outside Centre,"['Sep 7, 1999', '1.86m', '102kg']",RC Vannes,26,1.86,102,18
+3,Theo Bastardie,Left Wing,"['Feb 26, 2000', '1.80m', '91kg']",RC Vannes,25,1.80,91,18
+4,Enzo Benmegal,Left Wing,"['Oct 28, 2003', '1.79m', '80kg']",RC Vannes,22,1.79,80,18
+5,Charles-Henri Berguet,Hooker,"['Jan 13, 2000', '1.85m', '115kg']",RC Vannes,25,1.85,115,18
+6,Theo Beziat,Hooker,"['May 11, 1994', '1.80m', '102kg']",RC Vannes,31,1.80,102,18
+7,Cyril Blanchard,Hooker,"['Jul 22, 1989', '1.76m', '109kg']",RC Vannes,36,1.76,109,18
+8,Pierre Boudehent,Left Wing,"['Feb 6, 1998', '1.94m', '102kg']",RC Vannes,27,1.94,102,18
+10,Leon Boulier,No. 8,"['Aug 23, 2001', '1.93m', '107kg']",RC Vannes,24,1.93,107,18
+11,Simon Bourgeois,Loosehead Prop,"['Nov 30, 2001', '1.89m', '117kg']",RC Vannes,24,1.89,117,18
+12,Anton Bresler,No 4 Lock,"['Feb 16, 1988', '1.97m', '113kg']",RC Vannes,37,1.97,113,18
+13,Xiaomi Camo,Left Wing,"['Oct 9, 1996', '1.74m', '82kg']",RC Vannes,29,1.74,82,18
+14,Romaric Camou,Left Wing,"['Oct 9, 1996', '1.70m', '90kg']",RC Vannes,29,1.70,90,18
+15,Karl Chateau,No. 8,"['Dec 15, 1992', '1.89m', '110kg']",RC Vannes,33,1.89,110,18
+17,Theo Costosseque,Inside Centre,"['Apr 26, 2000', '1.91m', '96kg']",RC Vannes,25,1.91,96,18
+19,Thibault Debaes,Fly Half,"['Nov 30, 2001', '1.79m', '84kg']",RC Vannes,24,1.79,84,18
+20,Jean Maurice Decubber,No 4 Lock,"['Sep 10, 1996', '1.78m', '90kg']",RC Vannes,29,1.78,90,18
+21,Matteo Desjeux,No 4 Lock,"['Jan 26, 2002', '2.00m', '118kg']",RC Vannes,23,2.00,118,18
+22,Hugo Djehi,Loosehead Prop,"['Jun 30, 1998', '1.83m', '106kg']",RC Vannes,27,1.83,106,18
+23,Gwenael Duplenne,Left Wing,"['Aug 9, 1993', '1.84m', '85kg']",RC Vannes,32,1.84,85,18
+24,Joseph Edwards,No. 8,"['Sep 21, 1993', '1.94m', '116kg']",RC Vannes,32,1.94,116,18
+26,Francisco Gorrissen,Blindside Flanker,"['Aug 30, 1994', '1.91m', '105kg']",RC Vannes,31,1.91,105,18
+27,Alexandre Gouaux,Fly Half,"['Feb 15, 1999', '1.73m', '72kg']",RC Vannes,26,1.73,72,18
+29,Sione Kalamafoni,No. 8,"['May 18, 1988', '1.90m', '120kg']",RC Vannes,37,1.90,120,18
+30,Kitione Kamikamica,Openside Flanker,"['Apr 27, 1996', '1.88m', '110kg']",RC Vannes,29,1.88,110,18
+31,Phil Kite,Loosehead Prop,"['Apr 24, 1993', '1.85m', '140kg']",RC Vannes,32,1.85,140,18
+32,Aloviso Kolivai,Loosehead Prop,"['Sep 1, 2024', '1.89m', '95kg']",RC Vannes,1,1.89,95,18
+33,Maxime Lafage,Fly Half,"['Sep 1, 1994', '1.83m', '86kg']",RC Vannes,31,1.83,86,18
+34,Jules Le Bail,Scrum Half,"['Feb 9, 1992', '1.68m', '82kg']",RC Vannes,33,1.68,82,18
+36,Pat Leafa,Hooker,"['Mar 16, 1989', '1.82m', '122kg']",RC Vannes,36,1.82,122,18
+37,Eric Marks,No 5 Lock,"['Dec 9, 1996', '1.96m', '116kg']",RC Vannes,29,1.96,116,18
+38,Santiago Medrano,Tighthead Prop,"['May 6, 1996', '1.86m', '115kg']",RC Vannes,29,1.86,115,18
+39,Fabrice Metz,No 5 Lock,"['Jan 23, 1991', '1.98m', '120kg']",RC Vannes,34,1.98,120,18
+40,Timothé Mézou,No 5 Lock,"['Sep 20, 2002', '2.02m', '110kg']",RC Vannes,23,2.02,110,18
+41,Thomas Moukoro,Loosehead Prop,"['Jan 1, 2002', '1.85m', '116kg']",RC Vannes,23,1.85,116,18
+42,Filipo Nakosi,Left Wing,"['Apr 8, 1992', '1.83m', '98kg']",RC Vannes,33,1.83,98,18
+43,Massimo Ortolan,Inside Centre,"['Oct 13, 1998', '1.85m', '83kg']",RC Vannes,27,1.85,83,18
+44,Jesse Parete,No. 8,"['Apr 20, 1993', '1.93m', '115kg']",RC Vannes,32,1.93,115,18
+45,Bautista Pedemonte,No. 8,"['Mar 14, 2000', '1.88m', '107kg']",RC Vannes,25,1.88,107,18
+46,John Porch,Left Wing,"['Mar 4, 1994', '1.85m', '85kg']",RC Vannes,31,1.85,85,18
+47,Salesi Rayasi,Right Wing,"['Sep 25, 1996', '1.93m', '105kg']",RC Vannes,29,1.93,105,18
+48,Michael Ruru,Scrum Half,"['Dec 3, 1990', '1.82m', '93kg']",RC Vannes,35,1.82,93,18
+49,Francis Saili,Outside Centre,"['Feb 16, 1991', '1.81m', '99kg']",RC Vannes,34,1.81,99,18
+52,Paul Surano,Left Wing,"['Aug 25, 1998', '1.80m', '85kg']",RC Vannes,27,1.80,85,18
+53,Louis-Marie Suta,Hooker,"['Dec 22, 2002', '1.70m', '107kg']",RC Vannes,23,1.70,107,18
+54,Robin Taccola,Inside Centre,"['May 4, 2005', '1.86m', '87kg']",RC Vannes,20,1.86,87,18
+55,Pagakalasio Tafili,Loosehead Prop,"['Mar 8, 1987', '1.82m', '130kg']",RC Vannes,38,1.82,130,18
+56,Mathieu Uhila,No 4 Lock,"['Apr 30, 2002', '1.99m', '105kg']",RC Vannes,23,1.99,105,18
+57,Sacha Valleau,Right Wing,"['Oct 8, 1996', '1.92m', '97kg']",RC Vannes,29,1.92,97,18
+58,Christiaan van der Merwe,No 4 Lock,"['Sep 9, 1996', '2.01m', '115kg']",RC Vannes,29,2.01,115,18
+59,Stephen Varney,Scrum Half,"['May 16, 2001', '1.73m', '73kg']",RC Vannes,24,1.73,73,18
+60,Tani Vili,Inside Centre,"['Oct 31, 2000', '1.87m', '109kg']",RC Vannes,25,1.87,109,18
+61,Mako Vunipola,Loosehead Prop,"['Jan 14, 1991', '1.80m', '126kg']",RC Vannes,34,1.80,126,18
+0,Theo Belan,Outside Centre,"['Nov 15, 1992', '1.87m', '94kg']",SU Agen,33,1.87,94,13
+1,Dorian Bellot,Scrum Half,"['Jun 16, 2000', '1.71m', '79kg']",SU Agen,25,1.71,79,13
+2,Matthieu Bonnet,Openside Flanker,"['Oct 21, 2000', '1.93m', '105kg']",SU Agen,25,1.93,105,13
+4,Alex Burin,Loosehead Prop,"['Dec 14, 1999', '1.90m', '123kg']",SU Agen,26,1.90,123,13
+5,Jean-Marcellin Buttin,Left Wing,"['Dec 16, 1991', '1.92m', '93kg']",SU Agen,34,1.92,93,13
+9,Romain Darchen,Fullback,"['Mar 30, 2002', '1.80m', '80kg']",SU Agen,23,1.80,80,13
+10,Emile Dayral,Fly Half,"['Aug 11, 2002', '1.80m', '86kg']",SU Agen,23,1.80,86,13
+11,Mathieu De Giovanni,Openside Flanker,"['Jan 10, 1994', '1.87m', '102kg']",SU Agen,31,1.87,102,13
+12,William Demotte,No 5 Lock,"['May 22, 1991', '2.02m', '120kg']",SU Agen,34,2.02,120,13
+13,Martin Devergie,No 5 Lock,"['Jun 26, 1995', '1.93m', '115kg']",SU Agen,30,1.93,115,13
+14,Arnaud Duputs,Openside Flanker,"['Jul 27, 1995', '1.88m', '99kg']",SU Agen,30,1.88,99,13
+15,Javier Eissmann,No 5 Lock,"['Mar 21, 1997', '2.01m', '115kg']",SU Agen,28,2.01,115,13
+16,Hayam El Bibouji,Hooker,"['Dec 13, 2001', '1.83m', '108kg']",SU Agen,24,1.83,108,13
+17,Iban Etcheverry,Right Wing,"['Oct 23, 1998', '1.78m', '83kg']",SU Agen,27,1.78,83,13
+18,Beau Farrance,Loosehead Prop,"['Mar 13, 2001', '1.90m', '121kg']",SU Agen,24,1.90,121,13
+19,Vincent Farre,Blindside Flanker,"['Jun 6, 1990', '1.93m', '106kg']",SU Agen,35,1.93,106,13
+20,Tomasi Fineanganofo,Outside Centre,"['Mar 14, 2003', '1.80m', '107kg']",SU Agen,22,1.80,107,13
+21,Clement Garrigues,Scrum Half,"['Jul 9, 2002', '1.79m', '92kg']",SU Agen,23,1.79,92,13
+22,Valentin Gayraud,No 5 Lock,"['May 30, 2002', '1.92m', '105kg']",SU Agen,23,1.92,105,13
+23,Bernard Goutta,Head Coach,"['Sep 28, 1972', '1.85m', '103kg']",SU Agen,53,1.85,103,13
+24,Florent Guion,Loosehead Prop,"['Apr 24, 1993', '1.79m', '107kg']",SU Agen,32,1.79,107,13
+25,Theo Idjellidaine,Scrum Half,"['Mar 15, 2001', '1.68m', '79kg']",SU Agen,24,1.68,79,13
+26,Pierre Jouvin,Hooker,"['Dec 3, 2003', '1.85m', '108kg']",SU Agen,22,1.85,108,13
+27,Inoke Nalaga Kurukuruvakatini,Left Wing,"['Jun 7, 2000', '1.80m', '94kg']",SU Agen,25,1.80,94,13
+28,Julien Lebian,No 5 Lock,"['Apr 10, 2001', '1.94m', '93kg']",SU Agen,24,1.94,93,13
+29,Fotu Lokotui,Openside Flanker,"['Mar 19, 1992', '1.80m', '113kg']",SU Agen,33,1.80,113,13
+30,Hans Lombard-Buret,Loosehead Prop,"['Nov 17, 2000', '1.77m', '117kg']",SU Agen,25,1.77,117,13
+32,Lasha Macharashvili,Loosehead Prop,"['Nov 13, 1998', '1.83m', '129kg']",SU Agen,27,1.83,129,13
+33,John Madigan,No 4 Lock,"['Sep 1, 1994', '1.99m', '123kg']",SU Agen,31,1.99,123,13
+34,Lucas Malbert,Hooker,"['May 30, 2001', '1.81m', '108kg']",SU Agen,24,1.81,108,13
+35,Lucas Martins,Left Wing,"['Jan 16, 2003', '1.93m', '94kg']",SU Agen,22,1.93,94,13
+36,Jack Maunder,Scrum Half,"['Apr 5, 1997', '1.78m', '85kg']",SU Agen,28,1.78,85,13
+37,Thibaud Mazzoleni,Scrum Half,"['Nov 25, 1996', '1.78m', '84kg']",SU Agen,29,1.78,84,13
+39,Mamik Mstoian,Loosehead Prop,"['May 12, 2001', '1.80m', '121kg']",SU Agen,24,1.80,121,13
+40,Peyo Muscarditz,Fullback,"['Jan 2, 1996', '1.74m', '88kg']",SU Agen,29,1.74,88,13
+41,Evan Olmstead,No 5 Lock,"['Feb 21, 1991', '1.96m', '116kg']",SU Agen,34,1.96,116,13
+42,Franck Pourteau,Fly Half,"['Apr 1, 1996', '1.80m', '84kg']",SU Agen,29,1.80,84,13
+43,Henry Purdy,Right Wing,"['May 21, 1994', '1.87m', '94kg']",SU Agen,31,1.87,94,13
+44,Kolinio Ramoka,Inside Centre,"['Feb 24, 1994', '1.83m', '107kg']",SU Agen,31,1.83,107,13
+45,Ethan Randle,Inside Centre,"['Sep 18, 2002', '1.81m', '90kg']",SU Agen,23,1.81,90,13
+46,Billy Searle,Fly Half,"['Mar 25, 1996', '1.78m', '85kg']",SU Agen,29,1.78,85,13
+47,Santiago Socino,Hooker,"['May 7, 1992', '1.88m', '114kg']",SU Agen,33,1.88,114,13
+48,Loris Tolot,Fullback,"['Mar 3, 1993', '1.85m', '92kg']",SU Agen,32,1.85,92,13
+0,Vakh Abdaladze,Tighthead Prop,"['Feb 6, 1996', '1.85m', '121kg']",CA Brive,29,1.85,121,12
+1,Jean Baptiste Pejoine,Scrum Half,"['Jul 17, 1980', '1.74m', '75kg']",CA Brive,45,1.74,75,12
+2,Maxence Biasotto,Inside Centre,"['Jul 8, 2004', '1.82m', '85kg']",CA Brive,21,1.82,85,12
+3,Curwin Bosch,Fly Half,"['Jun 25, 1997', '1.81m', '85kg']",CA Brive,28,1.81,85,12
+4,Benjamin Boudou,Hooker,"['Jun 7, 2002', '1.82m', '102kg']",CA Brive,23,1.82,102,12
+5,Pierre-Henry Broncan,Head Coach,"['May 22, 1974', '1.82m', '90kg']",CA Brive,51,1.82,90,12
+6,Arthur Bruges,Tighthead Prop,"['May 4, 2001', '1.97m', '98kg']",CA Brive,24,1.97,98,12
+7,Leo Carbonneau,Scrum Half,"['Oct 7, 2004', '1.70m', '78kg']",CA Brive,21,1.70,78,12
+8,Simon-Pierre Chauvac,Loosehead Prop,"['Mar 23, 1998', '1.89m', '112kg']",CA Brive,27,1.89,112,12
+9,Francisco Coria Marchetti,Tighthead Prop,"['Oct 7, 2000', '1.86m', '123kg']",CA Brive,25,1.86,123,12
+10,Lucas Da Silva,Hooker,"['Dec 19, 1997', '1.84m', '113kg']",CA Brive,28,1.84,113,12
+11,Tom Danovaro,Fly Half,"['Jun 27, 2001', '1.77m', '84kg']",CA Brive,24,1.77,84,12
+12,Julien Delannoy,No 5 Lock,"['Jun 15, 1995', '1.98m', '123kg']",CA Brive,30,1.98,123,12
+13,Erwan Dridi,Left Wing,"['Jul 4, 2000', '1.87m', '92kg']",CA Brive,25,1.87,92,12
+14,Kevin Fabien,Outside Centre,"['Oct 1, 2002', '1.82m', '95kg']",CA Brive,23,1.82,95,12
+15,Mathis Ferte,Scrum Half,"['Feb 2, 2004', '1.71m', '75kg']",CA Brive,21,1.71,75,12
+16,Nathan Fraissenon,Loosehead Prop,"['Jul 20, 2002', '1.80m', '130kg']",CA Brive,23,1.80,130,12
+17,Guillaume Galletier,Outside Centre,"['Mar 7, 1997', '1.78m', '95kg']",CA Brive,28,1.78,95,12
+18,Sasha Gue,Openside Flanker,"['Jun 19, 2000', '1.93m', '100kg']",CA Brive,25,1.93,100,12
+20,Sam Johnson,Inside Centre,"['Jun 19, 1993', '1.82m', '97kg']",CA Brive,32,1.82,97,12
+21,Teun Karst,No 5 Lock,"['Dec 12, 2004', '1.97m', '118kg']",CA Brive,21,1.97,118,12
+22,Henzo Kiteau,Tighthead Prop,"['Nov 11, 2001', '1.90m', '122kg']",CA Brive,24,1.90,122,12
+23,Nic Krone,Fullback,"['Mar 22, 2003', '1.86m', '98kg']",CA Brive,22,1.86,98,12
+24,Yann Lagane,Hooker,"['Apr 15, 2001', '1.78m', '115kg']",CA Brive,24,1.78,115,12
+25,Thomas Laranjeira,Fullback,"['May 5, 1992', '1.86m', '89kg']",CA Brive,33,1.86,89,12
+26,Loan Lavergne,No 5 Lock,"['Apr 28, 2004', '1.90m', '111kg']",CA Brive,21,1.90,111,12
+27,Courtney Lawes,No 4 Lock,"['Feb 23, 1989', '2.01m', '115kg']",CA Brive,36,2.01,115,12
+30,Geoffrey Malaterre,Blindside Flanker,"['Aug 9, 2005', '1.84m', '87kg']",CA Brive,20,1.84,87,12
+31,Retief Marais,Blindside Flanker,"['Jul 20, 1995', '1.91m', '104kg']",CA Brive,30,1.91,104,12
+32,Samuel Maximin,Blindside Flanker,"['Apr 30, 2001', '2.00m', '100kg']",CA Brive,24,2.00,100,12
+33,Konstantine Mikautadze,No 5 Lock,"['Jul 1, 1991', '2.00m', '130kg']",CA Brive,34,2.00,130,12
+34,Ross Moriarty,No. 8,"['Apr 18, 1994', '1.88m', '103kg']",CA Brive,31,1.88,103,12
+35,Matias Moroni,Outside Centre,"['Mar 29, 1991', '1.85m', '92kg']",CA Brive,34,1.85,92,12
+36,Omar Odishvili,Loosehead Prop,"['Feb 7, 1997', '1.88m', '119kg']",CA Brive,28,1.88,119,12
+37,Stuart Olding,Inside Centre,"['Mar 11, 1993', '1.78m', '90kg']",CA Brive,32,1.78,90,12
+38,Adrien Pelissie,Hooker,"['Aug 7, 1990', '1.80m', '105kg']",CA Brive,35,1.80,105,12
+39,Paul Pimienta,Outside Centre,"['Sep 12, 1995', '1.80m', '88kg']",CA Brive,30,1.80,88,12
+40,Tom Raffy,Fly Half,"['Jul 26, 2004', '1.82m', '83kg']",CA Brive,21,1.82,83,12
+41,Tevita Railevu,Right Wing,"['May 9, 1997', '1.75m', '98kg']",CA Brive,28,1.75,98,12
+42,Tevita Ratuva,Blindside Flanker,"['May 8, 1995', '1.98m', '122kg']",CA Brive,30,1.98,122,12
+43,Timilai Rokoduru,Right Wing,"['Jan 21, 1993', '1.92m', '107kg']",CA Brive,32,1.92,107,12
+44,Taniela Sadrugu,No 4 Lock,"['Jul 25, 1998', '1.91m', '106kg']",CA Brive,27,1.91,106,12
+45,Georges Shvelidze,Outside Centre,"['Oct 26, 2003', '1.83m', '90kg']",CA Brive,22,1.83,90,12
+46,Maxime Sidobre,Loosehead Prop,"['Oct 25, 1998', '1.76m', '85kg']",CA Brive,27,1.76,85,12
+47,Hendre Stassen,Blindside Flanker,"['Dec 29, 1997', '1.99m', '120kg']",CA Brive,28,1.99,120,12
+48,Wesley Tapueluelu,Loosehead Prop,"['Dec 3, 1999', '1.80m', '125kg']",CA Brive,26,1.80,125,12
+49,Sitaleki Timani,No 4 Lock,"['Sep 19, 1986', '2.03m', '120kg']",CA Brive,39,2.03,120,12
+50,Asaeli Tuivuaka,Left Wing,"['Dec 22, 1995', '1.75m', '103kg']",CA Brive,30,1.75,103,12
+51,Asier Usarraga Latierro,Openside Flanker,"['Dec 31, 1994', '1.90m', '110kg']",CA Brive,31,1.90,110,12
+52,Marcel van der Merwe,Tighthead Prop,"['Oct 4, 1990', '1.88m', '129kg']",CA Brive,35,1.88,129,12
+53,Renger van Eerten,No 4 Lock,"['Aug 2, 1999', '2.03m', '122kg']",CA Brive,26,2.03,122,12
+54,Hugo Verdu,Scrum Half,"['Oct 24, 1996', '1.76m', '85kg']",CA Brive,29,1.76,85,12
+55,Matthieu Voisin,Openside Flanker,"['May 16, 1996', '1.88m', '105kg']",CA Brive,29,1.88,105,12
+56,Rahboni Warren-Vosayaco,No. 8,"['Sep 28, 1995', '1.89m', '101kg']",CA Brive,30,1.89,101,12
+57,Thomas Zenon,Right Wing,"['Mar 4, 1999', '1.95m', '100kg']",CA Brive,26,1.95,100,12
+0,Antoine Abraham,Loosehead Prop,"['May 1, 1995', '1.85m', '109kg']",Oyonnax Rugby,30,1.85,109,17
+1,Bruce Alvarado,Inside Centre,"['Feb 13, 2003', '1.83m', '98kg']",Oyonnax Rugby,22,1.83,98,17
+2,Phoenix Battye,No 4 Lock,"['Sep 28, 1990', '2.04m', '114kg']",Oyonnax Rugby,35,2.04,114,17
+3,Thibault Berthaud,Loosehead Prop,"['Apr 12, 1997', '1.79m', '119kg']",Oyonnax Rugby,28,1.79,119,17
+4,Martin Bogado,Left Wing,"['Apr 29, 1998', '1.91m', '97kg']",Oyonnax Rugby,27,1.91,97,17
+5,Adrien Bordenave,Loosehead Prop,"['Jul 29, 1993', '1.86m', '116kg']",Oyonnax Rugby,32,1.86,116,17
+6,Justin Bouraux,Fly Half,"['Jun 18, 2002', '1.83m', '78kg']",Oyonnax Rugby,23,1.83,78,17
+8,Ethan Clusel,Fullback,"['Sep 14, 2003', '1.74m', '76kg']",Oyonnax Rugby,22,1.74,76,17
+9,Antonin Corso,No 4 Lock,"['Apr 9, 2004', '1.90m', '103kg']",Oyonnax Rugby,21,1.90,103,17
+11,Souleymane Coulibaly,Left Wing,"['Jan 21, 2002', '1.86m', '85kg']",Oyonnax Rugby,23,1.86,85,17
+13,Yvan David,Scrum Half,"['Aug 19, 2002', '1.78m', '87kg']",Oyonnax Rugby,23,1.78,87,17
+14,Vincent Debaty,Loosehead Prop,"['Oct 2, 1981', '1.91m', '127kg']",Oyonnax Rugby,44,1.91,127,17
+15,Amedeo Di Pietro,Openside Flanker,"['Oct 13, 1993', '1.82m', '95kg']",Oyonnax Rugby,32,1.82,95,17
+16,Teddy Durand,Hooker,"['Oct 14, 1999', '1.80m', '102kg']",Oyonnax Rugby,26,1.80,102,17
+17,Joe El Abd,Blindside Flanker,"['Feb 23, 1980', '1.88m', '104kg']",Oyonnax Rugby,45,1.88,104,17
+18,Hugo Fabregue,No 5 Lock,"['Sep 3, 1992', '1.92m', '116kg']",Oyonnax Rugby,33,1.92,116,17
+19,Chris Farrell,Outside Centre,"['Mar 16, 1993', '1.91m', '110kg']",Oyonnax Rugby,32,1.91,110,17
+20,Paul Gadea,Inside Centre,"['Nov 13, 2001', '1.83m', '85kg']",Oyonnax Rugby,24,1.83,85,17
+21,Benjamin Geledan,Hooker,"['Apr 8, 1990', '1.87m', '104kg']",Oyonnax Rugby,35,1.87,104,17
+22,Loic Godener,No. 8,"['Aug 13, 1995', '1.88m', '116kg']",Oyonnax Rugby,30,1.88,116,17
+23,Rory Grice,No. 8,"['Apr 2, 1990', '1.90m', '108kg']",Oyonnax Rugby,35,1.90,108,17
+24,Hugo Hermet,Scrum Half,"['Aug 2, 2001', '1.90m', '95kg']",Oyonnax Rugby,24,1.90,95,17
+25,Zack Holmes,Fly Half,"['May 30, 1990', '1.75m', '84kg']",Oyonnax Rugby,35,1.75,84,17
+26,Daniel Ikpefan,Right Wing,"['Oct 18, 1993', '1.85m', '92kg']",Oyonnax Rugby,32,1.85,92,17
+27,Ewan Johnson,No 4 Lock,"['Jun 27, 1999', '2.03m', '120kg']",Oyonnax Rugby,26,2.03,120,17
+28,Beka Kakabadze,Loosehead Prop,"['Sep 7, 1995', '1.81m', '110kg']",Oyonnax Rugby,30,1.81,110,17
+29,Oliver Kebble,Loosehead Prop,"['Jun 18, 1992', '1.91m', '124kg']",Oyonnax Rugby,33,1.91,124,17
+30,Kevin Kornath,Blindside Flanker,"['Dec 27, 1996', '1.96m', '110kg']",Oyonnax Rugby,29,1.96,110,17
+31,Stephan Le Roux,No 5 Lock,"['Feb 25, 2000', '2.00m', '121kg']",Oyonnax Rugby,25,2.00,121,17
+32,Victor Lebas,No 4 Lock,"['Jun 9, 1993', '1.93m', '110kg']",Oyonnax Rugby,32,1.93,110,17
+33,Kevin Lebreton,No. 8,"['Jul 7, 1995', '1.78m', '94kg']",Oyonnax Rugby,30,1.78,94,17
+34,Manuel Leindekar Virginio,No 4 Lock,"['Apr 23, 1997', '2.03m', '115kg']",Oyonnax Rugby,28,2.03,115,17
+35,Vasil Lobzhanidze,Scrum Half,"['Oct 14, 1996', '1.75m', '78kg']",Oyonnax Rugby,29,1.75,78,17
+37,Lucas Mensa,Outside Centre,"['May 24, 1996', '1.83m', '94kg']",Oyonnax Rugby,29,1.83,94,17
+38,Antoine Miquel,Blindside Flanker,"['Jun 20, 1994', '1.92m', '103kg']",Oyonnax Rugby,31,1.92,103,17
+39,Theo Nanette,Scrum Half,"['Jan 12, 1993', '1.80m', '80kg']",Oyonnax Rugby,32,1.80,80,17
+40,Peniami Narisia,Openside Flanker,"['Jun 10, 1997', '1.81m', '95kg']",Oyonnax Rugby,28,1.81,95,17
+41,David Odiase,Blindside Flanker,"['Jan 19, 2003', '1.89m', '112kg']",Oyonnax Rugby,22,1.89,112,17
+42,Ali Oz,Tighthead Prop,"['Aug 28, 1995', '1.93m', '140kg']",Oyonnax Rugby,30,1.93,140,17
+43,Wandrille Picault,Blindside Flanker,"['Oct 4, 1994', '1.85m', '98kg']",Oyonnax Rugby,31,1.85,98,17
+44,Alexis Pisani,No 4 Lock,"['Oct 1, 2003', '1.78m', '84kg']",Oyonnax Rugby,22,1.78,84,17
+45,Karim Qadiri,Left Wing,"['Feb 16, 1996', '1.89m', '99kg']",Oyonnax Rugby,29,1.89,99,17
+46,Maëlan Rabut,Fullback,"['Aug 9, 1996', '1.94m', '92kg']",Oyonnax Rugby,29,1.94,92,17
+47,Veresa Tuqovu Ramototabua,Outside Centre,"['Jun 12, 2000', '1.95m', '101kg']",Oyonnax Rugby,25,1.95,101,17
+48,Jonathan Ruru,Scrum Half,"['Feb 2, 1993', '1.83m', '94kg']",Oyonnax Rugby,32,1.83,94,17
+49,Maxime Salles,Right Wing,"['Mar 21, 1997', '1.83m', '95kg']",Oyonnax Rugby,28,1.83,95,17
+50,Edward Sawailau,Left Wing,"['Apr 4, 1996', '1.82m', '102kg']",Oyonnax Rugby,29,1.82,102,17
+51,Dewald Senekal,No. 8,"['Jan 12, 1981', '1.99m', '119kg']",Oyonnax Rugby,44,1.99,119,17
+52,Chris Smith,Fly Half,"['Sep 9, 1994', '1.80m', '93kg']",Oyonnax Rugby,31,1.80,93,17
+53,Gavin Stark,Fullback,"['Dec 18, 1995', '1.84m', '94kg']",Oyonnax Rugby,30,1.84,94,17
+54,Darren Sweetnam,Right Wing,"['May 5, 1993', '1.81m', '105kg']",Oyonnax Rugby,32,1.81,105,17
+55,Paulo Tafili,Tighthead Prop,"['Feb 15, 1996', '1.83m', '127kg']",Oyonnax Rugby,29,1.83,127,17
+56,Afusipa Taumoepeau,Outside Centre,"['Jan 26, 1990', '1.84m', '100kg']",Oyonnax Rugby,35,1.84,100,17
+57,Christopher Vaotoa,Tighthead Prop,"['Nov 16, 1996', '1.85m', '138kg']",Oyonnax Rugby,29,1.85,138,17
+58,Cameron Wright,Scrum Half,"['Apr 20, 1994', '1.81m', '92kg']",Oyonnax Rugby,31,1.81,92,17
+0,Esteban Abadie,Blindside Flanker,"['Dec 1, 1997', '1.88m', '100kg']",France,28,1.88,100,19
+1,Dorian Aldegheri,Tighthead Prop,"['Aug 4, 1993', '1.80m', '119kg']",France,32,1.80,119,19
+2,Gregory Alldritt,No. 8,"['Mar 23, 1997', '1.91m', '113kg']",France,28,1.91,113,19
+3,Uini Atonio,Tighthead Prop,"['Mar 26, 1990', '1.96m', '145kg']",France,35,1.96,145,19
+4,Theo Attissogbe,Fullback,"['Nov 19, 2004', '1.81m', '79kg']",France,21,1.81,79,19
+5,Hugo Auradou,No 5 Lock,"['Jul 20, 2003', '2.00m', '100kg']",France,22,2.00,100,19
+6,Cyril Baille,Loosehead Prop,"['Sep 15, 1993', '1.82m', '116kg']",France,32,1.82,116,19
+7,Pierre-Louis Barassi,Outside Centre,"['Apr 22, 1998', '1.87m', '102kg']",France,27,1.87,102,19
+8,Leo Barre,Fly Half,"['Aug 20, 2002', '1.89m', '89kg']",France,23,1.89,89,19
+9,Giorgi Beria,Tighthead Prop,"['Nov 11, 1999', '1.75m', '108kg']",France,26,1.75,108,19
+10,Louis Bielle-Biarrey,Left Wing,"['Jun 19, 2003', '1.84m', '79kg']",France,22,1.84,79,19
+11,Paul Boudehent,Blindside Flanker,"['Nov 21, 1999', '1.92m', '99kg']",France,26,1.92,99,19
+12,Joshua Brennan,No 5 Lock,"['Nov 28, 2001', '1.99m', '114kg']",France,24,1.99,114,19
+13,Georges-Henri Colombe,Tighthead Prop,"['Apr 9, 1998', '1.93m', '142kg']",France,27,1.93,142,19
+14,Francois Cros,Blindside Flanker,"['Mar 25, 1994', '1.90m', '107kg']",France,31,1.90,107,19
+15,Nicolas Depoortere,Outside Centre,"['Jan 1, 2003', '1.93m', '87kg']",France,22,1.93,87,19
+16,Gael Drean,Left Wing,"['Oct 22, 2000', '1.84m', '84kg']",France,25,1.84,84,19
+17,Antoine Dupont,Scrum Half,"['Nov 15, 1996', '1.74m', '85kg']",France,29,1.74,85,19
+18,Thibaud Flament,Blindside Flanker,"['Apr 29, 1997', '2.03m', '116kg']",France,28,2.03,116,19
+19,Antoine Frisch,Inside Centre,"['Jun 1, 1996', '1.88m', '100kg']",France,29,1.88,100,19
+20,Emilien Gailleton,Fullback,"['Jul 13, 2003', '1.85m', '89kg']",France,22,1.85,89,19
+21,Fabien Galthié,Head Coach,"['Mar 20, 1969', '1.80m', '85kg']",France,56,1.80,85,19
+22,Marko Gazzotti,Blindside Flanker,"['Sep 24, 2004', '1.92m', '107kg']",France,21,1.92,107,19
+23,Jean-Baptiste Gros,Loosehead Prop,"['May 29, 1999', '1.95m', '110kg']",France,26,1.95,110,19
+24,Mickael Guillard,No 5 Lock,"['Dec 10, 2000', '1.97m', '112kg']",France,25,1.97,112,19
+25,Matthias Halagahu,No 4 Lock,"['Aug 15, 2001', '1.94m', '113kg']",France,24,1.94,113,19
+26,Raphael Ibanez,Coach,"['Feb 17, 1973', '1.78m', '100kg']",France,52,1.78,100,19
+27,Matthieu Jalibert,Fly Half,"['Nov 6, 1998', '1.84m', '84kg']",France,27,1.84,84,19
+28,Oscar Jegou,Left Wing,"['May 31, 2003', '1.88m', '84kg']",France,22,1.88,84,19
+29,Anthony Jelonch,No. 8,"['Jul 28, 1996', '1.93m', '105kg']",France,29,1.93,105,19
+31,Maxime Lamothe,Hooker,"['Oct 3, 1998', '1.83m', '109kg']",France,27,1.83,109,19
+32,Nolann Le Garrec,Scrum Half,"['May 14, 2002', '1.75m', '75kg']",France,23,1.75,75,19
+33,Maxime Lucu,Scrum Half,"['Jan 12, 1993', '1.77m', '91kg']",France,32,1.77,91,19
+34,Julien Marchand,Hooker,"['Oct 5, 1995', '1.81m', '108kg']",France,30,1.81,108,19
+35,Peato Mauvaka,Hooker,"['Jan 10, 1997', '1.84m', '124kg']",France,28,1.84,124,19
+36,Emmanuel Meafou,No 5 Lock,"['Jul 12, 1998', '2.03m', '140kg']",France,27,2.03,140,19
+37,Yoram Moefana,Outside Centre,"['Jul 18, 2000', '1.82m', '97kg']",France,25,1.82,97,19
+38,Noah Nene,Outside Centre,"['Oct 14, 2004', '1.87m', '95kg']",France,21,1.87,95,19
+39,Romain Ntamack,Fly Half,"['May 1, 1999', '1.86m', '86kg']",France,26,1.86,86,19
+40,Damian Penaud,Right Wing,"['Sep 25, 1996', '1.92m', '94kg']",France,29,1.92,94,19
+41,Dany Priso,Loosehead Prop,"['Jan 2, 1994', '1.82m', '110kg']",France,31,1.82,110,19
+42,Thomas Ramos,Fullback,"['Jul 23, 1995', '1.78m', '87kg']",France,30,1.78,87,19
+43,Alexandre Roumat,No. 8,"['Jun 24, 1997', '1.98m', '105kg']",France,28,1.98,105,19
+44,William Servat,Hooker,"['Sep 12, 1978', '1.83m', '103kg']",France,47,1.83,103,19
+45,Rabah Slimani,Tighthead Prop,"['Oct 18, 1989', '1.78m', '118kg']",France,36,1.78,118,19
+46,Romain Taofifenua,No 4 Lock,"['Sep 14, 1990', '2.03m', '135kg']",France,35,2.03,135,19
+47,Gabin Villiere,Right Wing,"['Dec 13, 1995', '1.80m', '93kg']",France,30,1.80,93,19
+0,Gregory Alldritt,No. 8,"['Mar 23, 1997', '1.91m', '113kg']",Stade Rochelais,28,1.91,113,11
+2,Uini Atonio,Tighthead Prop,"['Mar 26, 1990', '1.96m', '145kg']",Stade Rochelais,35,1.96,145,11
+3,Thomas Berjon,Scrum Half,"['Apr 12, 1998', '1.71m', '76kg']",Stade Rochelais,27,1.71,76,11
+5,Nathan Bollengier,Fly Half,"['Jan 18, 2004', '1.79m', '82kg']",Stade Rochelais,21,1.79,82,11
+6,Hoani Bosmorin,Fullback,"['Dec 27, 2004', '1.84m', '85kg']",Stade Rochelais,21,1.84,85,11
+7,Levani Botia,Inside Centre,"['Apr 28, 1988', '1.82m', '103kg']",Stade Rochelais,37,1.82,103,11
+8,Paul Boudehent,Blindside Flanker,"['Nov 21, 1999', '1.92m', '99kg']",Stade Rochelais,26,1.92,99,11
+9,Pierre Bourgarit,Hooker,"['Sep 12, 1997', '1.84m', '105kg']",Stade Rochelais,28,1.84,105,11
+11,Judicael Cancoriet,Blindside Flanker,"['Apr 25, 1996', '1.94m', '116kg']",Stade Rochelais,29,1.94,116,11
+13,Georges-Henri Colombe,Tighthead Prop,"['Apr 9, 1998', '1.93m', '142kg']",Stade Rochelais,27,1.93,142,11
+14,Jonathan Danty,Outside Centre,"['Oct 7, 1992', '1.81m', '110kg']",Stade Rochelais,33,1.81,110,11
+15,Simeli Daunivucu,Fullback,"['Feb 12, 2005', '1.80m', '85kg']",Stade Rochelais,20,1.80,85,11
+16,Ultan Dillane,No 5 Lock,"['Nov 9, 1993', '1.98m', '115kg']",Stade Rochelais,32,1.98,115,11
+17,Kane Douglas,No 4 Lock,"['Jun 1, 1989', '2.02m', '119kg']",Stade Rochelais,36,2.02,119,11
+18,Brice Dulin,Fullback,"['Apr 13, 1990', '1.76m', '82kg']",Stade Rochelais,35,1.76,82,11
+19,Jules Favre,Inside Centre,"['Mar 22, 1999', '1.81m', '93kg']",Stade Rochelais,26,1.81,93,11
+21,Matthias Haddad,Openside Flanker,"['Mar 10, 2001', '1.92m', '99kg']",Stade Rochelais,24,1.92,99,11
+22,Antoine Hastoy,Fly Half,"['Jun 4, 1997', '1.80m', '86kg']",Stade Rochelais,28,1.80,86,11
+23,Simon Huchet,No 5 Lock,"['Apr 7, 2004', '1.97m', '110kg']",Stade Rochelais,21,1.97,110,11
+24,Oscar Jegou,Left Wing,"['May 31, 2003', '1.88m', '84kg']",Stade Rochelais,22,1.88,84,11
+25,Alexandre Kaddouri,Tighthead Prop,"['Dec 12, 2003', '1.97m', '135kg']",Stade Rochelais,22,1.97,135,11
+26,Charles Kante-Samba,No 5 Lock,"['Feb 8, 2005', '2.00m', '115kg']",Stade Rochelais,20,2.00,115,11
+27,Tawera Kerr-Barlow,Scrum Half,"['Aug 15, 1990', '1.87m', '91kg']",Stade Rochelais,35,1.87,91,11
+28,Aleksandze Kuntelia,Tighthead Prop,"['Jun 26, 2002', '1.98m', '135kg']",Stade Rochelais,23,1.98,135,11
+30,Tolu Latu,Hooker,"['Feb 23, 1993', '1.78m', '118kg']",Stade Rochelais,32,1.78,118,11
+31,Thomas Lavault,No 4 Lock,"['May 3, 1999', '1.98m', '105kg']",Stade Rochelais,26,1.98,105,11
+32,Quentin Lespiaucq,Hooker,"['Feb 16, 1995', '1.80m', '102kg']",Stade Rochelais,30,1.80,102,11
+34,Dillyn Leyds,Fly Half,"['Sep 12, 1992', '1.85m', '85kg']",Stade Rochelais,33,1.85,85,11
+35,Jack Nowell,Right Wing,"['Apr 11, 1993', '1.81m', '98kg']",Stade Rochelais,32,1.81,98,11
+36,Ronan O'Gara,Head Coach,"['Mar 7, 1977', '1.83m', '84kg']",Stade Rochelais,48,1.83,84,11
+37,Thierry Paiva,Loosehead Prop,"['Nov 19, 1995', '1.84m', '115kg']",Stade Rochelais,30,1.84,115,11
+38,Louis Penverne,Loosehead Prop,"['Feb 22, 2003', '1.87m', '103kg']",Stade Rochelais,22,1.87,103,11
+39,Raymond Rhule,Right Wing,"['Nov 6, 1992', '1.80m', '92kg']",Stade Rochelais,33,1.80,92,11
+41,Donnacha Ryan,No 5 Lock,"['Dec 11, 1983', '2.01m', '115kg']",Stade Rochelais,42,2.01,115,11
+42,Joel Sclavi,Tighthead Prop,"['Jun 25, 1994', '1.90m', '144kg']",Stade Rochelais,31,1.90,144,11
+43,Ulupano Seuteni,Inside Centre,"['Dec 9, 1993', '1.85m', '100kg']",Stade Rochelais,32,1.85,100,11
+44,Will Skelton,No 5 Lock,"['May 3, 1992', '2.03m', '145kg']",Stade Rochelais,33,2.03,145,11
+45,Karl Sorin,Loosehead Prop,"['Aug 7, 2003', '1.86m', '135kg']",Stade Rochelais,22,1.86,135,11
+46,Gurthro Steenkamp,Loosehead Prop,"['Jun 12, 1981', '1.86m', '125kg']",Stade Rochelais,44,1.86,125,11
+48,Teddy Thomas,Right Wing,"['Sep 18, 1993', '1.85m', '94kg']",Stade Rochelais,32,1.85,94,11
+49,Suliasi Vunivalu,Right Wing,"['Nov 27, 1995', '1.92m', '99kg']",Stade Rochelais,30,1.92,99,11
+50,Reda Wardi,Loosehead Prop,"['Aug 2, 1995', '1.85m', '110kg']",Stade Rochelais,30,1.85,110,11
+51,Ihaia West,Fly Half,"['Jan 16, 1992', '1.75m', '84kg']",Stade Rochelais,33,1.75,84,11
+0,Mathieu Acebes,Fullback,"['Aug 1, 1987', '1.82m', '90kg']",Biarritz Olympique PB,38,1.82,90,15
+2,Johan Aliouat,No 4 Lock,"['Jan 22, 1993', '1.97m', '135kg']",Biarritz Olympique PB,32,1.97,135,15
+4,Yohan Artru,Left Wing,"['May 31, 1992', '1.78m', '83kg']",Biarritz Olympique PB,33,1.78,83,15
+5,Kerman Aurrekoetxea,Scrum Half,"['May 4, 2000', '1.77m', '78kg']",Biarritz Olympique PB,25,1.77,78,15
+6,Steeve Barry,Scrum Half,"['Apr 18, 1991', '1.81m', '89kg']",Biarritz Olympique PB,34,1.81,89,15
+7,Yohan Beheregaray,Hooker,"['May 29, 1996', '1.80m', '102kg']",Biarritz Olympique PB,29,1.80,102,15
+9,Arthur Bonneval,Left Wing,"['May 31, 1995', '1.82m', '88kg']",Biarritz Olympique PB,30,1.82,88,15
+10,Boris Bouhraoua,Head Coach,"['May 4, 1984', '1.70m', '67kg']",Biarritz Olympique PB,41,1.70,67,15
+11,Gervais Cordin,Fullback,"['Dec 10, 1998', '1.72m', '73kg']",Biarritz Olympique PB,27,1.72,73,15
+12,Andy Cramond,No 4 Lock,"['Apr 15, 1994', '1.96m', '111kg']",Biarritz Olympique PB,31,1.96,111,15
+13,Sven D'Hooghe,No. 8,"['Mar 6, 1997', '2.01m', '110kg']",Biarritz Olympique PB,28,2.01,110,15
+14,Masivesi Dakuwaqa,Outside Centre,"['Feb 14, 1994', '1.89m', '122kg']",Biarritz Olympique PB,31,1.89,122,15
+15,Yann David,Outside Centre,"['Apr 15, 1988', '1.83m', '108kg']",Biarritz Olympique PB,37,1.83,108,15
+16,Thomas Dolhagaray,Fly Half,"['May 21, 2000', '1.82m', '83kg']",Biarritz Olympique PB,25,1.82,83,15
+17,Levi Douglas,No 4 Lock,"['Sep 1, 1995', '1.95m', '123kg']",Biarritz Olympique PB,30,1.95,123,15
+18,Cornell du Preez,No. 8,"['Mar 23, 1991', '1.92m', '108kg']",Biarritz Olympique PB,34,1.92,108,15
+19,Johnny Dyer,Blindside Flanker,"['Feb 6, 1992', '1.90m', '112kg']",Biarritz Olympique PB,33,1.90,112,15
+20,Giorgi Dzmanashvili,Tighthead Prop,"['Jun 16, 2002', '1.86m', '122kg']",Biarritz Olympique PB,23,1.86,122,15
+21,Zakaria El Fakir,Tighthead Prop,"['Jan 29, 1997', '1.80m', '112kg']",Biarritz Olympique PB,28,1.80,112,15
+22,Antoine Erbani,Blindside Flanker,"['Feb 7, 1990', '1.92m', '106kg']",Biarritz Olympique PB,35,1.92,106,15
+23,Piula Fa'asalele,No 5 Lock,"['Jan 22, 1988', '1.96m', '120kg']",Biarritz Olympique PB,37,1.96,120,15
+24,Baptiste Fariscot,Fullback,"['Nov 15, 2001', '1.81m', '76kg']",Biarritz Olympique PB,24,1.81,76,15
+25,Bastien Guillemin,Fullback,"['Sep 12, 1997', '1.85m', '90kg']",Biarritz Olympique PB,28,1.85,90,15
+26,Thomas Hebert,Blindside Flanker,"['Feb 18, 2000', '1.78m', '92kg']",Biarritz Olympique PB,25,1.78,92,15
+27,Aitor Hourcade,No. 8,"['Feb 13, 2001', '1.90m', '103kg']",Biarritz Olympique PB,24,1.90,103,15
+28,Ekain Imaz,Loosehead Prop,"['Dec 7, 2002', '1.85m', '90kg']",Biarritz Olympique PB,23,1.85,90,15
+29,Kylian Jaminet,Fly Half,"['Dec 28, 1995', '1.91m', '96kg']",Biarritz Olympique PB,30,1.91,96,15
+30,Jessy Jegerlhener,Blindside Flanker,"['May 27, 1997', '1.90m', '97kg']",Biarritz Olympique PB,28,1.90,97,15
+31,Jonathan Joseph,Outside Centre,"['May 21, 1991', '1.83m', '91kg']",Biarritz Olympique PB,34,1.83,91,15
+32,Zach Kibirige,Left Wing,"['Oct 28, 1994', '1.79m', '83kg']",Biarritz Olympique PB,31,1.79,83,15
+33,Mehdi Kourdes,Hooker,"['Mar 9, 2001', '1.92m', '141kg']",Biarritz Olympique PB,24,1.92,141,15
+34,Tevita Kuridrani,Outside Centre,"['Mar 31, 1991', '1.92m', '102kg']",Biarritz Olympique PB,34,1.92,102,15
+36,Brendan Lebrun,Hooker,"['Jan 22, 1998', '1.81m', '110kg']",Biarritz Olympique PB,27,1.81,110,15
+37,Nafitalai Maafu,Openside Flanker,"['Jun 18, 1998', '2.01m', '110kg']",Biarritz Olympique PB,27,2.01,110,15
+38,Clément Martinez,Hooker,"['Mar 14, 1996', '1.81m', '100kg']",Biarritz Olympique PB,29,1.81,100,15
+40,Charlie Matthews,No 4 Lock,"['Jul 23, 1992', '2.01m', '120kg']",Biarritz Olympique PB,33,2.01,120,15
+41,Robin McClintock,Outside Centre,"['Feb 1, 2002', '1.81m', '86kg']",Biarritz Olympique PB,23,1.81,86,15
+43,Tyler Morgan,Outside Centre,"['Sep 11, 1995', '1.86m', '104kg']",Biarritz Olympique PB,30,1.86,104,15
+44,Adrian Motoc,No 5 Lock,"['Jul 11, 1996', '1.97m', '114kg']",Biarritz Olympique PB,29,1.97,114,15
+47,Giorgi Nutsubidze,Loosehead Prop,"['Nov 11, 1998', '1.78m', '116kg']",Biarritz Olympique PB,27,1.78,116,15
+48,Pierre Pages,Scrum Half,"['May 16, 1990', '1.80m', '78kg']",Biarritz Olympique PB,35,1.80,78,15
+49,Ilian Perraux,Fly Half,"['Apr 4, 1992', '1.83m', '88kg']",Biarritz Olympique PB,33,1.83,88,15
+50,Alexandre Plantier,Left Wing,"['Dec 19, 1991', '1.80m', '110kg']",Biarritz Olympique PB,34,1.80,110,15
+51,Brieuc Plessis-Couillaud,Outside Centre,"['Mar 19, 1994', '1.80m', '93kg']",Biarritz Olympique PB,31,1.80,93,15
+52,Edgar Retiere,Fly Half,"['Jan 29, 2001', '1.75m', '81kg']",Biarritz Olympique PB,24,1.75,81,15
+54,Enzo Selponi,Fly Half,"['Jun 16, 1993', '1.85m', '85kg']",Biarritz Olympique PB,32,1.85,85,15
+55,Nodari Shengelia,Tighthead Prop,"['Aug 11, 2002', '1.92m', '127kg']",Biarritz Olympique PB,23,1.92,127,15
+57,Killian Taofifenua,Hooker,"['Jul 20, 2000', '1.78m', '103kg']",Biarritz Olympique PB,25,1.78,103,15
+58,Filimo Taofifenua,Blindside Flanker,"['Oct 15, 1993', '1.88m', '100kg']",Biarritz Olympique PB,32,1.88,100,15
+60,Luka Tchelidze,Tighthead Prop,"['Aug 1, 2000', '1.81m', '130kg']",Biarritz Olympique PB,25,1.81,130,15
+61,Luteru Tolai,Hooker,"['Jun 1, 1998', '1.79m', '119kg']",Biarritz Olympique PB,27,1.79,119,15
+63,Solomone Tukuafu,Tighthead Prop,"['Sep 13, 1996', '1.86m', '132kg']",Biarritz Olympique PB,29,1.86,132,15
+66,Francois Vergnaud,Inside Centre,"['Oct 8, 1997', '1.90m', '103kg']",Biarritz Olympique PB,28,1.90,103,15
